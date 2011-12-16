@@ -13,6 +13,8 @@ Thumbs.db
 
 ######################
 
+config/databases.yml
+
 .idea
 .idea/*
 cache/*
