@@ -111,7 +111,7 @@ all:
 
 
     ### Apostrophe Site Title
-    title_prefix: 'Apostrophe Sandbox | '
+    title_prefix: 'Ni !|¡ '
     title_suffix: ''
 
 
@@ -155,14 +155,14 @@ all:
       - aInsetImage
       - aVideo
       - aSlideshow
-      - aSmartSlideshow
-      - aFile
+#      - aSmartSlideshow
+#      - aFile
       - aAudio
-      - aFeed
+#      - aFeed
       - aButton
       - aBlog
       - aEvent
-      - aPeople
+#      - aPeople
       - aRawHTML
 
     # standard_area_slot_options:           # Standard Area Component : Set Default Slot Options for ALL slots
