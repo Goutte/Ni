@@ -299,6 +299,7 @@ color: #c6ec8e;
   width: 620px; /*(700-38-42)*/
   padding: 0px 38px 0px 42px;
   text-align: justify;
+  overflow:  auto;
 }
 
 #bx_body p {
