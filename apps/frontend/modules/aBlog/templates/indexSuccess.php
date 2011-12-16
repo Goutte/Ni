@@ -8,11 +8,11 @@
 <?php slot('body_class') ?>a-blog <?php echo $sf_params->get('module'); ?> <?php echo $sf_params->get('action') ?><?php end_slot() ?>
 
 <?php slot('a-subnav') ?>
-	<div class="a-ui a-subnav-wrapper blog clearfix">
-		<div class="a-subnav-inner">
-	    <?php include_component('aBlog', 'sidebar', array('params' => $params, 'dateRange' => $dateRange, 'info' => $info, 'url' => 'aBlog/index', 'searchLabel' => a_('Search Posts'), 'newLabel' => a_('New Post'), 'newModule' => 'aBlogAdmin', 'newComponent' => 'newPost')) ?>
-	  </div>
-	</div>
+<!--	<div class="a-ui a-subnav-wrapper blog clearfix">-->
+<!--		<div class="a-subnav-inner">-->
+<!--	    --><?php ////include_component('aBlog', 'sidebar', array('params' => $params, 'dateRange' => $dateRange, 'info' => $info, 'url' => 'aBlog/index', 'searchLabel' => a_('Search Posts'), 'newLabel' => a_('New Post'), 'newModule' => 'aBlogAdmin', 'newComponent' => 'newPost')) ?>
+<!--	  </div> -->
+<!--	</div>-->
 <?php end_slot() ?>
 
 <div id="a-blog-main" class="a-blog-main clearfix">
@@ -44,6 +44,7 @@
 					),
 				), 
 			)) ?>
+    <?php include_component('aBlog', 'topbar', array('params' => $params, 'newLabel' => a_('New Post'), 'newModule' => 'aBlogAdmin', 'newComponent' => 'newPost')) ?>
 		<?php endif ?>
   	<?php include_partial('aBlog/filters', array('type' => a_('post'), 'typePlural' => a_('posts'),  'url' => 'aBlog/index', 'count' => $pager->count(), 'params' => $params)) ?>
 	</div>

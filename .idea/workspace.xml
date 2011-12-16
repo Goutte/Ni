@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5f1cb77-e5a1-444f-ada0-280ea6b268f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_meta.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_singleColumnTemplate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/showSuccess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/frontend/modules/aBlog/actions/components.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_topbar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/indexSuccess.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/frontend/modules/a/templates/defaultTemplate.php" afterPath="$PROJECT_DIR$/apps/frontend/modules/a/templates/defaultTemplate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/frontend/templates/layout.php" afterPath="$PROJECT_DIR$/apps/frontend/templates/layout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/style.css" afterPath="$PROJECT_DIR$/web/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlog/templates/indexSuccess.php" afterPath="$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlog/templates/indexSuccess.php" />
     </list>
     <ignored path="ni.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,15 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="layout.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/frontend/templates/layout.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="7" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="defaultTemplate.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/frontend/modules/a/templates/defaultTemplate.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,28 +38,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="showSuccess.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlog/templates/showSuccess.php">
+      <file leaf-file-name="indexSuccess.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlog/templates/indexSuccess.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="8" selection-start="1796" selection-end="1796" vertical-scroll-proportion="-18.75">
+            <state line="33" column="32" selection-start="1443" selection-end="1443" vertical-scroll-proportion="-13.75">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="showSuccess.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/showSuccess.php">
+      <file leaf-file-name="indexSuccess.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/indexSuccess.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="12" selection-start="1481" selection-end="1481" vertical-scroll-proportion="-6.25">
+            <state line="46" column="41" selection-start="1890" selection-end="1890" vertical-scroll-proportion="-17.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_post.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_topbar.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_topbar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="59" selection-start="2324" selection-end="2324" vertical-scroll-proportion="-18.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseaBlogComponents.class.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/apostropheBlogPlugin/lib/actions/BaseaBlogComponents.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="410" selection-end="808" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="components.class.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/actions/components.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="47" selection-start="255" selection-end="255" vertical-scroll-proportion="0.17123288">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_post.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="11" selection-start="693" selection-end="693" vertical-scroll-proportion="0.2238806">
+            <state line="15" column="16" selection-start="717" selection-end="717" vertical-scroll-proportion="-9.375">
               <folding />
             </state>
           </provider>
@@ -86,40 +101,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_meta.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_meta.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="24" selection-start="142" selection-end="200" vertical-scroll-proportion="-3.125">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="schema.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugins/apostropheBlogPlugin/config/doctrine/schema.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="12" selection-start="70" selection-end="78" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/apostrophePlugin/modules/a/templates/layout.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="117" column="18" selection-start="5187" selection-end="5187" vertical-scroll-proportion="-15.0">
-              <folding>
-                <marker date="1322015279000" expanded="true" signature="1460:2056" placeholder="..." />
-                <marker date="1322015279000" expanded="true" signature="1494:2036" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="301" column="18" selection-start="5193" selection-end="5193" vertical-scroll-proportion="-14.6">
               <folding />
             </state>
           </provider>
@@ -147,9 +132,14 @@
         <option value="$PROJECT_DIR$/apps/frontend/modules/a/templates/defaultTemplate.php" />
         <option value="$PROJECT_DIR$/web/css/style.css" />
         <option value="$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlog/templates/showSuccess.php" />
-        <option value="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/showSuccess.php" />
         <option value="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_singleColumnTemplate.php" />
         <option value="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_post.php" />
+        <option value="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/showSuccess.php" />
+        <option value="$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlog/templates/indexSuccess.php" />
+        <option value="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/indexSuccess.php" />
+        <option value="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_topbar.php" />
+        <option value="$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlog/actions/components.class.php" />
+        <option value="$PROJECT_DIR$/apps/frontend/modules/aBlog/actions/components.class.php" />
       </list>
     </option>
   </component>
@@ -522,6 +512,10 @@
               <option name="myItemId" value="aBlog" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -699,6 +693,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="aBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="a" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -823,6 +847,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps/frontend/modules/aBlog/actions" />
       <recent name="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates" />
       <recent name="$PROJECT_DIR$/web" />
       <recent name="$PROJECT_DIR$/config" />
@@ -923,7 +948,7 @@
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding news" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAYOUT post !" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -943,95 +968,12 @@
     <MESSAGE value="Addind assets" />
     <MESSAGE value="Adding assets" />
     <MESSAGE value="Adding news" />
+    <MESSAGE value="LAYOUT post !" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/apps/frontend/config/settings.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/apostrophePlugin/modules/a/templates/defaultTemplate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="6" selection-start="224" selection-end="224" vertical-scroll-proportion="0.15873016">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/frontend/templates/layout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="7" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="301" column="18" selection-start="5193" selection-end="5193" vertical-scroll-proportion="-14.6">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlogSlot/templates/_normalView.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlogSingleSlot/actions/components.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlogSingleSlot/templates/_post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlog/templates/showSuccess.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="8" selection-start="1796" selection-end="1796" vertical-scroll-proportion="-18.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/showSuccess.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="12" selection-start="1481" selection-end="1481" vertical-scroll-proportion="-6.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/doctrine/schema.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/apostropheBlogPlugin/config/doctrine/schema.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="12" selection-start="70" selection-end="78" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/frontend/modules/a/templates/defaultTemplate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="103" selection-start="692" selection-end="692" vertical-scroll-proportion="-7.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/frontend/config/app.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="467" column="0" selection-start="18241" selection-end="18241" vertical-scroll-proportion="0.0">
@@ -1041,7 +983,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_meta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="24" selection-start="142" selection-end="200" vertical-scroll-proportion="-3.125">
+        <state line="8" column="7" selection-start="320" selection-end="320" vertical-scroll-proportion="0.13986014">
           <folding />
         </state>
       </provider>
@@ -1055,7 +997,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="11" selection-start="693" selection-end="693" vertical-scroll-proportion="0.2238806">
+        <state line="15" column="16" selection-start="717" selection-end="717" vertical-scroll-proportion="-9.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlog/templates/showSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="8" selection-start="1796" selection-end="1796" vertical-scroll-proportion="0.5244755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/showSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="12" selection-start="1481" selection-end="1481" vertical-scroll-proportion="0.17482518">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/modules/a/templates/defaultTemplate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="103" selection-start="692" selection-end="692" vertical-scroll-proportion="-7.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlog/templates/indexSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="32" selection-start="1443" selection-end="1443" vertical-scroll-proportion="-13.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/indexSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="41" selection-start="1890" selection-end="1890" vertical-scroll-proportion="-17.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/templates/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="7" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/apostrophePlugin/modules/a/templates/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="18" selection-start="5187" selection-end="5187" vertical-scroll-proportion="-15.0">
+          <folding>
+            <marker date="1322015279000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1322015279000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="301" column="18" selection-start="5193" selection-end="5193" vertical-scroll-proportion="-14.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/apostropheBlogPlugin/lib/actions/BaseaBlogComponents.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="410" selection-end="808" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlog/actions/components.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="259" selection-end="259" vertical-scroll-proportion="0.18835616">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_topbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="59" selection-start="2324" selection-end="2324" vertical-scroll-proportion="-18.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/actions/components.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="47" selection-start="255" selection-end="255" vertical-scroll-proportion="0.17123288">
           <folding />
         </state>
       </provider>
