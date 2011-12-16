@@ -1,6 +1,6 @@
-# Apostrophe
+# NINJA !
 
-Welcome to Apostrophe! 
-
-For complete and extensive documentation of Apostrophe please visit
-[trac.apostrophenow.org](http://trac.apostrophenow.org/wiki/ManualOverview). There you'll find a complete manual organized much more conveniently than is possible with a README file. Neat.
+php symfony cc
+php symfony doctrine:build --all
+php symfony doctrine:data-load data/fixtures
+php symfony cc
