@@ -1,0 +1,391 @@
+@charset "utf-8";
+
+/***************/
+/** GENERALES **/
+/***************/
+
+body {
+  margin: 0px;
+  background: #000 url(imgs/ni_bck.jpg) top center no-repeat; 
+  color: #d7e0bc;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 12px;
+}
+
+* {
+	margin: 0px;
+  padding: 0px; 
+}
+
+a {
+	color: #b7e771;
+  text-decoration: underline;
+}
+
+p {
+  margin: 0px; /* Hack anti disparition de background */
+  padding: 25px 0px 15px 0px;
+}
+
+h2 {
+	color: #b7e771;
+  font-size: 15px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: normal;
+}
+
+.pink {
+	color: #d92471;
+  text-decoration: underline;
+}
+
+.separateur {
+	background: url(imgs/man_sep.png);
+  height: 1px;
+  width: 618px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+.txt_white {
+	color: white;
+}
+
+.clearboth
+{
+	clear: both; 
+}
+
+#ni_wrap
+{
+	width: 994px;
+  margin: auto; 
+}
+
+/**********/
+/** MENU **/
+/**********/
+
+#ni_menu {
+	background: url(imgs/menu_bck.png) top center no-repeat;
+  width: 994px;
+  height: 61px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 21px;
+  list-style: none;
+  -webkit-transition: all .25s ease-in-out; 
+  -moz-transition: all .25s ease-in-out; 
+  -o-transition: all .25s ease-in-out; 
+  transition: all .25s ease-in-out;
+}
+
+#ni_menu:hover {
+  background-position: 0px -4px;
+}
+
+.itm_cont {
+  width: 122px;
+  height: 61px;
+  float: left;
+  display: block;
+  background-image: url(imgs/menu_hover.png);
+  background-repeat: no-repeat;
+  background-position: 3px -61px;
+  /* On réduit la height plus vite que la bckg-pos pour éviter bug d'affichage */
+  -webkit-transition: background-position .25s ease-in-out, height .20s ease-in-out; 
+  -moz-transition: background-position .25s ease-in-out, height .20s ease-in-out;
+  -o-transition: background-position .25s ease-in-out, height .20s ease-in-out;
+  transition: background-position .25s ease-in-out, height .20s ease-in-out;
+  padding-top: 2px;
+}
+
+.itm_side {
+  width: 192px;
+  height: 24px;
+  float: left;
+  display: block;
+}
+
+.txt_menu_effect {
+  text-shadow: rgba(0, 0, 0, 0.6) 2px 4px 5px;
+  -webkit-transition: all .25s ease-in;
+  -moz-transition: all .25s ease-in;
+  -o-transition: all .25s ease-in;
+  transition: all .25s ease-in;
+}
+
+.itm_cont:hover {
+  background-position: 3px 0px;
+  cursor: pointer;
+}
+
+.itm_cont:hover .txt_menu_effect {
+  color: #ff2d8e;
+	-webkit-transform: rotate(-4deg); 
+	-moz-transform: rotate(-4deg);
+}
+
+.itm_cont:active .txt_menu_effect {
+  color: #ff3399;
+	-webkit-transform: rotate(4deg); 
+	-moz-transform: rotate(4deg);
+}
+
+.itm1 {
+color: #c6ec8e;
+}
+
+.itm2 {
+color: #b3db77;
+}
+
+.itm3 {
+color: #a3cd64;
+}
+
+.itm4 {
+color: #b3db77;
+}
+
+.itm5 {
+color: #c6ec8e;
+}
+
+/*************/
+/**** TOP ****/
+/*************/
+
+#top_wrapper
+{
+  width: 994px;
+  height: 346px;
+  position: relative; 
+}
+
+#ni_logo {
+  background: url(imgs/ni_logo.png);
+  height: 269px;
+  width: 125px; 
+  position: absolute;
+  top: 32px;
+  left: 38px;
+}
+
+/****************/
+/**** IMGBOX ****/
+/****************/
+
+#img_box {
+  background: url(imgs/imgbox_bck.png);
+  height: 274px;
+  width: 460px; 
+  position: absolute;
+  top: 28px;
+  left: 507px;		 
+}
+    
+.slide-images .slide-image, 
+.slide-images .slide-image img {
+	-moz-transition-duration: 1.5s;
+	-webkit-transition-duration: 1.5s;
+	-o-transition-duration: 1.5s;
+}
+
+.slide-images.transition-opacity .slide-image {
+	opacity: 0;
+	width: 0px;
+}
+.slide-images.transition-opacity .slide-image.current {
+	opacity: 1;
+	width: 460px;
+}
+
+.slide-images {
+	position: relative;
+	list-style: none;
+	padding: 0;
+	overflow: hidden;
+}
+.slide-images .slide-image {
+	position: absolute;
+}
+.slide-images .slide-image.current img {
+	z-index: 12;
+}
+.slide-images .slide-image.current span {
+	z-index: 13;
+}
+.slide-images .slide-image img {
+	z-index: 2;
+}
+.slide-images .slide-image span {
+	position: absolute;
+	right: 0;
+	bottom: 4px;
+	padding: 5px 10px;
+	color: rgba(255,255,255,0.8);
+	font-weight: bold;
+	font-size: 14px;
+	background-color: rgba(0,0,0,0.3);
+	-moz-border-radius: 5px 0 0 0;
+	-webkit-border-radius: 5px 0 0 0;
+	z-index: 3;
+}
+
+#demoSliderContainer .options {
+	display: none;
+}
+
+#demoSliderContainer {
+	overflow: auto;
+	width: 460px;
+	height: 274px;
+}
+
+#demoSlider {
+	height: 272px;
+	width: 458px;
+	margin-top: 1px;
+	margin-left: 1px;
+}
+
+#options {
+	display: none;
+}
+
+#img_box #cache {
+  background: url(imgs/imgbox_cache.png) left center no-repeat;
+  height: 274px;
+  width: 460px; 
+  position: absolute;
+  z-index: 2;
+}
+
+#img_box #pic {
+  background: url(imgs/pics/ni_scene.jpg); /* Cette image devra changer dynamiquement ! */
+  height: 274px;
+  width: 460px; 
+  position: absolute;
+  z-index: 1;
+  display: none;
+}
+
+/*************/
+/** CONTENT **/
+/*************/
+
+#main_box {
+	width: 700px;
+  float: left; 
+  margin: -2px 0px 0px 5px;
+}
+
+.nws_time {
+	font-family: Verdana, Geneva, sans-serif;
+  font-size: 9px;
+  color: #bfbfbf;
+  font-weight: normal;
+}
+
+#main_box #bx_top {
+	background: url(imgs/niouzes_head.png);
+  height: 62px;
+  width: 700px;
+}
+
+#main_box #bx_body {
+	background: url(imgs/main_box_bck.png);
+  width: 620px; /*(700-38-42)*/
+  padding: 0px 38px 0px 42px;
+  text-align: justify;
+}
+
+#bx_body p {
+  margin: 0px; /* Hack anti disparition de background */
+  padding: 10px 0px 10px 0px;	 
+}
+
+#main_box #bx_bottom {
+	background: url(imgs/main_box_btm.png);
+  height: 20px;
+  width: 700px;
+}
+
+#rgt_col {
+	width: 243px; 
+  float: left;
+  margin-top: 11px;
+  margin-left: 21px;
+}
+
+/** RGT BOXES **/
+
+.rgt_box_top {
+  height: 35px;
+}
+
+.rgt_box_body {
+ 	background: url(imgs/rgtbox_body.png) bottom no-repeat;
+  padding: 20px 20px 15px 20px;
+  color: #f3ffe0;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/** CONCERT BOX **/
+
+#rgt_conc {
+  background: url(imgs/cncrt_head.png);
+  height: 35px;
+}
+
+/** MUSIC BOX **/
+
+#rgt_msc {
+  background: url(imgs/msc_head.png);
+  height: 35px;
+}
+
+/** SOCIAL BOX **/
+
+#rgt_scl {
+  background: url(imgs/scl_head.png);
+  height: 35px;
+}
+
+.img_fb {
+	margin-bottom: 14px;
+  margin-top: 8px;
+  border: none;
+}
+
+.img_mysp {
+  border: none;
+}
+
+/************/
+/** FOOTER **/
+/************/
+
+#ni_btm {
+	width: 820px;
+  margin: 60px auto 50px auto;
+  text-align: center;
+}
+
+p.footer_txt {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 11px;
+  padding: 0px;
+}
+
+p.footer1 {
+  margin: 0px 0px 15px 0px;
+	color: #444c31;
+}
+
+p.footer2 {
+	color: #292c23;
+  margin: 0px;
+}

@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5f1cb77-e5a1-444f-ada0-280ea6b268f2" name="Default" comment="Properties Data">
+    <list default="true" id="b5f1cb77-e5a1-444f-ada0-280ea6b268f2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/font/fertigopro.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/alnice_head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/cncrt_head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/imgbox_bck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/imgbox_cache.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/imgbox_play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/main_box_bck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/main_box_btm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/man_sep.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/menu_bck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/menu_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/menu_hover_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/msc_head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/ni_bck.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/ni_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/niouzes_head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/pics/ni_ben.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/pics/ni_scene.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/rgtbox_body.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/rgtbx_bck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/rgtbx_btm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/scl_head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/soc_fb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/imgs/soc_mysp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ni.iws" />
@@ -28,7 +53,7 @@
       <file leaf-file-name="app.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/apps/frontend/config/app.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="456" column="22" selection-start="17732" selection-end="17732" vertical-scroll-proportion="0.25139666">
+            <state line="462" column="19" selection-start="18050" selection-end="18050" vertical-scroll-proportion="0.3519553">
               <folding />
             </state>
           </provider>
@@ -77,7 +102,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -117,7 +142,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -131,7 +156,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cache" />
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imgs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imgs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -233,6 +316,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
       <recent name="$PROJECT_DIR$/config" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -307,7 +391,7 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_NEW_TODO" value="true" />
     <option name="myTodoPanelSettings">
@@ -331,7 +415,7 @@
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="App YAML" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addind assets" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -347,6 +431,8 @@
     <MESSAGE value="Databases Data" />
     <MESSAGE value="Properties Data" />
     <MESSAGE value="App YAML" />
+    <MESSAGE value="TARACE" />
+    <MESSAGE value="Addind assets" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -373,9 +459,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/sf/sf_admin/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="21" selection-start="834" selection-end="834" vertical-scroll-proportion="0.37414965">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/apps/frontend/config/app.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="456" column="22" selection-start="17732" selection-end="17732" vertical-scroll-proportion="0.25139666">
+        <state line="462" column="19" selection-start="18050" selection-end="18050" vertical-scroll-proportion="0.3519553">
           <folding />
         </state>
       </provider>
