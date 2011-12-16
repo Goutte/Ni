@@ -1,0 +1,184 @@
+@import '../../../apostrophePlugin/web/css/a-helpers.less';
+
+.a-slot.aInsetImage
+{
+	.a-inset-image 
+	{ 
+		position: relative; 
+		img 
+		{ 
+			display: block; 
+		}
+	}
+	.topleft
+	{
+		.a-inset-image 
+		{ 
+			float: left; margin: 0 10px 5px 0; 
+		}
+	}
+	.topright
+	{
+		.a-inset-image 
+		{ 
+			float: right; margin: 0 0 5px 10px; 
+		}
+	}
+	.a-inset-image-title 
+	{ 
+		position: absolute; 
+		bottom: 0; left: 0; right: 0; 
+		margin: 0; padding: 5px; 
+		font-size: 11px; 
+		background: rgba(0,0,0,0.65); 
+		color: #fff; 
+	}
+} 
+
+.a-slot.aInsetArea
+{
+	.a-inset-area-container 
+	{ 
+		position: relative; 
+		padding: 10px; 
+		float: left; 
+		background: rgba(0,0,0,0.125); 
+		@a-border-radius(3px);
+	}
+	.topleft
+	{
+		.a-inset-area-container 
+		{ 
+			float: left; 
+			margin: 0 10px 5px 0; 
+		}
+	}
+	.topright 
+	{
+		.a-inset-area-container 
+		{ 
+			float: right; 
+			margin: 0 0 5px 10px; 
+		} 
+	}
+} 
+
+.a-insetimage > .icon { background-image: url(../images/a-icon-inset-image.png); }
+.alt .a-insetimage > .icon, .alt.a-insetimage > .icon { background-image: url(../images/a-icon-alt-inset-image.png); }
+
+.a-insetarea > .icon { background-image: url(../images/a-icon-inset-area.png); }
+.alt .a-insetarea > .icon, .alt.a-insetarea > .icon { background-image: url(../images/a-icon-alt-inset-area.png); }
+
+
+.a-slot.aContact
+{
+	margin-bottom:10px; 
+	
+	.a-slot-content
+	{
+		.a-contact 
+		{ 
+			float:left;
+			clear:both;
+			width:100%; 
+
+			.a-contact-image 
+			{ 
+				float:left;
+				width:120px;
+				margin-right:20px; 
+			}
+
+			.a-contact-description 
+			{ 
+				float:left;
+				width:340px; 
+				
+				p
+				{
+					margin-bottom: 10px;
+					
+					&:last-child
+					{
+						margin-bottom: 0;
+					}
+				}
+			}
+		}		
+	}
+}
+
+.a-slot.aAnchorTitle
+{
+	.aAnchor-icon
+	{
+		display: block;
+		float: left;
+		height: 16px;
+		width: 16px;
+		background: #222;
+		@a-border-radius(50%);
+		text-align: center;
+		line-height: 16px;
+		font-size: 9px;
+		color: #fff;
+		margin: -8px 0 0 0;
+		opacity: 1;
+		position: absolute;
+		top:50%; left:0;
+		opacity: 0.25;			
+	}
+	.a-anchor-title
+	{
+		position: relative;
+		.aAnchor-icon
+		{
+			margin: -8px 0 0 -25px;			
+		}
+	}
+	.a-edit-view
+	{
+		.a-slot-form-title
+		{
+			position: relative;
+			padding-left: 20px;
+		}
+	}
+	.a-normal-view
+	{
+		.logged-in-display-only
+		{
+			opacity: 0.5;
+			padding: 5px;
+			border: 1px dashed #ccc;
+		}
+	}
+}
+
+.aReusableSlideshow 
+{
+	/* Opaque background because slideshows tend not to have been designed with
+		the edit view in mind and it often finds itself in illegible territory. Push it
+		down a little so it doesn't muck up the edit button */
+	form
+	{
+		margin-top: 30px;
+		background-color: white;
+	}
+	.a-reuse-section
+	{
+		border-top: 1px solid #ccc;
+		padding-top: 10px;
+	}
+	
+	.a-label-or-reuse
+	{
+		margin-right: 5px;
+	}
+	
+	.a-form-indent
+	{
+		margin-top: 5px;
+		margin-left: 15px;
+	}
+}
