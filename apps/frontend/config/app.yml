@@ -60,13 +60,9 @@ all:
       - users
       - reorganize
 
-    i18n_switch: true                 # If true, there will be a language switcher in the Global Toolbar
+    i18n_switch: false                # If true, there will be a language switcher in the Global Toolbar
     i18n_languages:                   # List of supported languages for populating the dropdown menu
-      - en
       - fr
-      - de
-      - es
-      - ru
 
 
 
@@ -156,6 +152,7 @@ all:
     # Standard Area Component : http://trac.apostrophenow.org/wiki/ManualDesignersGuide#EasyShortcut:TheastandardAreaComponent
     standard_area_slots:                    # Standard Area Component : Specify which slots are included in the standard area
       - aRichText
+      - aInsetImage
       - aVideo
       - aSlideshow
       - aSmartSlideshow
