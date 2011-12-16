@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5f1cb77-e5a1-444f-ada0-280ea6b268f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/frontend/modules/aBlog/actions/components.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_topbar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/indexSuccess.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/cssxfire.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/ni.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlog/templates/indexSuccess.php" afterPath="$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlog/templates/indexSuccess.php" />
     </list>
     <ignored path="ni.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,10 +78,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="components.class.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="components.class.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/actions/components.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="47" selection-start="255" selection-end="255" vertical-scroll-proportion="0.17123288">
+            <state line="10" column="47" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.32534248">
               <folding />
             </state>
           </provider>
@@ -124,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/config/databases.yml" />
         <option value="$PROJECT_DIR$/config/properties.ini" />
         <option value="$PROJECT_DIR$/apps/frontend/config/app.yml" />
         <option value="$PROJECT_DIR$/apps/frontend/templates/layout.php" />
@@ -140,6 +152,7 @@
         <option value="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_topbar.php" />
         <option value="$PROJECT_DIR$/plugins/apostropheBlogPlugin/modules/aBlog/actions/components.class.php" />
         <option value="$PROJECT_DIR$/apps/frontend/modules/aBlog/actions/components.class.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -783,7 +796,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -847,11 +864,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/apps/frontend/modules/aBlog/actions" />
       <recent name="$PROJECT_DIR$/apps/frontend/modules/aBlog/templates" />
       <recent name="$PROJECT_DIR$/web" />
       <recent name="$PROJECT_DIR$/config" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -907,7 +924,7 @@
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -948,7 +965,7 @@
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="LAYOUT post !" />
+    <option name="LAST_COMMIT_MESSAGE" value=".idea" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -969,18 +986,14 @@
     <MESSAGE value="Adding assets" />
     <MESSAGE value="Adding news" />
     <MESSAGE value="LAYOUT post !" />
+    <MESSAGE value="TopBar for new blogpost" />
+    <MESSAGE value="Gitignore" />
+    <MESSAGE value=".idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/apps/frontend/config/app.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="467" column="0" selection-start="18241" selection-end="18241" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/templates/_meta.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="7" selection-start="320" selection-end="320" vertical-scroll-proportion="0.13986014">
@@ -1084,7 +1097,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/frontend/modules/aBlog/actions/components.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="47" selection-start="255" selection-end="255" vertical-scroll-proportion="0.17123288">
+        <state line="10" column="47" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.32534248">
           <folding />
         </state>
       </provider>
