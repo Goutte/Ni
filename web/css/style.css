@@ -6,7 +6,7 @@
 
 body {
   margin: 0px;
-  background: #000 url(imgs/ni_bck.jpg) top center no-repeat; 
+  background: #000 url(../imgs/ni_bck.jpg) top center no-repeat; 
   color: #d7e0bc;
   font-family: Verdana, Geneva, sans-serif;
   font-size: 12px;
@@ -40,7 +40,7 @@ h2 {
 }
 
 .separateur {
-	background: url(imgs/man_sep.png);
+	background: url(../imgs/man_sep.png);
   height: 1px;
   width: 618px;
   margin-top: 0px;
@@ -67,7 +67,7 @@ h2 {
 /**********/
 
 #ni_menu {
-	background: url(imgs/menu_bck.png) top center no-repeat;
+	background: url(../imgs/menu_bck.png) top center no-repeat;
   width: 994px;
   height: 61px;
   text-align: center;
@@ -89,7 +89,7 @@ h2 {
   height: 61px;
   float: left;
   display: block;
-  background-image: url(imgs/menu_hover.png);
+  background-image: url(../imgs/menu_hover.png);
   background-repeat: no-repeat;
   background-position: 3px -61px;
   /* On réduit la height plus vite que la bckg-pos pour éviter bug d'affichage */
@@ -164,7 +164,7 @@ color: #c6ec8e;
 }
 
 #ni_logo {
-  background: url(imgs/ni_logo.png);
+  background: url(../imgs/ni_logo.png);
   height: 269px;
   width: 125px; 
   position: absolute;
@@ -177,7 +177,7 @@ color: #c6ec8e;
 /****************/
 
 #img_box {
-  background: url(imgs/imgbox_bck.png);
+  background: url(../imgs/imgbox_bck.png);
   height: 274px;
   width: 460px; 
   position: absolute;
@@ -255,7 +255,7 @@ color: #c6ec8e;
 }
 
 #img_box #cache {
-  background: url(imgs/imgbox_cache.png) left center no-repeat;
+  background: url(../imgs/imgbox_cache.png) left center no-repeat;
   height: 274px;
   width: 460px; 
   position: absolute;
@@ -263,7 +263,7 @@ color: #c6ec8e;
 }
 
 #img_box #pic {
-  background: url(imgs/pics/ni_scene.jpg); /* Cette image devra changer dynamiquement ! */
+  background: url(../imgs/pics/ni_scene.jpg); /* Cette image devra changer dynamiquement ! */
   height: 274px;
   width: 460px; 
   position: absolute;
@@ -289,13 +289,13 @@ color: #c6ec8e;
 }
 
 #main_box #bx_top {
-	background: url(imgs/niouzes_head.png);
+	background: url(../imgs/niouzes_head.png);
   height: 62px;
   width: 700px;
 }
 
 #main_box #bx_body {
-	background: url(imgs/main_box_bck.png);
+	background: url(../imgs/main_box_bck.png);
   width: 620px; /*(700-38-42)*/
   padding: 0px 38px 0px 42px;
   text-align: justify;
@@ -307,7 +307,7 @@ color: #c6ec8e;
 }
 
 #main_box #bx_bottom {
-	background: url(imgs/main_box_btm.png);
+	background: url(../imgs/main_box_btm.png);
   height: 20px;
   width: 700px;
 }
@@ -326,7 +326,7 @@ color: #c6ec8e;
 }
 
 .rgt_box_body {
- 	background: url(imgs/rgtbox_body.png) bottom no-repeat;
+ 	background: url(../imgs/rgtbox_body.png) bottom no-repeat;
   padding: 20px 20px 15px 20px;
   color: #f3ffe0;
   text-align: center;
@@ -336,21 +336,21 @@ color: #c6ec8e;
 /** CONCERT BOX **/
 
 #rgt_conc {
-  background: url(imgs/cncrt_head.png);
+  background: url(../imgs/cncrt_head.png);
   height: 35px;
 }
 
 /** MUSIC BOX **/
 
 #rgt_msc {
-  background: url(imgs/msc_head.png);
+  background: url(../imgs/msc_head.png);
   height: 35px;
 }
 
 /** SOCIAL BOX **/
 
 #rgt_scl {
-  background: url(imgs/scl_head.png);
+  background: url(../imgs/scl_head.png);
   height: 35px;
 }
 
