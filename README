@@ -1,6 +1,0 @@
-# NINJA !
-
-php symfony cc
-php symfony doctrine:build --all
-php symfony doctrine:data-load data/fixtures
-php symfony cc
