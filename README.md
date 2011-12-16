@@ -1,9 +1,13 @@
-# NINJA !
+# RÉPARER UN RAGNAROK BDD
 
     php symfony cc
     php symfony doctrine:build --all
     php symfony doctrine:data-load data/fixtures
-    php symfony cc
+
+# PASSWORD FORGOTTEN OR WEIRDLY INVALID ?
+
+    php symfony guard:change-password admin monP455Word
+
 
 # .git/config
 
