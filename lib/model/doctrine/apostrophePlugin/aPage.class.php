@@ -5,5 +5,9 @@
  */
 class aPage extends PluginaPage
 {
+  public function getSlugTrimmed ()
+  {
+    return substr(strrchr($this->slug, "/"), 1);
+  }
 
 }

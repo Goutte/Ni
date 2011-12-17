@@ -26,7 +26,7 @@
   <?php a_include_stylesheets() ?>
 	<?php a_include_javascripts() ?>
 
-  <link href="/css/style.css" rel="stylesheet" type="text/css" />
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
 <!--  <script type="text/javascript" src="js/jquery-1.5.1.js"></script>-->
   <script type="text/javascript" src="js/imgbox.js"></script>
 </head>
@@ -115,8 +115,10 @@
       <?php include_slot('a-page-header') ?>
     <?php endif; ?>
 
+    <h2><?php echo ($page) ? $page->getSlugTrimmed() : 'default' ?></h2>
+
 		<div id="main_box">
-    	<div id="bx_top"></div>
+    	<div id="bx_top" class="<?php echo ($page) ? $page->getSlugTrimmed() : 'default' ?>"></div>
       <div id="bx_body">
         <?php echo $sf_data->getRaw('sf_content') ?>
       </div>
