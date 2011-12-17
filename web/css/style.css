@@ -34,6 +34,10 @@ h2 {
   font-weight: normal;
 }
 
+h5 {
+  display: inline;
+}
+
 .pink {
 	color: #d92471;
   text-decoration: underline;

@@ -12,4 +12,8 @@
  */
 class aEvent extends PluginaEvent
 {
+  public function getTitle()
+  {
+    return $this->_get('title');
+  }
 }

@@ -135,7 +135,9 @@
 			<?php //include_component('a', 'subnav', array('page' => $page)) # Subnavigation ?>
 		<?php endif ?>
 
-    	<a href="#">Mardi 23 Avril</a> | La Canneberge @ St-Quentin de Montargis </div>
+      <?php include_component('aEvent', 'subNavConcerts', array('page' => $page)) ?>
+      
+    </div>
 
     <!-- <div class="rgt_box_top" id="rgt_msc"></div>
     <div class="rgt_box_body"></div> -->
