@@ -88,6 +88,10 @@ h5 {
   background-position: 0px -4px;
 }
 
+#ni-menu a {
+  text-decoration: none;
+}
+
 .itm_cont {
   width: 122px;
   height: 61px;
