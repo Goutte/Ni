@@ -110,6 +110,10 @@
 
   <div id="content_wrap">
 
+    <?php if (has_slot('a-page-header')): ?>
+      <?php include_slot('a-page-header') ?>
+    <?php endif; ?>
+
 		<div id="main_box">
     	<div id="bx_top"></div>
       <div id="bx_body">
