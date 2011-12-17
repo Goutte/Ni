@@ -1,5 +1,8 @@
 # default values
 all:
+
+  default_culture: fr
+
   sf_guard_plugin:
     # We register our own URLs that we like better.
     # Also we don't use the default admin gen modules
@@ -60,9 +63,10 @@ all:
       - users
       - reorganize
 
-    i18n_switch: false                # If true, there will be a language switcher in the Global Toolbar
+    i18n_switch: true                # If true, there will be a language switcher in the Global Toolbar
     i18n_languages:                   # List of supported languages for populating the dropdown menu
       - fr
+      - en
 
 
 

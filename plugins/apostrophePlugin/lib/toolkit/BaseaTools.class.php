@@ -85,7 +85,7 @@ class BaseaTools
     }
     if (!$culture)
     {
-      $culture = sfConfig::get('sf_default_culture', 'en');
+      $culture = sfConfig::get('sf_default_culture', 'fr');
     }
     return $culture;
   }

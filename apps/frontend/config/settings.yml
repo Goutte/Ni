@@ -2,6 +2,7 @@ prod:
   .settings:
     no_script_name:         true
     logging_enabled:        false
+    web_debug:              false
 
 staging:
   .settings:
@@ -27,6 +28,8 @@ test:
 all:
   .settings:
     i18n: on
+    default_culture: fr
+
     rich_text_fck_js_dir:   apostrophePlugin/js/fckeditor
     # Form security secret (CSRF protection)
 
@@ -34,7 +37,7 @@ all:
     # a useful test because it means we'll hear about it if our code isn't compatible with
     # CSRF protection
 
-    csrf_secret:            CHANGEME     # Unique secret to enable CSRF protection or false to disable
+    csrf_secret:            KNIGHTS     # Unique secret to enable CSRF protection or false to disable
 
     # Output escaping settings
 
@@ -140,7 +143,7 @@ all:
 #
 #
 #    # Charset used for the response
-#    charset:                utf-8
+    charset:                utf-8
 #
 #    # Miscellaneous
 #    strip_comments:         on         # Remove comments in core framework classes as defined in the core_compile.yml
@@ -150,4 +153,4 @@ all:
 #    logging_enabled:        true
 #
 #    # i18n
-#    default_culture:        en        # Default user culture
+            # Default user culture
