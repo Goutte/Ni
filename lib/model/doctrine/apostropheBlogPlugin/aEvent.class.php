@@ -12,8 +12,15 @@
  */
 class aEvent extends PluginaEvent
 {
-  public function getTitle()
+
+  public function getRealTitle()
   {
     return $this->_get('title');
   }
+
+  public function getFeedRealTitle()
+  {
+    return html_entity_decode($this->getRealTitle(), ENT_COMPAT, 'UTF-8');
+  }
+
 }

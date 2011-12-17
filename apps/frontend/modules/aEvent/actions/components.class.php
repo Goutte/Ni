@@ -10,6 +10,6 @@ class aEventComponents extends BaseaEventComponents
 {
   public function executeSubNavConcerts ()
   {
-    $this->concerts = aEventTable::getInstance()->findAll(Doctrine_Core::HYDRATE_RECORD);
+    $this->concerts = aEventTable::getInstance()->findAllPublished();
   }
 }

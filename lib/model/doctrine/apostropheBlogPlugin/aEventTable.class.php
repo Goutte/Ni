@@ -8,4 +8,12 @@ class aEventTable extends PluginaEventTable
     {
         return Doctrine_Core::getTable('aEvent');
     }
+
+    public function findAllPublished()
+    {
+       $q = $this->createQuery('dctrn_find');
+       $this->addPublished($q);
+       return $q->execute(array());
+    }
+
 }
