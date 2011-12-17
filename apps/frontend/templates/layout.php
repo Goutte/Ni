@@ -46,6 +46,7 @@
 <div id="ni_wrap">
 
 	<?php include_partial('a/doNotEdit') ?>
+
   <?php include_partial('a/globalTools') ?>
 
   <ul id="ni_menu">
