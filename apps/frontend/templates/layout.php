@@ -115,10 +115,8 @@
       <?php include_slot('a-page-header') ?>
     <?php endif; ?>
 
-    <h2><?php echo ($page) ? $page->getSlugTrimmed() : 'default' ?></h2>
-
 		<div id="main_box">
-    	<div id="bx_top" class="<?php echo ($page) ? $page->getSlugTrimmed() : 'default' ?>"></div>
+    	<div id="bx_top" class="<?php echo ($page && $page->getSlugTrimmed()) ? $page->getSlugTrimmed() : 'default' ?>"></div>
       <div id="bx_body">
         <?php echo $sf_data->getRaw('sf_content') ?>
       </div>
