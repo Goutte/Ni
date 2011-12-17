@@ -65,8 +65,8 @@ all:
 
     i18n_switch: true                # If true, there will be a language switcher in the Global Toolbar
     i18n_languages:                   # List of supported languages for populating the dropdown menu
-      - fr
       - en
+      - fr
 
 
 
