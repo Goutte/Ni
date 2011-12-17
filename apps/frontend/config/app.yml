@@ -10,6 +10,38 @@ all:
     routes_register: false
   a:
     editor: ck
+    
+    ckEditor_toolbars:
+      Default:
+        - ['Format']
+        - ['Bold','Italic']
+        - ['Outdent','Indent','Blockquote']
+        - ['OrderedList','UnorderedList']
+        - ['-','Link','Unlink','Anchor','-','Table']
+        - ['FitWindow','Source']
+      Main:
+        - ['Format']
+        - ['Bold','Italic']
+        - ['Outdent','Indent','Blockquote']
+        - ['OrderedList','UnorderedList']
+        - ['-','Link','Unlink','Anchor','-','Table']
+        - ['FitWindow','Source']
+      Sidebar:
+        - ['Maximize','RemoveFormat','Source']
+        - ['Bold','Italic','Underline','Strike','Subscript','Superscript']
+        - ['Outdent','Indent','Blockquote']
+        - ['JustifyLeft','JustifyCenter','JustifyRight','JustifyBlock','-','BidiLtr','BidiRtl']
+        - ['TextColor','BGColor','FontSize']
+        - ['OrderedList','UnorderedList']
+        - ['Link','Unlink','Anchor']
+      Media:
+        - ['Bold','Italic']
+        - ['Outdent','Indent','Blockquote']
+        - ['Link','Unlink','Anchor']
+        - ['Source']
+    
+    
+    
     # Use mysql-based search rather than Zend Lucene to avoid 
     # the complications of worrying about file permissions, which
     # Zend Lucene does not manage well
