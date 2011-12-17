@@ -108,8 +108,9 @@ h2 {
 }
 
 .txt_menu_effect {
+  text-decoration: none;
   text-shadow: rgba(0, 0, 0, 0.6) 2px 4px 5px;
-  -webkit-transition: all .25s ease-in;
+  -webkit-transition: all 2.5s ease-in-out;
   -moz-transition: all .25s ease-in;
   -o-transition: all .25s ease-in;
   transition: all .25s ease-in;
@@ -120,17 +121,20 @@ h2 {
   cursor: pointer;
 }
 
-.itm_cont:hover .txt_menu_effect {
+.itm_cont:hover .txt_menu_effect,
+.txt_menu_effect:hover {
   color: #ff2d8e;
-	-webkit-transform: rotate(-4deg); 
-	-moz-transform: rotate(-4deg);
+	-webkit-transform: rotate(-4deg);
+  -moz-transform: rotate(-4deg);
+  transform: rotate(-4deg);
 }
 
-.itm_cont:active .txt_menu_effect {
-  color: #ff3399;
-	-webkit-transform: rotate(4deg); 
-	-moz-transform: rotate(4deg);
-}
+/*.itm_cont:active .txt_menu_effect {*/
+  /*color: #ff3399;*/
+	/*-webkit-transform: rotate(4deg); */
+	/*-moz-transform: rotate(4deg);*/
+	/*transform: rotate(4deg);*/
+/*}*/
 
 .itm1 {
 color: #c6ec8e;
