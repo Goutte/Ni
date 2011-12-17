@@ -35,4 +35,4 @@
 	</div>
 <?php endif ?>
 
-<?php a_js_call('aBlog.sidebarEnhancements(?)', array()) ?>
+<?php //a_js_call('aBlog.sidebarEnhancements(?)', array()) ?>

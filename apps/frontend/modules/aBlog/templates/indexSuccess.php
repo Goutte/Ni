@@ -20,11 +20,11 @@
 	<div class="a-ui a-blog-heading">
 		<?php ($page) ? $slots = $page->getArea('blog-heading') : $slots = array() ?>
 		<?php if (count($slots) || $page->userHasPrivilege('edit')): ?>
-		  <?php a_area('blog-heading', array(
-				'areaLabel' => a_('Add Blog Heading'), 
+		  <?php /*a_area('blog-heading', array(
+				'areaLabel' => a_('Add Blog Heading'),
 				'allowed_types' => array(
-					'aRichText', 
-					'aSlideshow', 
+					'aRichText',
+					'aSlideshow',
 					'aSmartSlideshow'
 				),
 				'type_options' => array(
@@ -32,18 +32,18 @@
 						'width' => 720,
 						'height' => 280,
 						'resizeType' => 'c',
-						'flexHeight' => false,  
-						'constraints' => array('minimum-width' => 720, 'minimum-height' => 280),   
-					), 
+						'flexHeight' => false,
+						'constraints' => array('minimum-width' => 720, 'minimum-height' => 280),
+					),
 					'aSmartSlideshow' => array(
 						'width' => 720,
 						'height' => 280,
 						'resizeType' => 'c',
-						'flexHeight' => false,  
-						'constraints' => array('minimum-width' => 720, 'minimum-height' => 280),   
+						'flexHeight' => false,
+						'constraints' => array('minimum-width' => 720, 'minimum-height' => 280),
 					),
-				), 
-			)) ?>
+				),
+			))*/ ?>
     <?php include_component('aBlog', 'topbar', array('params' => $params, 'newLabel' => a_('New Post'), 'newModule' => 'aBlogAdmin', 'newComponent' => 'newPost')) ?>
 		<?php endif ?>
   	<?php include_partial('aBlog/filters', array('type' => a_('post'), 'typePlural' => a_('posts'),  'url' => 'aBlog/index', 'count' => $pager->count(), 'params' => $params)) ?>
