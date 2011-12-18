@@ -3,8 +3,16 @@ aTextSlot:
   aTextSlot_1:
     type: aText
     variant: null
-    value: Home
+    value: HAHA
   aTextSlot_2:
+    type: aText
+    variant: null
+    value: 'DU PAIN'
+  aTextSlot_3:
+    type: aText
+    variant: null
+    value: Home
+  aTextSlot_4:
     type: aText
     variant: null
     value: Accueil
@@ -16,54 +24,90 @@ aTextSlot:
     type: aText
     variant: null
     value: Contact
+  aTextSlot_7:
+    type: aText
+    variant: null
+    value: Admin
+  aTextSlot_8:
+    type: aText
+    variant: null
+    value: Admin
   aTextSlot_9:
     type: aText
     variant: null
-    value: Admin
+    value: 'Page Not Found!'
   aTextSlot_10:
     type: aText
     variant: null
-    value: Admin
-  aTextSlot_12:
-    type: aText
-    variant: null
-    value: 'Page Not Found!'
-  aTextSlot_14:
-    type: aText
-    variant: null
     value: Media
-  aTextSlot_15:
+  aTextSlot_11:
     type: aText
     variant: null
     value: Média
-  aTextSlot_16:
+  aTextSlot_12:
     type: aText
     variant: null
     value: Events
-  aTextSlot_17:
+  aTextSlot_13:
     type: aText
     variant: null
     value: Blog
-  aTextSlot_18:
+  aTextSlot_14:
     type: aText
     variant: null
     value: About
-  aTextSlot_19:
+  aTextSlot_15:
     type: aText
     variant: null
     value: 'A propos'
+  aTextSlot_16:
+    type: aText
+    variant: null
+    value: niouzes
+  aTextSlot_17:
+    type: aText
+    variant: null
+    value: 'DU PAIN'
+  aTextSlot_18:
+    type: aText
+    variant: null
+    value: 'DU PAIN'
+  aTextSlot_19:
+    type: aText
+    variant: null
+    value: niouzes
+  aTextSlot_20:
+    type: aText
+    variant: null
+    value: Concerts
+  aTextSlot_21:
+    type: aText
+    variant: null
+    value: niouzes
+  aTextSlot_22:
+    type: aText
+    variant: null
+    value: 'le groupe'
   aTextSlot_23:
+    type: aText
+    variant: null
+    value: niouzes
+  aTextSlot_24:
     type: aText
     variant: null
     value: niouzes
   aTextSlot_25:
     type: aText
     variant: null
-    value: 'DU PAIN'
+    value: contact
+  aTextSlot_26:
+    type: aText
+    variant: null
+    value: albums
   aTextSlot_27:
     type: aText
     variant: null
-    value: 'DU PAIN'
+    value: concerts
   aTextSlot_28:
     type: aText
     variant: null
@@ -71,1120 +115,3262 @@ aTextSlot:
   aTextSlot_29:
     type: aText
     variant: null
-    value: Concerts
-  aTextSlot_31:
+    value: HAHA
+  aTextSlot_46:
     type: aText
     variant: null
-    value: niouzes
-  aTextSlot_32:
+    value: 'LE SITE EST Ni!'
+  aTextSlot_48:
     type: aText
     variant: null
-    value: 'le groupe'
-  aTextSlot_33:
+    value: 'LE SITE EST Ni!'
+  aTextSlot_49:
     type: aText
     variant: null
-    value: niouzes
-  aTextSlot_34:
+    value: 'LE SITE EST Ni!'
+  aTextSlot_50:
     type: aText
     variant: null
-    value: niouzes
-  aTextSlot_35:
+    value: 'Concert &agrave; Patois-le-Vieux'
+  aTextSlot_51:
+    type: aText
+    variant: null
+    value: 'Concert &agrave; Patois-le-Vieux'
+  aTextSlot_52:
+    type: aText
+    variant: null
+    value: 'Concert &agrave; Patois-le-Vieux'
+  aTextSlot_55:
+    type: aText
+    variant: null
+    value: 'Concert &agrave; Patois-le-Vieux'
+  aTextSlot_57:
+    type: aText
+    variant: null
+    value: Canneberge
+  aTextSlot_58:
+    type: aText
+    variant: null
+    value: Canneberge
+  aTextSlot_59:
+    type: aText
+    variant: null
+    value: Canneberge
+  aTextSlot_62:
+    type: aText
+    variant: null
+    value: 'Qu''est-ce que Ni ?'
+  aTextSlot_64:
+    type: aText
+    variant: null
+    value: 'Qu''est-ce que Ni ?'
+  aTextSlot_65:
+    type: aText
+    variant: null
+    value: 'Qu''est-ce que Ni ?'
+  aTextSlot_66:
+    type: aText
+    variant: null
+    value: Test
+  aTextSlot_68:
+    type: aText
+    variant: null
+    value: Test
+  aTextSlot_69:
     type: aText
     variant: null
     value: contact
-  aTextSlot_36:
+  aTextSlot_70:
     type: aText
     variant: null
-    value: albums
-  aTextSlot_37:
+    value: le-groupe
+  aTextSlot_71:
+    type: aText
+    variant: null
+    value: le-groupe
+  aTextSlot_72:
+    type: aText
+    variant: null
+    value: contact
+  aTextSlot_73:
     type: aText
     variant: null
     value: concerts
-  aTextSlot_38:
+  aTextSlot_74:
     type: aText
     variant: null
-    value: niouzes
-  aTextSlot_43:
+    value: Accueil
+  aTextSlot_75:
     type: aText
     variant: null
-    value: HAHA
+    value: albums
+  aTextSlot_76:
+    type: aText
+    variant: null
+    value: 'Concert &agrave; Patois-le-Vieux'
+  aTextSlot_77:
+    type: aText
+    variant: null
+    value: TEST
+  aTextSlot_78:
+    type: aText
+    variant: null
+    value: PLOUET
+  aTextSlot_79:
+    type: aText
+    variant: null
+    value: PLOUET
+  aTextSlot_80:
+    type: aText
+    variant: null
+    value: NON
+  aTextSlot_81:
+    type: aText
+    variant: null
+    value: 'Concert a Patois-le-Vieux'
+  aTextSlot_83:
+    type: aText
+    variant: null
+    value: 'Concert a Patois-le-Vieux'
+  aTextSlot_84:
+    type: aText
+    variant: null
+    value: 'Concert a Patois-le-Vieux'
+  aTextSlot_85:
+    type: aText
+    variant: null
+    value: 'Concert a Patois-le-Vieux'
+  aTextSlot_87:
+    type: aText
+    variant: null
+    value: 'Concert a Patois-le-Vieux'
+  aTextSlot_88:
+    type: aText
+    variant: null
+    value: 'Concert a Patois-le-Vieux'
+  aTextSlot_89:
+    type: aText
+    variant: null
+    value: 'Concert a Patois-le-Vieux'
+  aTextSlot_90:
+    type: aText
+    variant: null
+    value: 'Concert a Patois-le-Vieux'
+  aTextSlot_91:
+    type: aText
+    variant: null
+    value: 'Kesske Ni ?'
+  aTextSlot_92:
+    type: aText
+    variant: null
+    value: Test
+  aTextSlot_93:
+    type: aText
+    variant: null
+    value: 'Kesske Ni ?'
+  aTextSlot_95:
+    type: aText
+    variant: null
+    value: 'Kesske Ni ?'
+  aTextSlot_96:
+    type: aText
+    variant: null
+    value: 'Kesske Ni ?'
+  aTextSlot_99:
+    type: aText
+    variant: null
+    value: 'Kesske Ni ?'
 aRichTextSlot:
-  aRichTextSlot_3:
-    type: aRichText
-    variant: null
-    value: "<h3>Welcome to aSandbox, a sample site built using <a href=\"http://www.apostrophenow.com\" rel=\"external\">Apostrophe</a>.</h3> <p>You can edit this text by clicking the Edit button. You can also add additional slots to this area, such as video and slideshow slots, via the Add Slot button.</p>\n"
-  aRichTextSlot_4:
-    type: aRichText
-    variant: null
-    value: "<h3>Bienvenue dans le aSandbox, un exemple de site réalisé en utilisant  <a href=\"http://www.apostrophenow.com\" rel=\"external\">Apostrophe</a>.</h3>  <p>Vous pouvez éditer ce texte en cliquant sur le bouton &laquo;&nbsp;Editer&nbsp;&raquo;. Vous pouvez  également ajouter des emplacements supplémentaires à cette zone, tel qu'un  emplacement vidéo ou un emplacement diaporama, en utilisant le bouton &laquo;&nbsp;Ajouter  un emplacement&nbsp;&raquo;.</p>\n"
-  aRichTextSlot_7:
-    type: aRichText
-    variant: null
-    value: "<h3>For more information or help with <a href=\"http://www.apostrophenow.com\" rel=\"external\">Apostrophe</a>, contact <a href=\"mailto:apostrophe@punkave.com\">apostrophe@punkave.com</a></h3>\n"
-  aRichTextSlot_8:
-    type: aRichText
-    variant: null
-    value: "<h3>Pour plus d'informations ou obtenir de l'aide au sujet  d'<a href=\"http://www.apostrophenow.com\" rel=\"external\">Apostrophe</a>,  contactez <a href=\"mailto:apostrophe@punkave.com\">apostrophe@punkave.com</a></h3>\n"
-  aRichTextSlot_11:
-    type: aRichText
-    variant: null
-    value: "<h3> Oops! You do not have anything suitable in your media library.<br />Do you want to <a href=\"#upload-images\" class=\"a-add-media-toggle\">add some media?</a></h3>\n"
-  aRichTextSlot_13:
-    type: aRichText
-    variant: null
-    value: "<h2>Error 404 &mdash; The page you are looking for could not be found.</h2><h3><a href=\"/\">Go Home.</a></h3>\n"
-  aRichTextSlot_20:
-    type: aRichText
-    variant: null
-    value: "<h3>Learn more about <a href=\"http://www.apostrophenow.com\" rel=\"external\">Apostrophe</a>.</h3> It is open source, robust, &amp; super easy to use!\n"
-  aRichTextSlot_21:
-    type: aRichText
-    variant: null
-    value: "<h3>Découvrez <a href=\"http://www.apostrophenow.com\" rel=\"external\">Apostrophe</a>.</h3>  Une solution open source, robuste et extrêmement simple à utiliser!\n"
-  aRichTextSlot_22:
-    type: aRichText
-    variant: null
-    value: "<h3>\n	Je suis NI</h3>"
-  aRichTextSlot_24:
-    type: aRichText
-    variant: null
-    value: "<p>\n	Ent&ecirc;te des niouzes.</p>"
-  aRichTextSlot_26:
-    type: aRichText
-    variant: null
-    value: "<p>\n	Samedi soir, mangez du pain !</p>"
   aRichTextSlot_30:
     type: aRichText
     variant: null
-    value: "<p>\n	tul&eacute; !</p>"
+    value: "<h3>Welcome to aSandbox, a sample site built using <a href=\"http://www.apostrophenow.com\" rel=\"external\">Apostrophe</a>.</h3> <p>You can edit this text by clicking the Edit button. You can also add additional slots to this area, such as video and slideshow slots, via the Add Slot button.</p>\n"
+  aRichTextSlot_31:
+    type: aRichText
+    variant: null
+    value: "<h3>Bienvenue dans le aSandbox, un exemple de site réalisé en utilisant  <a href=\"http://www.apostrophenow.com\" rel=\"external\">Apostrophe</a>.</h3>  <p>Vous pouvez éditer ce texte en cliquant sur le bouton &laquo;&nbsp;Editer&nbsp;&raquo;. Vous pouvez  également ajouter des emplacements supplémentaires à cette zone, tel qu'un  emplacement vidéo ou un emplacement diaporama, en utilisant le bouton &laquo;&nbsp;Ajouter  un emplacement&nbsp;&raquo;.</p>\n"
+  aRichTextSlot_32:
+    type: aRichText
+    variant: null
+    value: "<h3>For more information or help with <a href=\"http://www.apostrophenow.com\" rel=\"external\">Apostrophe</a>, contact <a href=\"mailto:apostrophe@punkave.com\">apostrophe@punkave.com</a></h3>\n"
+  aRichTextSlot_33:
+    type: aRichText
+    variant: null
+    value: "<h3>Pour plus d'informations ou obtenir de l'aide au sujet  d'<a href=\"http://www.apostrophenow.com\" rel=\"external\">Apostrophe</a>,  contactez <a href=\"mailto:apostrophe@punkave.com\">apostrophe@punkave.com</a></h3>\n"
+  aRichTextSlot_34:
+    type: aRichText
+    variant: null
+    value: "<h3> Oops! You do not have anything suitable in your media library.<br />Do you want to <a href=\"#upload-images\" class=\"a-add-media-toggle\">add some media?</a></h3>\n"
+  aRichTextSlot_35:
+    type: aRichText
+    variant: null
+    value: "<h2>Error 404 &mdash; The page you are looking for could not be found.</h2><h3><a href=\"/\">Go Home.</a></h3>\n"
+  aRichTextSlot_36:
+    type: aRichText
+    variant: null
+    value: "<h3>Learn more about <a href=\"http://www.apostrophenow.com\" rel=\"external\">Apostrophe</a>.</h3> It is open source, robust, &amp; super easy to use!\n"
+  aRichTextSlot_37:
+    type: aRichText
+    variant: null
+    value: "<h3>Découvrez <a href=\"http://www.apostrophenow.com\" rel=\"external\">Apostrophe</a>.</h3>  Une solution open source, robuste et extrêmement simple à utiliser!\n"
+  aRichTextSlot_38:
+    type: aRichText
+    variant: null
+    value: "<h3>\n	Je suis NI</h3>"
   aRichTextSlot_39:
     type: aRichText
     variant: null
-    value: "<h3>\n	Premi&egrave;re News</h3>\n<p>\n	Mangez du Pain !</p>"
+    value: "<p>\n	Ent&ecirc;te des niouzes.</p>"
   aRichTextSlot_40:
     type: aRichText
     variant: null
-    value: "<h3>\n	Les musiciens</h3>\n<p>\n	They are the knights who say ... <strong>Ni</strong> !</p>"
+    value: "<p>\n	Samedi soir, mangez du pain !</p>"
   aRichTextSlot_41:
     type: aRichText
     variant: null
+    value: "<p>\n	tul&eacute; !</p>"
+  aRichTextSlot_42:
+    type: aRichText
+    variant: null
+    value: "<h3>\n	Premi&egrave;re News</h3>\n<p>\n	Mangez du Pain !</p>"
+  aRichTextSlot_43:
+    type: aRichText
+    variant: null
     value: "<h3>\n	Les musiciens</h3>\n<p>\n	They are the knights who say ... <strong>Ni</strong> !</p>"
+  aRichTextSlot_44:
+    type: aRichText
+    variant: null
+    value: "<h3>\n	Les musiciens</h3>\n<p>\n	They are the knights who say ... <strong>Ni</strong> !</p>"
+  aRichTextSlot_47:
+    type: aRichText
+    variant: null
+    value: "<p>\n	#FF3399 et dur labeur !</p>\n<p>\n	(vivement les textes en couleur !)</p>"
+  aRichTextSlot_54:
+    type: aRichText
+    variant: null
+    value: "<p>\n	Nous allons d&eacute;fibruller de la patoise, cadine !</p>\n<p>\n	On y va tant&ocirc;t, alors radine !</p>"
+  aRichTextSlot_56:
+    type: aRichText
+    variant: null
+    value: "<p>\n	Nous allons d&eacute;fibruller de la patoise, cadine !</p>\n<p>\n	On y va tant&ocirc;t, alors radine !</p>\n<br />\n<blockquote>\n	<p>\n		<em>Et kuala, t'as un probl&egrave;me ?</em></p>\n</blockquote>"
+  aRichTextSlot_60:
+    type: aRichText
+    variant: null
+    value: "<p>\n	TWALA !</p>\n<p>\n	ACH&Egrave;TE LE NI C&Eacute;D&Eacute;V&Eacute;D&Eacute; !</p>"
+  aRichTextSlot_61:
+    type: aRichText
+    variant: null
+    value: "<p>\n	Nous sommes les chevaliers qui disent... <strong>Ni</strong> !</p>"
+  aRichTextSlot_63:
+    type: aRichText
+    variant: null
+    value: "\n<p>\n	D'abord, ni est ni. Ensuite, ni n'est ni diatrib(a), ni JMPZ, mais ni plus ni moins qu'une &eacute;manation des deux, r&eacute;unis pour une musique qui n'a esth&eacute;tiquement ni dieu ni ma&icirc;tre, ni foi ni loi, ni queue ni t&ecirc;te. Ni chant, ou presque.</p>\n<p>\n	En fait, le r&eacute;sultat n'est ni r&eacute;ellement hard-core, ni franchement jazz &eacute;lectrique. Ni R'n'B. C'est compliqu&eacute;. Oui c'est compliqu&eacute;, alors n'&eacute;piloguons pas sur le genre musical que fait ni. A quoi bon? Enfin, parions que loin de vous faire ni chaud ni froid, ces quatre l&agrave; au contraire...</p>"
+  aRichTextSlot_67:
+    type: aRichText
+    variant: null
+    value: "<p>\n	tesdt</p>"
+  aRichTextSlot_82:
+    type: aRichText
+    variant: null
+    value: "\n<div>\n	<em>On va d&eacute;fibruller de la b&eacute;casse &agrave; la calouette, donc radine !</em></div>"
+  aRichTextSlot_94:
+    type: aRichText
+    variant: null
+    value: "\n<p>\n	D'abord, ni est ni. Ensuite, ni n'est ni diatrib(a), ni JMPZ, mais ni plus ni moins qu'une &eacute;manation des deux, r&eacute;unis pour une musique qui n'a esth&eacute;tiquement ni dieu ni ma&icirc;tre, ni foi ni loi, ni queue ni t&ecirc;te. Ni chant, ou presque.</p>\n<p>\n	En fait, le r&eacute;sultat n'est ni r&eacute;ellement hard-core, ni franchement jazz &eacute;lectrique. Ni R'n'B. C'est compliqu&eacute;. Oui c'est compliqu&eacute;, alors n'&eacute;piloguons pas sur le genre musical que fait ni. A quoi bon? Enfin, parions que loin de vous faire ni chaud ni froid, ces quatre l&agrave; au contraire...</p>"
+  aRichTextSlot_97:
+    type: aRichText
+    variant: null
+    value: "<p>\n	D'abord, ni est ni. Ensuite, ni n'est ni diatrib(a), ni JMPZ, mais ni plus ni moins qu'une &eacute;manation des deux, r&eacute;unis pour une musique qui n'a esth&eacute;tiquement ni dieu ni ma&icirc;tre, ni foi ni loi, ni queue ni t&ecirc;te. Ni chant, ou presque.</p>\n<p>\n	En fait, le r&eacute;sultat n'est ni r&eacute;ellement hard-core, ni franchement jazz &eacute;lectrique. Ni R'n'B. <strong>C'est compliqu&eacute;.</strong> Oui c'est compliqu&eacute;, alors n'&eacute;piloguons pas sur le genre musical que fait ni. A quoi bon? Enfin, parions que loin de vous faire ni chaud ni froid, ces quatre l&agrave; au contraire...</p>"
+  aRichTextSlot_98:
+    type: aRichText
+    variant: null
+    value: "<p>\n	Voil&agrave; la liste des concerts :</p>"
+  aRichTextSlot_100:
+    type: aRichText
+    variant: null
+    value: "<p>\n	We are the knights who say... <strong>Ni !</strong></p>\n"
+  aRichTextSlot_101:
+    type: aRichText
+    variant: null
+    value: "<h3>\n	The band</h3>\n<p>\n	They are the knights who say ... <strong>Ni</strong> !</p>"
+  aRichTextSlot_102:
+    type: aRichText
+    variant: null
+    value: "<p>\n	Miasnon</p>"
 aSlideshowSlot:
-  aSlideshowSlot_42:
+  aSlideshowSlot_45:
     type: aSlideshow
     variant: null
     value: 'a:2:{s:4:"form";a:1:{s:4:"type";s:8:"selected";}s:5:"order";a:1:{i:0;s:1:"1";}}'
+  aSlideshowSlot_53:
+    type: aSlideshow
+    variant: null
+    value: 'a:2:{s:4:"form";a:1:{s:4:"type";s:8:"selected";}s:5:"order";a:2:{i:0;s:1:"2";i:1;s:1:"3";}}'
+  aSlideshowSlot_86:
+    type: aSlideshow
+    variant: null
+    value: 'a:2:{s:4:"form";a:1:{s:4:"type";s:8:"selected";}s:5:"order";a:2:{i:0;s:1:"2";i:1;s:1:"3";}}'
+aVideoSlot:
+  aVideoSlot_103:
+    type: aVideo
+    variant: null
+    value: null
 aSearchUsage:
-  aSearchUsage_51:
-    Document: aSearchDocument_7
-    Word: aSearchWord_38
-    weight: '1.00'
-  aSearchUsage_52:
-    Document: aSearchDocument_7
-    Word: aSearchWord_39
-    weight: '1.00'
-  aSearchUsage_53:
-    Document: aSearchDocument_7
-    Word: aSearchWord_40
-    weight: '1.00'
-  aSearchUsage_54:
-    Document: aSearchDocument_7
-    Word: aSearchWord_41
-    weight: '3.00'
-  aSearchUsage_55:
-    Document: aSearchDocument_7
-    Word: aSearchWord_10
-    weight: '1.00'
-  aSearchUsage_56:
-    Document: aSearchDocument_7
-    Word: aSearchWord_42
-    weight: '4.00'
-  aSearchUsage_57:
-    Document: aSearchDocument_7
-    Word: aSearchWord_43
-    weight: '1.00'
-  aSearchUsage_58:
-    Document: aSearchDocument_7
-    Word: aSearchWord_44
-    weight: '1.00'
-  aSearchUsage_59:
-    Document: aSearchDocument_7
-    Word: aSearchWord_13
-    weight: '1.00'
-  aSearchUsage_60:
-    Document: aSearchDocument_7
-    Word: aSearchWord_45
-    weight: '1.00'
-  aSearchUsage_61:
-    Document: aSearchDocument_7
-    Word: aSearchWord_46
-    weight: '3.00'
-  aSearchUsage_62:
-    Document: aSearchDocument_7
-    Word: aSearchWord_47
-    weight: '2.00'
-  aSearchUsage_63:
-    Document: aSearchDocument_7
-    Word: aSearchWord_16
-    weight: '1.00'
-  aSearchUsage_64:
-    Document: aSearchDocument_7
-    Word: aSearchWord_48
-    weight: '2.00'
-  aSearchUsage_65:
-    Document: aSearchDocument_7
-    Word: aSearchWord_49
-    weight: '2.00'
-  aSearchUsage_66:
-    Document: aSearchDocument_7
-    Word: aSearchWord_50
-    weight: '1.00'
-  aSearchUsage_67:
-    Document: aSearchDocument_7
-    Word: aSearchWord_51
-    weight: '1.00'
-  aSearchUsage_68:
-    Document: aSearchDocument_7
-    Word: aSearchWord_52
-    weight: '1.00'
-  aSearchUsage_69:
-    Document: aSearchDocument_7
-    Word: aSearchWord_53
-    weight: '1.00'
-  aSearchUsage_70:
-    Document: aSearchDocument_7
-    Word: aSearchWord_54
-    weight: '1.00'
-  aSearchUsage_71:
-    Document: aSearchDocument_7
-    Word: aSearchWord_55
-    weight: '2.00'
-  aSearchUsage_72:
-    Document: aSearchDocument_7
-    Word: aSearchWord_50
-    weight: '1.00'
-  aSearchUsage_73:
-    Document: aSearchDocument_7
+  aSearchUsage_1:
+    Document: aSearchDocument_16
     Word: aSearchWord_56
     weight: '1.00'
-  aSearchUsage_74:
-    Document: aSearchDocument_7
-    Word: aSearchWord_57
-    weight: '2.00'
-  aSearchUsage_75:
-    Document: aSearchDocument_7
-    Word: aSearchWord_58
+  aSearchUsage_2:
+    Document: aSearchDocument_16
+    Word: aSearchWord_1
     weight: '1.00'
-  aSearchUsage_76:
-    Document: aSearchDocument_7
+  aSearchUsage_3:
+    Document: aSearchDocument_16
+    Word: aSearchWord_21
+    weight: '1.00'
+  aSearchUsage_4:
+    Document: aSearchDocument_16
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_5:
+    Document: aSearchDocument_16
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_6:
+    Document: aSearchDocument_16
     Word: aSearchWord_59
     weight: '1.00'
-  aSearchUsage_77:
-    Document: aSearchDocument_7
+  aSearchUsage_7:
+    Document: aSearchDocument_16
+    Word: aSearchWord_56
+    weight: '3.00'
+  aSearchUsage_8:
+    Document: aSearchDocument_16
+    Word: aSearchWord_3
+    weight: '1.00'
+  aSearchUsage_9:
+    Document: aSearchDocument_17
+    Word: aSearchWord_41
+    weight: '1.00'
+  aSearchUsage_10:
+    Document: aSearchDocument_17
+    Word: aSearchWord_82
+    weight: '1.00'
+  aSearchUsage_11:
+    Document: aSearchDocument_17
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_12:
+    Document: aSearchDocument_17
+    Word: aSearchWord_21
+    weight: '1.00'
+  aSearchUsage_13:
+    Document: aSearchDocument_17
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_14:
+    Document: aSearchDocument_17
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_15:
+    Document: aSearchDocument_17
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_16:
+    Document: aSearchDocument_17
+    Word: aSearchWord_41
+    weight: '3.00'
+  aSearchUsage_17:
+    Document: aSearchDocument_17
+    Word: aSearchWord_82
+    weight: '3.00'
+  aSearchUsage_18:
+    Document: aSearchDocument_17
+    Word: aSearchWord_3
+    weight: '1.00'
+  aSearchUsage_19:
+    Document: aSearchDocument_18
     Word: aSearchWord_60
     weight: '1.00'
-  aSearchUsage_78:
-    Document: aSearchDocument_7
-    Word: aSearchWord_11
+  aSearchUsage_20:
+    Document: aSearchDocument_18
+    Word: aSearchWord_71
     weight: '1.00'
-  aSearchUsage_79:
-    Document: aSearchDocument_7
+  aSearchUsage_21:
+    Document: aSearchDocument_18
+    Word: aSearchWord_126
+    weight: '1.00'
+  aSearchUsage_59:
+    Document: aSearchDocument_3
+    Word: aSearchWord_33
+    weight: '2.00'
+  aSearchUsage_60:
+    Document: aSearchDocument_3
+    Word: aSearchWord_54
+    weight: '1.00'
+  aSearchUsage_61:
+    Document: aSearchDocument_3
+    Word: aSearchWord_73
+    weight: '1.00'
+  aSearchUsage_62:
+    Document: aSearchDocument_3
     Word: aSearchWord_61
     weight: '1.00'
-  aSearchUsage_80:
-    Document: aSearchDocument_7
+  aSearchUsage_63:
+    Document: aSearchDocument_3
+    Word: aSearchWord_80
+    weight: '1.00'
+  aSearchUsage_64:
+    Document: aSearchDocument_3
+    Word: aSearchWord_57
+    weight: '1.00'
+  aSearchUsage_65:
+    Document: aSearchDocument_3
+    Word: aSearchWord_132
+    weight: '1.00'
+  aSearchUsage_66:
+    Document: aSearchDocument_3
+    Word: aSearchWord_14
+    weight: '2.00'
+  aSearchUsage_67:
+    Document: aSearchDocument_3
+    Word: aSearchWord_88
+    weight: '1.00'
+  aSearchUsage_68:
+    Document: aSearchDocument_3
+    Word: aSearchWord_31
+    weight: '1.00'
+  aSearchUsage_69:
+    Document: aSearchDocument_3
+    Word: aSearchWord_33
+    weight: '1.00'
+  aSearchUsage_70:
+    Document: aSearchDocument_3
+    Word: aSearchWord_33
+    weight: '3.00'
+  aSearchUsage_71:
+    Document: aSearchDocument_4
+    Word: aSearchWord_33
+    weight: '1.00'
+  aSearchUsage_72:
+    Document: aSearchDocument_4
+    Word: aSearchWord_84
+    weight: '1.00'
+  aSearchUsage_73:
+    Document: aSearchDocument_4
+    Word: aSearchWord_83
+    weight: '1.00'
+  aSearchUsage_74:
+    Document: aSearchDocument_4
+    Word: aSearchWord_35
+    weight: '2.00'
+  aSearchUsage_75:
+    Document: aSearchDocument_4
     Word: aSearchWord_62
     weight: '1.00'
+  aSearchUsage_76:
+    Document: aSearchDocument_4
+    Word: aSearchWord_81
+    weight: '1.00'
+  aSearchUsage_77:
+    Document: aSearchDocument_4
+    Word: aSearchWord_78
+    weight: '1.00'
+  aSearchUsage_78:
+    Document: aSearchDocument_4
+    Word: aSearchWord_37
+    weight: '1.00'
+  aSearchUsage_79:
+    Document: aSearchDocument_4
+    Word: aSearchWord_67
+    weight: '1.00'
+  aSearchUsage_80:
+    Document: aSearchDocument_4
+    Word: aSearchWord_9
+    weight: '1.00'
   aSearchUsage_81:
-    Document: aSearchDocument_7
-    Word: aSearchWord_63
+    Document: aSearchDocument_4
+    Word: aSearchWord_19
     weight: '1.00'
   aSearchUsage_82:
+    Document: aSearchDocument_4
+    Word: aSearchWord_108
+    weight: '1.00'
+  aSearchUsage_83:
+    Document: aSearchDocument_4
+    Word: aSearchWord_14
+    weight: '2.00'
+  aSearchUsage_84:
+    Document: aSearchDocument_4
+    Word: aSearchWord_34
+    weight: '1.00'
+  aSearchUsage_85:
+    Document: aSearchDocument_4
+    Word: aSearchWord_88
+    weight: '1.00'
+  aSearchUsage_86:
+    Document: aSearchDocument_4
+    Word: aSearchWord_31
+    weight: '1.00'
+  aSearchUsage_87:
+    Document: aSearchDocument_4
+    Word: aSearchWord_33
+    weight: '1.00'
+  aSearchUsage_88:
+    Document: aSearchDocument_4
+    Word: aSearchWord_33
+    weight: '3.00'
+  aSearchUsage_89:
+    Document: aSearchDocument_5
+    Word: aSearchWord_51
+    weight: '1.00'
+  aSearchUsage_90:
+    Document: aSearchDocument_5
+    Word: aSearchWord_51
+    weight: '1.00'
+  aSearchUsage_91:
+    Document: aSearchDocument_5
+    Word: aSearchWord_51
+    weight: '3.00'
+  aSearchUsage_92:
+    Document: aSearchDocument_5
+    Word: aSearchWord_8
+    weight: '1.00'
+  aSearchUsage_93:
+    Document: aSearchDocument_6
+    Word: aSearchWord_21
+    weight: '1.00'
+  aSearchUsage_94:
+    Document: aSearchDocument_6
+    Word: aSearchWord_21
+    weight: '1.00'
+  aSearchUsage_95:
+    Document: aSearchDocument_6
+    Word: aSearchWord_21
+    weight: '3.00'
+  aSearchUsage_96:
+    Document: aSearchDocument_6
+    Word: aSearchWord_2
+    weight: '1.00'
+  aSearchUsage_97:
+    Document: aSearchDocument_7
+    Word: aSearchWord_4
+    weight: '2.00'
+  aSearchUsage_98:
+    Document: aSearchDocument_7
+    Word: aSearchWord_69
+    weight: '1.00'
+  aSearchUsage_99:
+    Document: aSearchDocument_7
+    Word: aSearchWord_73
+    weight: '1.00'
+  aSearchUsage_100:
+    Document: aSearchDocument_7
+    Word: aSearchWord_14
+    weight: '1.00'
+  aSearchUsage_101:
     Document: aSearchDocument_7
     Word: aSearchWord_64
     weight: '1.00'
-  aSearchUsage_83:
-    Document: aSearchDocument_7
-    Word: aSearchWord_65
-    weight: '3.00'
-  aSearchUsage_84:
-    Document: aSearchDocument_7
-    Word: aSearchWord_33
-    weight: '1.00'
-  aSearchUsage_85:
-    Document: aSearchDocument_7
-    Word: aSearchWord_66
-    weight: '1.00'
-  aSearchUsage_86:
-    Document: aSearchDocument_7
-    Word: aSearchWord_67
-    weight: '1.00'
-  aSearchUsage_87:
-    Document: aSearchDocument_7
-    Word: aSearchWord_38
-    weight: '3.00'
-  aSearchUsage_88:
-    Document: aSearchDocument_8
-    Word: aSearchWord_2
-    weight: '2.00'
-  aSearchUsage_89:
-    Document: aSearchDocument_8
-    Word: aSearchWord_68
-    weight: '1.00'
-  aSearchUsage_90:
-    Document: aSearchDocument_8
-    Word: aSearchWord_69
-    weight: '1.00'
-  aSearchUsage_91:
-    Document: aSearchDocument_8
-    Word: aSearchWord_70
-    weight: '1.00'
-  aSearchUsage_92:
-    Document: aSearchDocument_8
-    Word: aSearchWord_71
-    weight: '1.00'
-  aSearchUsage_93:
-    Document: aSearchDocument_8
-    Word: aSearchWord_72
-    weight: '1.00'
-  aSearchUsage_94:
-    Document: aSearchDocument_8
-    Word: aSearchWord_73
-    weight: '1.00'
-  aSearchUsage_95:
-    Document: aSearchDocument_8
-    Word: aSearchWord_16
-    weight: '2.00'
-  aSearchUsage_96:
-    Document: aSearchDocument_8
-    Word: aSearchWord_74
-    weight: '1.00'
-  aSearchUsage_97:
-    Document: aSearchDocument_8
-    Word: aSearchWord_75
-    weight: '1.00'
-  aSearchUsage_98:
-    Document: aSearchDocument_8
-    Word: aSearchWord_2
-    weight: '1.00'
-  aSearchUsage_99:
-    Document: aSearchDocument_8
-    Word: aSearchWord_2
-    weight: '3.00'
-  aSearchUsage_100:
-    Document: aSearchDocument_9
-    Word: aSearchWord_2
-    weight: '1.00'
-  aSearchUsage_101:
-    Document: aSearchDocument_9
-    Word: aSearchWord_76
-    weight: '1.00'
   aSearchUsage_102:
-    Document: aSearchDocument_9
-    Word: aSearchWord_77
+    Document: aSearchDocument_7
+    Word: aSearchWord_63
     weight: '1.00'
   aSearchUsage_103:
-    Document: aSearchDocument_9
-    Word: aSearchWord_78
-    weight: '2.00'
-  aSearchUsage_104:
-    Document: aSearchDocument_9
+    Document: aSearchDocument_7
     Word: aSearchWord_79
     weight: '1.00'
+  aSearchUsage_104:
+    Document: aSearchDocument_7
+    Word: aSearchWord_105
+    weight: '1.00'
   aSearchUsage_105:
-    Document: aSearchDocument_9
-    Word: aSearchWord_66
+    Document: aSearchDocument_7
+    Word: aSearchWord_92
     weight: '1.00'
   aSearchUsage_106:
-    Document: aSearchDocument_9
-    Word: aSearchWord_80
+    Document: aSearchDocument_7
+    Word: aSearchWord_109
     weight: '1.00'
   aSearchUsage_107:
-    Document: aSearchDocument_9
-    Word: aSearchWord_44
+    Document: aSearchDocument_7
+    Word: aSearchWord_42
     weight: '1.00'
   aSearchUsage_108:
-    Document: aSearchDocument_9
-    Word: aSearchWord_81
+    Document: aSearchDocument_7
+    Word: aSearchWord_118
     weight: '1.00'
   aSearchUsage_109:
-    Document: aSearchDocument_9
-    Word: aSearchWord_82
+    Document: aSearchDocument_7
+    Word: aSearchWord_122
     weight: '1.00'
   aSearchUsage_110:
-    Document: aSearchDocument_9
-    Word: aSearchWord_83
-    weight: '1.00'
-  aSearchUsage_111:
-    Document: aSearchDocument_9
-    Word: aSearchWord_84
-    weight: '1.00'
-  aSearchUsage_112:
-    Document: aSearchDocument_9
-    Word: aSearchWord_16
-    weight: '2.00'
-  aSearchUsage_113:
-    Document: aSearchDocument_9
-    Word: aSearchWord_85
-    weight: '1.00'
-  aSearchUsage_114:
-    Document: aSearchDocument_9
-    Word: aSearchWord_74
-    weight: '1.00'
-  aSearchUsage_115:
-    Document: aSearchDocument_9
-    Word: aSearchWord_75
-    weight: '1.00'
-  aSearchUsage_116:
-    Document: aSearchDocument_9
-    Word: aSearchWord_2
-    weight: '1.00'
-  aSearchUsage_117:
-    Document: aSearchDocument_9
-    Word: aSearchWord_2
-    weight: '3.00'
-  aSearchUsage_118:
-    Document: aSearchDocument_10
-    Word: aSearchWord_3
-    weight: '1.00'
-  aSearchUsage_119:
-    Document: aSearchDocument_10
-    Word: aSearchWord_3
-    weight: '1.00'
-  aSearchUsage_120:
-    Document: aSearchDocument_10
-    Word: aSearchWord_3
-    weight: '3.00'
-  aSearchUsage_121:
-    Document: aSearchDocument_10
+    Document: aSearchDocument_7
     Word: aSearchWord_4
     weight: '1.00'
+  aSearchUsage_111:
+    Document: aSearchDocument_7
+    Word: aSearchWord_4
+    weight: '3.00'
+  aSearchUsage_112:
+    Document: aSearchDocument_8
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_113:
+    Document: aSearchDocument_8
+    Word: aSearchWord_87
+    weight: '1.00'
+  aSearchUsage_114:
+    Document: aSearchDocument_8
+    Word: aSearchWord_38
+    weight: '1.00'
+  aSearchUsage_115:
+    Document: aSearchDocument_8
+    Word: aSearchWord_14
+    weight: '1.00'
+  aSearchUsage_116:
+    Document: aSearchDocument_8
+    Word: aSearchWord_121
+    weight: '1.00'
+  aSearchUsage_117:
+    Document: aSearchDocument_8
+    Word: aSearchWord_104
+    weight: '1.00'
+  aSearchUsage_118:
+    Document: aSearchDocument_8
+    Word: aSearchWord_79
+    weight: '1.00'
+  aSearchUsage_119:
+    Document: aSearchDocument_8
+    Word: aSearchWord_105
+    weight: '1.00'
+  aSearchUsage_120:
+    Document: aSearchDocument_8
+    Word: aSearchWord_93
+    weight: '1.00'
+  aSearchUsage_121:
+    Document: aSearchDocument_8
+    Word: aSearchWord_50
+    weight: '1.00'
   aSearchUsage_122:
-    Document: aSearchDocument_11
-    Word: aSearchWord_5
+    Document: aSearchDocument_8
+    Word: aSearchWord_53
     weight: '1.00'
   aSearchUsage_123:
-    Document: aSearchDocument_11
-    Word: aSearchWord_5
+    Document: aSearchDocument_8
+    Word: aSearchWord_98
     weight: '1.00'
   aSearchUsage_124:
-    Document: aSearchDocument_11
-    Word: aSearchWord_5
-    weight: '3.00'
+    Document: aSearchDocument_8
+    Word: aSearchWord_1
+    weight: '1.00'
   aSearchUsage_125:
-    Document: aSearchDocument_11
-    Word: aSearchWord_6
+    Document: aSearchDocument_8
+    Word: aSearchWord_125
     weight: '1.00'
   aSearchUsage_126:
-    Document: aSearchDocument_12
-    Word: aSearchWord_7
-    weight: '2.00'
+    Document: aSearchDocument_8
+    Word: aSearchWord_4
+    weight: '1.00'
   aSearchUsage_127:
-    Document: aSearchDocument_12
-    Word: aSearchWord_86
-    weight: '1.00'
+    Document: aSearchDocument_8
+    Word: aSearchWord_1
+    weight: '3.00'
   aSearchUsage_128:
-    Document: aSearchDocument_12
-    Word: aSearchWord_69
-    weight: '1.00'
+    Document: aSearchDocument_8
+    Word: aSearchWord_87
+    weight: '3.00'
   aSearchUsage_129:
     Document: aSearchDocument_12
-    Word: aSearchWord_16
+    Word: aSearchWord_33
     weight: '1.00'
   aSearchUsage_130:
     Document: aSearchDocument_12
-    Word: aSearchWord_87
+    Word: aSearchWord_33
     weight: '1.00'
   aSearchUsage_131:
     Document: aSearchDocument_12
-    Word: aSearchWord_88
-    weight: '1.00'
+    Word: aSearchWord_33
+    weight: '3.00'
   aSearchUsage_132:
-    Document: aSearchDocument_12
-    Word: aSearchWord_89
+    Document: aSearchDocument_10
+    Word: aSearchWord_32
     weight: '1.00'
   aSearchUsage_133:
-    Document: aSearchDocument_12
-    Word: aSearchWord_90
+    Document: aSearchDocument_10
+    Word: aSearchWord_32
     weight: '1.00'
   aSearchUsage_134:
-    Document: aSearchDocument_12
-    Word: aSearchWord_91
-    weight: '1.00'
+    Document: aSearchDocument_10
+    Word: aSearchWord_32
+    weight: '3.00'
   aSearchUsage_135:
-    Document: aSearchDocument_12
-    Word: aSearchWord_92
+    Document: aSearchDocument_10
+    Word: aSearchWord_8
     weight: '1.00'
   aSearchUsage_136:
-    Document: aSearchDocument_12
-    Word: aSearchWord_93
+    Document: aSearchDocument_13
+    Word: aSearchWord_11
     weight: '1.00'
   aSearchUsage_137:
-    Document: aSearchDocument_12
-    Word: aSearchWord_9
+    Document: aSearchDocument_13
+    Word: aSearchWord_11
     weight: '1.00'
   aSearchUsage_138:
-    Document: aSearchDocument_12
-    Word: aSearchWord_94
-    weight: '1.00'
+    Document: aSearchDocument_13
+    Word: aSearchWord_11
+    weight: '3.00'
   aSearchUsage_139:
-    Document: aSearchDocument_12
-    Word: aSearchWord_7
+    Document: aSearchDocument_1
+    Word: aSearchWord_77
     weight: '1.00'
   aSearchUsage_140:
-    Document: aSearchDocument_12
-    Word: aSearchWord_7
+    Document: aSearchDocument_1
+    Word: aSearchWord_77
     weight: '3.00'
   aSearchUsage_141:
-    Document: aSearchDocument_13
-    Word: aSearchWord_11
+    Document: aSearchDocument_1
+    Word: aSearchWord_2
     weight: '1.00'
-  aSearchUsage_142:
-    Document: aSearchDocument_13
-    Word: aSearchWord_95
-    weight: '1.00'
-  aSearchUsage_143:
-    Document: aSearchDocument_13
-    Word: aSearchWord_96
-    weight: '1.00'
-  aSearchUsage_144:
-    Document: aSearchDocument_13
-    Word: aSearchWord_16
-    weight: '1.00'
-  aSearchUsage_145:
-    Document: aSearchDocument_13
-    Word: aSearchWord_97
-    weight: '1.00'
-  aSearchUsage_146:
-    Document: aSearchDocument_13
-    Word: aSearchWord_98
-    weight: '1.00'
-  aSearchUsage_147:
-    Document: aSearchDocument_13
-    Word: aSearchWord_89
-    weight: '1.00'
-  aSearchUsage_148:
-    Document: aSearchDocument_13
-    Word: aSearchWord_90
-    weight: '1.00'
-  aSearchUsage_149:
-    Document: aSearchDocument_13
-    Word: aSearchWord_99
-    weight: '1.00'
-  aSearchUsage_150:
-    Document: aSearchDocument_13
-    Word: aSearchWord_100
-    weight: '1.00'
-  aSearchUsage_151:
-    Document: aSearchDocument_13
-    Word: aSearchWord_101
-    weight: '1.00'
-  aSearchUsage_152:
-    Document: aSearchDocument_13
-    Word: aSearchWord_102
-    weight: '1.00'
-  aSearchUsage_153:
-    Document: aSearchDocument_13
-    Word: aSearchWord_11
-    weight: '1.00'
-  aSearchUsage_154:
-    Document: aSearchDocument_13
-    Word: aSearchWord_103
-    weight: '1.00'
-  aSearchUsage_155:
-    Document: aSearchDocument_13
-    Word: aSearchWord_7
-    weight: '1.00'
-  aSearchUsage_156:
-    Document: aSearchDocument_13
-    Word: aSearchWord_11
-    weight: '3.00'
   aSearchUsage_157:
-    Document: aSearchDocument_13
-    Word: aSearchWord_95
-    weight: '3.00'
-  aSearchUsage_377:
-    Document: aSearchDocument_17
-    Word: aSearchWord_2
+    Document: aSearchDocument_14
+    Word: aSearchWord_60
     weight: '1.00'
-  aSearchUsage_378:
-    Document: aSearchDocument_17
-    Word: aSearchWord_2
+  aSearchUsage_158:
+    Document: aSearchDocument_14
+    Word: aSearchWord_71
     weight: '1.00'
-  aSearchUsage_379:
-    Document: aSearchDocument_17
-    Word: aSearchWord_2
-    weight: '3.00'
-  aSearchUsage_400:
-    Document: aSearchDocument_15
-    Word: aSearchWord_118
-    weight: '1.00'
-  aSearchUsage_401:
-    Document: aSearchDocument_15
-    Word: aSearchWord_118
-    weight: '1.00'
-  aSearchUsage_402:
-    Document: aSearchDocument_15
-    Word: aSearchWord_118
-    weight: '3.00'
-  aSearchUsage_403:
-    Document: aSearchDocument_15
-    Word: aSearchWord_4
-    weight: '1.00'
-  aSearchUsage_408:
-    Document: aSearchDocument_18
-    Word: aSearchWord_121
-    weight: '1.00'
-  aSearchUsage_409:
-    Document: aSearchDocument_18
-    Word: aSearchWord_121
-    weight: '1.00'
-  aSearchUsage_410:
-    Document: aSearchDocument_18
-    Word: aSearchWord_121
-    weight: '3.00'
-  aSearchUsage_426:
-    Document: aSearchDocument_6
-    Word: aSearchWord_107
-    weight: '1.00'
-  aSearchUsage_427:
-    Document: aSearchDocument_6
-    Word: aSearchWord_107
-    weight: '3.00'
-  aSearchUsage_428:
-    Document: aSearchDocument_6
-    Word: aSearchWord_6
-    weight: '1.00'
-  aSearchUsage_455:
-    Document: aSearchDocument_16
-    Word: aSearchWord_41
-    weight: '1.00'
-  aSearchUsage_456:
-    Document: aSearchDocument_16
-    Word: aSearchWord_120
-    weight: '1.00'
-  aSearchUsage_457:
-    Document: aSearchDocument_16
-    Word: aSearchWord_124
-    weight: '1.00'
-  aSearchUsage_458:
-    Document: aSearchDocument_16
-    Word: aSearchWord_125
-    weight: '1.00'
-  aSearchUsage_459:
-    Document: aSearchDocument_16
+  aSearchUsage_159:
+    Document: aSearchDocument_14
     Word: aSearchWord_126
     weight: '1.00'
-  aSearchUsage_460:
-    Document: aSearchDocument_16
-    Word: aSearchWord_127
+  aSearchUsage_160:
+    Document: aSearchDocument_9
+    Word: aSearchWord_41
+    weight: '2.00'
+  aSearchUsage_161:
+    Document: aSearchDocument_9
+    Word: aSearchWord_82
+    weight: '2.00'
+  aSearchUsage_162:
+    Document: aSearchDocument_9
+    Word: aSearchWord_94
     weight: '1.00'
-  aSearchUsage_461:
-    Document: aSearchDocument_16
-    Word: aSearchWord_24
+  aSearchUsage_163:
+    Document: aSearchDocument_9
+    Word: aSearchWord_103
     weight: '1.00'
-  aSearchUsage_462:
-    Document: aSearchDocument_16
-    Word: aSearchWord_128
+  aSearchUsage_164:
+    Document: aSearchDocument_9
+    Word: aSearchWord_72
     weight: '1.00'
-  aSearchUsage_463:
-    Document: aSearchDocument_16
+  aSearchUsage_165:
+    Document: aSearchDocument_9
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_166:
+    Document: aSearchDocument_9
+    Word: aSearchWord_21
+    weight: '1.00'
+  aSearchUsage_167:
+    Document: aSearchDocument_9
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_168:
+    Document: aSearchDocument_9
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_169:
+    Document: aSearchDocument_9
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_170:
+    Document: aSearchDocument_9
+    Word: aSearchWord_41
+    weight: '3.00'
+  aSearchUsage_171:
+    Document: aSearchDocument_9
+    Word: aSearchWord_82
+    weight: '3.00'
+  aSearchUsage_172:
+    Document: aSearchDocument_9
+    Word: aSearchWord_3
+    weight: '1.00'
+  aSearchUsage_173:
+    Document: aSearchDocument_15
+    Word: aSearchWord_56
+    weight: '1.00'
+  aSearchUsage_174:
+    Document: aSearchDocument_15
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_175:
+    Document: aSearchDocument_15
+    Word: aSearchWord_21
+    weight: '1.00'
+  aSearchUsage_176:
+    Document: aSearchDocument_15
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_177:
+    Document: aSearchDocument_15
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_178:
+    Document: aSearchDocument_15
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_179:
+    Document: aSearchDocument_15
+    Word: aSearchWord_56
+    weight: '3.00'
+  aSearchUsage_180:
+    Document: aSearchDocument_15
+    Word: aSearchWord_3
+    weight: '1.00'
+  aSearchUsage_350:
+    Document: aSearchDocument_19
+    Word: aSearchWord_68
+    weight: '1.00'
+  aSearchUsage_351:
+    Document: aSearchDocument_19
+    Word: aSearchWord_99
+    weight: '1.00'
+  aSearchUsage_352:
+    Document: aSearchDocument_19
+    Word: aSearchWord_135
+    weight: '1.00'
+  aSearchUsage_353:
+    Document: aSearchDocument_19
+    Word: aSearchWord_76
+    weight: '1.00'
+  aSearchUsage_354:
+    Document: aSearchDocument_19
+    Word: aSearchWord_136
+    weight: '1.00'
+  aSearchUsage_355:
+    Document: aSearchDocument_19
+    Word: aSearchWord_50
+    weight: '1.00'
+  aSearchUsage_356:
+    Document: aSearchDocument_19
+    Word: aSearchWord_137
+    weight: '1.00'
+  aSearchUsage_357:
+    Document: aSearchDocument_19
+    Word: aSearchWord_138
+    weight: '1.00'
+  aSearchUsage_358:
+    Document: aSearchDocument_19
+    Word: aSearchWord_139
+    weight: '1.00'
+  aSearchUsage_359:
+    Document: aSearchDocument_19
+    Word: aSearchWord_70
+    weight: '1.00'
+  aSearchUsage_360:
+    Document: aSearchDocument_19
+    Word: aSearchWord_140
+    weight: '1.00'
+  aSearchUsage_361:
+    Document: aSearchDocument_19
+    Word: aSearchWord_48
+    weight: '1.00'
+  aSearchUsage_362:
+    Document: aSearchDocument_19
+    Word: aSearchWord_141
+    weight: '1.00'
+  aSearchUsage_363:
+    Document: aSearchDocument_19
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_364:
+    Document: aSearchDocument_19
+    Word: aSearchWord_21
+    weight: '1.00'
+  aSearchUsage_365:
+    Document: aSearchDocument_19
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_366:
+    Document: aSearchDocument_19
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_367:
+    Document: aSearchDocument_19
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_368:
+    Document: aSearchDocument_19
+    Word: aSearchWord_68
+    weight: '3.00'
+  aSearchUsage_369:
+    Document: aSearchDocument_19
+    Word: aSearchWord_99
+    weight: '3.00'
+  aSearchUsage_370:
+    Document: aSearchDocument_19
+    Word: aSearchWord_135
+    weight: '3.00'
+  aSearchUsage_371:
+    Document: aSearchDocument_19
+    Word: aSearchWord_76
+    weight: '3.00'
+  aSearchUsage_372:
+    Document: aSearchDocument_19
+    Word: aSearchWord_77
+    weight: '1.00'
+  aSearchUsage_373:
+    Document: aSearchDocument_19
+    Word: aSearchWord_3
+    weight: '1.00'
+  aSearchUsage_746:
+    Document: aSearchDocument_23
+    Word: aSearchWord_164
+    weight: '1.00'
+  aSearchUsage_747:
+    Document: aSearchDocument_23
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_748:
+    Document: aSearchDocument_23
+    Word: aSearchWord_146
+    weight: '1.00'
+  aSearchUsage_749:
+    Document: aSearchDocument_23
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_750:
+    Document: aSearchDocument_23
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_751:
+    Document: aSearchDocument_23
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_752:
+    Document: aSearchDocument_23
+    Word: aSearchWord_164
+    weight: '3.00'
+  aSearchUsage_753:
+    Document: aSearchDocument_23
+    Word: aSearchWord_32
+    weight: '1.00'
+  aSearchUsage_754:
+    Document: aSearchDocument_23
+    Word: aSearchWord_8
+    weight: '1.00'
+  aSearchUsage_1285:
+    Document: aSearchDocument_26
+    Word: aSearchWord_89
+    weight: '2.00'
+  aSearchUsage_1286:
+    Document: aSearchDocument_26
+    Word: aSearchWord_135
+    weight: '6.00'
+  aSearchUsage_1287:
+    Document: aSearchDocument_26
+    Word: aSearchWord_27
+    weight: '1.00'
+  aSearchUsage_1288:
+    Document: aSearchDocument_26
+    Word: aSearchWord_172
+    weight: '3.00'
+  aSearchUsage_1289:
+    Document: aSearchDocument_26
+    Word: aSearchWord_76
+    weight: '21.00'
+  aSearchUsage_1290:
+    Document: aSearchDocument_26
+    Word: aSearchWord_35
+    weight: '1.00'
+  aSearchUsage_1291:
+    Document: aSearchDocument_26
+    Word: aSearchWord_173
+    weight: '1.00'
+  aSearchUsage_1292:
+    Document: aSearchDocument_26
+    Word: aSearchWord_174
+    weight: '1.00'
+  aSearchUsage_1293:
+    Document: aSearchDocument_26
+    Word: aSearchWord_175
+    weight: '5.00'
+  aSearchUsage_1294:
+    Document: aSearchDocument_26
+    Word: aSearchWord_176
+    weight: '1.00'
+  aSearchUsage_1295:
+    Document: aSearchDocument_26
+    Word: aSearchWord_1
+    weight: '3.00'
+  aSearchUsage_1296:
+    Document: aSearchDocument_26
+    Word: aSearchWord_177
+    weight: '1.00'
+  aSearchUsage_1297:
+    Document: aSearchDocument_26
+    Word: aSearchWord_178
+    weight: '1.00'
+  aSearchUsage_1298:
+    Document: aSearchDocument_26
+    Word: aSearchWord_83
+    weight: '1.00'
+  aSearchUsage_1299:
+    Document: aSearchDocument_26
+    Word: aSearchWord_179
+    weight: '1.00'
+  aSearchUsage_1300:
+    Document: aSearchDocument_26
+    Word: aSearchWord_121
+    weight: '2.00'
+  aSearchUsage_1301:
+    Document: aSearchDocument_26
+    Word: aSearchWord_180
+    weight: '1.00'
+  aSearchUsage_1302:
+    Document: aSearchDocument_26
+    Word: aSearchWord_39
+    weight: '1.00'
+  aSearchUsage_1303:
+    Document: aSearchDocument_26
+    Word: aSearchWord_181
+    weight: '1.00'
+  aSearchUsage_1304:
+    Document: aSearchDocument_26
+    Word: aSearchWord_182
+    weight: '1.00'
+  aSearchUsage_1305:
+    Document: aSearchDocument_26
+    Word: aSearchWord_84
+    weight: '1.00'
+  aSearchUsage_1306:
+    Document: aSearchDocument_26
+    Word: aSearchWord_183
+    weight: '1.00'
+  aSearchUsage_1307:
+    Document: aSearchDocument_26
+    Word: aSearchWord_170
+    weight: '1.00'
+  aSearchUsage_1308:
+    Document: aSearchDocument_26
+    Word: aSearchWord_184
+    weight: '1.00'
+  aSearchUsage_1309:
+    Document: aSearchDocument_26
+    Word: aSearchWord_185
+    weight: '1.00'
+  aSearchUsage_1310:
+    Document: aSearchDocument_26
+    Word: aSearchWord_186
+    weight: '1.00'
+  aSearchUsage_1311:
+    Document: aSearchDocument_26
+    Word: aSearchWord_187
+    weight: '1.00'
+  aSearchUsage_1312:
+    Document: aSearchDocument_26
+    Word: aSearchWord_188
+    weight: '1.00'
+  aSearchUsage_1313:
+    Document: aSearchDocument_26
+    Word: aSearchWord_189
+    weight: '1.00'
+  aSearchUsage_1314:
+    Document: aSearchDocument_26
+    Word: aSearchWord_190
+    weight: '1.00'
+  aSearchUsage_1315:
+    Document: aSearchDocument_26
+    Word: aSearchWord_191
+    weight: '1.00'
+  aSearchUsage_1316:
+    Document: aSearchDocument_26
+    Word: aSearchWord_81
+    weight: '1.00'
+  aSearchUsage_1317:
+    Document: aSearchDocument_26
+    Word: aSearchWord_192
+    weight: '1.00'
+  aSearchUsage_1318:
+    Document: aSearchDocument_26
+    Word: aSearchWord_48
+    weight: '1.00'
+  aSearchUsage_1319:
+    Document: aSearchDocument_26
+    Word: aSearchWord_193
+    weight: '2.00'
+  aSearchUsage_1320:
+    Document: aSearchDocument_26
+    Word: aSearchWord_68
+    weight: '2.00'
+  aSearchUsage_1321:
+    Document: aSearchDocument_26
+    Word: aSearchWord_194
+    weight: '1.00'
+  aSearchUsage_1322:
+    Document: aSearchDocument_26
+    Word: aSearchWord_195
+    weight: '1.00'
+  aSearchUsage_1323:
+    Document: aSearchDocument_26
+    Word: aSearchWord_196
+    weight: '1.00'
+  aSearchUsage_1324:
+    Document: aSearchDocument_26
+    Word: aSearchWord_197
+    weight: '1.00'
+  aSearchUsage_1325:
+    Document: aSearchDocument_26
+    Word: aSearchWord_198
+    weight: '1.00'
+  aSearchUsage_1326:
+    Document: aSearchDocument_26
+    Word: aSearchWord_199
+    weight: '1.00'
+  aSearchUsage_1327:
+    Document: aSearchDocument_26
+    Word: aSearchWord_200
+    weight: '1.00'
+  aSearchUsage_1328:
+    Document: aSearchDocument_26
+    Word: aSearchWord_201
+    weight: '1.00'
+  aSearchUsage_1329:
+    Document: aSearchDocument_26
+    Word: aSearchWord_202
+    weight: '1.00'
+  aSearchUsage_1330:
+    Document: aSearchDocument_26
+    Word: aSearchWord_203
+    weight: '2.00'
+  aSearchUsage_1331:
+    Document: aSearchDocument_26
+    Word: aSearchWord_204
+    weight: '2.00'
+  aSearchUsage_1332:
+    Document: aSearchDocument_26
+    Word: aSearchWord_205
+    weight: '1.00'
+  aSearchUsage_1333:
+    Document: aSearchDocument_26
+    Word: aSearchWord_159
+    weight: '1.00'
+  aSearchUsage_1334:
+    Document: aSearchDocument_26
+    Word: aSearchWord_206
+    weight: '1.00'
+  aSearchUsage_1335:
+    Document: aSearchDocument_26
+    Word: aSearchWord_207
+    weight: '1.00'
+  aSearchUsage_1336:
+    Document: aSearchDocument_26
+    Word: aSearchWord_111
+    weight: '1.00'
+  aSearchUsage_1337:
+    Document: aSearchDocument_26
+    Word: aSearchWord_208
+    weight: '1.00'
+  aSearchUsage_1338:
+    Document: aSearchDocument_26
+    Word: aSearchWord_209
+    weight: '1.00'
+  aSearchUsage_1339:
+    Document: aSearchDocument_26
+    Word: aSearchWord_210
+    weight: '1.00'
+  aSearchUsage_1340:
+    Document: aSearchDocument_26
+    Word: aSearchWord_211
+    weight: '1.00'
+  aSearchUsage_1341:
+    Document: aSearchDocument_26
+    Word: aSearchWord_212
+    weight: '1.00'
+  aSearchUsage_1342:
+    Document: aSearchDocument_26
+    Word: aSearchWord_213
+    weight: '1.00'
+  aSearchUsage_1343:
+    Document: aSearchDocument_26
+    Word: aSearchWord_214
+    weight: '1.00'
+  aSearchUsage_1344:
+    Document: aSearchDocument_26
+    Word: aSearchWord_37
+    weight: '1.00'
+  aSearchUsage_1345:
+    Document: aSearchDocument_26
     Word: aSearchWord_129
     weight: '1.00'
-  aSearchUsage_464:
-    Document: aSearchDocument_16
-    Word: aSearchWord_130
+  aSearchUsage_1346:
+    Document: aSearchDocument_26
+    Word: aSearchWord_215
     weight: '1.00'
-  aSearchUsage_465:
-    Document: aSearchDocument_16
-    Word: aSearchWord_106
+  aSearchUsage_1347:
+    Document: aSearchDocument_26
+    Word: aSearchWord_216
     weight: '1.00'
-  aSearchUsage_466:
-    Document: aSearchDocument_16
-    Word: aSearchWord_41
+  aSearchUsage_1348:
+    Document: aSearchDocument_26
+    Word: aSearchWord_217
     weight: '1.00'
-  aSearchUsage_467:
-    Document: aSearchDocument_16
-    Word: aSearchWord_120
+  aSearchUsage_1349:
+    Document: aSearchDocument_26
+    Word: aSearchWord_218
     weight: '1.00'
-  aSearchUsage_468:
-    Document: aSearchDocument_16
-    Word: aSearchWord_41
+  aSearchUsage_1350:
+    Document: aSearchDocument_26
+    Word: aSearchWord_219
+    weight: '1.00'
+  aSearchUsage_1351:
+    Document: aSearchDocument_26
+    Word: aSearchWord_152
+    weight: '1.00'
+  aSearchUsage_1352:
+    Document: aSearchDocument_26
+    Word: aSearchWord_19
+    weight: '1.00'
+  aSearchUsage_1353:
+    Document: aSearchDocument_26
+    Word: aSearchWord_220
+    weight: '1.00'
+  aSearchUsage_1354:
+    Document: aSearchDocument_26
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_1355:
+    Document: aSearchDocument_26
+    Word: aSearchWord_21
+    weight: '1.00'
+  aSearchUsage_1356:
+    Document: aSearchDocument_26
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_1357:
+    Document: aSearchDocument_26
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_1358:
+    Document: aSearchDocument_26
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_1359:
+    Document: aSearchDocument_26
+    Word: aSearchWord_89
     weight: '3.00'
-  aSearchUsage_469:
-    Document: aSearchDocument_16
-    Word: aSearchWord_120
+  aSearchUsage_1360:
+    Document: aSearchDocument_26
+    Word: aSearchWord_135
     weight: '3.00'
-  aSearchUsage_499:
-    Document: aSearchDocument_19
-    Word: aSearchWord_131
+  aSearchUsage_1361:
+    Document: aSearchDocument_26
+    Word: aSearchWord_27
+    weight: '3.00'
+  aSearchUsage_1362:
+    Document: aSearchDocument_26
+    Word: aSearchWord_172
+    weight: '3.00'
+  aSearchUsage_1363:
+    Document: aSearchDocument_26
+    Word: aSearchWord_76
+    weight: '3.00'
+  aSearchUsage_1364:
+    Document: aSearchDocument_26
+    Word: aSearchWord_77
     weight: '1.00'
-  aSearchUsage_500:
-    Document: aSearchDocument_19
-    Word: aSearchWord_132
+  aSearchUsage_1365:
+    Document: aSearchDocument_26
+    Word: aSearchWord_3
     weight: '1.00'
-  aSearchUsage_501:
-    Document: aSearchDocument_19
-    Word: aSearchWord_133
+  aSearchUsage_1517:
+    Document: aSearchDocument_25
+    Word: aSearchWord_149
     weight: '1.00'
-  aSearchUsage_567:
-    Document: aSearchDocument_14
-    Word: aSearchWord_109
+  aSearchUsage_1518:
+    Document: aSearchDocument_25
+    Word: aSearchWord_168
+    weight: '1.00'
+  aSearchUsage_1519:
+    Document: aSearchDocument_25
+    Word: aSearchWord_70
+    weight: '1.00'
+  aSearchUsage_1520:
+    Document: aSearchDocument_25
+    Word: aSearchWord_169
+    weight: '1.00'
+  aSearchUsage_1521:
+    Document: aSearchDocument_25
+    Word: aSearchWord_170
+    weight: '1.00'
+  aSearchUsage_1522:
+    Document: aSearchDocument_25
+    Word: aSearchWord_171
+    weight: '1.00'
+  aSearchUsage_1523:
+    Document: aSearchDocument_25
+    Word: aSearchWord_76
+    weight: '1.00'
+  aSearchUsage_1524:
+    Document: aSearchDocument_25
+    Word: aSearchWord_68
+    weight: '1.00'
+  aSearchUsage_1525:
+    Document: aSearchDocument_25
+    Word: aSearchWord_55
+    weight: '1.00'
+  aSearchUsage_1526:
+    Document: aSearchDocument_25
+    Word: aSearchWord_68
+    weight: '1.00'
+  aSearchUsage_1527:
+    Document: aSearchDocument_25
+    Word: aSearchWord_55
+    weight: '1.00'
+  aSearchUsage_1528:
+    Document: aSearchDocument_25
+    Word: aSearchWord_68
+    weight: '3.00'
+  aSearchUsage_1529:
+    Document: aSearchDocument_25
+    Word: aSearchWord_55
+    weight: '3.00'
+  aSearchUsage_1539:
+    Document: aSearchDocument_27
+    Word: aSearchWord_33
+    weight: '1.00'
+  aSearchUsage_1540:
+    Document: aSearchDocument_27
+    Word: aSearchWord_33
+    weight: '1.00'
+  aSearchUsage_1541:
+    Document: aSearchDocument_27
+    Word: aSearchWord_33
+    weight: '3.00'
+  aSearchUsage_1751:
+    Document: aSearchDocument_2
+    Word: aSearchWord_5
+    weight: '1.00'
+  aSearchUsage_1752:
+    Document: aSearchDocument_2
+    Word: aSearchWord_20
+    weight: '1.00'
+  aSearchUsage_1753:
+    Document: aSearchDocument_2
+    Word: aSearchWord_36
+    weight: '1.00'
+  aSearchUsage_1754:
+    Document: aSearchDocument_2
+    Word: aSearchWord_68
+    weight: '3.00'
+  aSearchUsage_1755:
+    Document: aSearchDocument_2
+    Word: aSearchWord_18
+    weight: '1.00'
+  aSearchUsage_1756:
+    Document: aSearchDocument_2
+    Word: aSearchWord_120
+    weight: '4.00'
+  aSearchUsage_1757:
+    Document: aSearchDocument_2
+    Word: aSearchWord_52
+    weight: '1.00'
+  aSearchUsage_1758:
+    Document: aSearchDocument_2
+    Word: aSearchWord_37
+    weight: '1.00'
+  aSearchUsage_1759:
+    Document: aSearchDocument_2
+    Word: aSearchWord_99
+    weight: '1.00'
+  aSearchUsage_1760:
+    Document: aSearchDocument_2
+    Word: aSearchWord_90
+    weight: '1.00'
+  aSearchUsage_1761:
+    Document: aSearchDocument_2
+    Word: aSearchWord_48
+    weight: '3.00'
+  aSearchUsage_1762:
+    Document: aSearchDocument_2
+    Word: aSearchWord_124
     weight: '2.00'
-  aSearchUsage_568:
-    Document: aSearchDocument_14
+  aSearchUsage_1763:
+    Document: aSearchDocument_2
+    Word: aSearchWord_14
+    weight: '1.00'
+  aSearchUsage_1764:
+    Document: aSearchDocument_2
+    Word: aSearchWord_129
+    weight: '2.00'
+  aSearchUsage_1765:
+    Document: aSearchDocument_2
+    Word: aSearchWord_85
+    weight: '2.00'
+  aSearchUsage_1766:
+    Document: aSearchDocument_2
+    Word: aSearchWord_44
+    weight: '1.00'
+  aSearchUsage_1767:
+    Document: aSearchDocument_2
+    Word: aSearchWord_27
+    weight: '1.00'
+  aSearchUsage_1768:
+    Document: aSearchDocument_2
+    Word: aSearchWord_114
+    weight: '1.00'
+  aSearchUsage_1769:
+    Document: aSearchDocument_2
+    Word: aSearchWord_30
+    weight: '1.00'
+  aSearchUsage_1770:
+    Document: aSearchDocument_2
+    Word: aSearchWord_111
+    weight: '1.00'
+  aSearchUsage_1771:
+    Document: aSearchDocument_2
+    Word: aSearchWord_22
+    weight: '2.00'
+  aSearchUsage_1772:
+    Document: aSearchDocument_2
+    Word: aSearchWord_44
+    weight: '1.00'
+  aSearchUsage_1773:
+    Document: aSearchDocument_2
+    Word: aSearchWord_45
+    weight: '1.00'
+  aSearchUsage_1774:
+    Document: aSearchDocument_2
+    Word: aSearchWord_10
+    weight: '2.00'
+  aSearchUsage_1775:
+    Document: aSearchDocument_2
+    Word: aSearchWord_39
+    weight: '1.00'
+  aSearchUsage_1776:
+    Document: aSearchDocument_2
+    Word: aSearchWord_47
+    weight: '1.00'
+  aSearchUsage_1777:
+    Document: aSearchDocument_2
     Word: aSearchWord_110
+    weight: '1.00'
+  aSearchUsage_1778:
+    Document: aSearchDocument_2
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_1779:
+    Document: aSearchDocument_2
+    Word: aSearchWord_28
+    weight: '1.00'
+  aSearchUsage_1780:
+    Document: aSearchDocument_2
+    Word: aSearchWord_134
+    weight: '1.00'
+  aSearchUsage_1781:
+    Document: aSearchDocument_2
+    Word: aSearchWord_112
+    weight: '1.00'
+  aSearchUsage_1782:
+    Document: aSearchDocument_2
+    Word: aSearchWord_89
+    weight: '1.00'
+  aSearchUsage_1783:
+    Document: aSearchDocument_2
+    Word: aSearchWord_46
+    weight: '3.00'
+  aSearchUsage_1784:
+    Document: aSearchDocument_2
+    Word: aSearchWord_128
+    weight: '1.00'
+  aSearchUsage_1785:
+    Document: aSearchDocument_2
+    Word: aSearchWord_81
+    weight: '1.00'
+  aSearchUsage_1786:
+    Document: aSearchDocument_2
+    Word: aSearchWord_40
+    weight: '1.00'
+  aSearchUsage_1787:
+    Document: aSearchDocument_2
+    Word: aSearchWord_5
+    weight: '3.00'
+  aSearchUsage_1788:
+    Document: aSearchDocument_2
+    Word: aSearchWord_2
+    weight: '1.00'
+  aSearchUsage_1801:
+    Document: aSearchDocument_20
+    Word: aSearchWord_142
+    weight: '1.00'
+  aSearchUsage_1802:
+    Document: aSearchDocument_20
+    Word: aSearchWord_143
+    weight: '1.00'
+  aSearchUsage_1803:
+    Document: aSearchDocument_20
+    Word: aSearchWord_144
+    weight: '1.00'
+  aSearchUsage_1804:
+    Document: aSearchDocument_20
+    Word: aSearchWord_68
+    weight: '1.00'
+  aSearchUsage_1805:
+    Document: aSearchDocument_20
+    Word: aSearchWord_145
+    weight: '1.00'
+  aSearchUsage_1806:
+    Document: aSearchDocument_20
+    Word: aSearchWord_149
+    weight: '1.00'
+  aSearchUsage_1807:
+    Document: aSearchDocument_20
+    Word: aSearchWord_150
+    weight: '1.00'
+  aSearchUsage_1808:
+    Document: aSearchDocument_20
+    Word: aSearchWord_151
+    weight: '1.00'
+  aSearchUsage_1809:
+    Document: aSearchDocument_20
+    Word: aSearchWord_37
+    weight: '1.00'
+  aSearchUsage_1810:
+    Document: aSearchDocument_20
+    Word: aSearchWord_152
+    weight: '1.00'
+  aSearchUsage_1811:
+    Document: aSearchDocument_20
+    Word: aSearchWord_153
+    weight: '1.00'
+  aSearchUsage_1812:
+    Document: aSearchDocument_20
+    Word: aSearchWord_154
+    weight: '1.00'
+  aSearchUsage_1813:
+    Document: aSearchDocument_20
+    Word: aSearchWord_155
+    weight: '1.00'
+  aSearchUsage_1814:
+    Document: aSearchDocument_20
+    Word: aSearchWord_156
+    weight: '1.00'
+  aSearchUsage_1815:
+    Document: aSearchDocument_20
+    Word: aSearchWord_157
+    weight: '1.00'
+  aSearchUsage_1816:
+    Document: aSearchDocument_20
+    Word: aSearchWord_158
+    weight: '1.00'
+  aSearchUsage_1817:
+    Document: aSearchDocument_20
+    Word: aSearchWord_159
+    weight: '1.00'
+  aSearchUsage_1818:
+    Document: aSearchDocument_20
+    Word: aSearchWord_160
+    weight: '1.00'
+  aSearchUsage_1819:
+    Document: aSearchDocument_20
+    Word: aSearchWord_50
+    weight: '1.00'
+  aSearchUsage_1820:
+    Document: aSearchDocument_20
+    Word: aSearchWord_161
+    weight: '1.00'
+  aSearchUsage_1821:
+    Document: aSearchDocument_20
+    Word: aSearchWord_162
+    weight: '1.00'
+  aSearchUsage_1822:
+    Document: aSearchDocument_20
+    Word: aSearchWord_17
+    weight: '1.00'
+  aSearchUsage_1823:
+    Document: aSearchDocument_20
+    Word: aSearchWord_120
+    weight: '1.00'
+  aSearchUsage_1824:
+    Document: aSearchDocument_20
+    Word: aSearchWord_163
+    weight: '1.00'
+  aSearchUsage_1825:
+    Document: aSearchDocument_20
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_1826:
+    Document: aSearchDocument_20
+    Word: aSearchWord_146
+    weight: '1.00'
+  aSearchUsage_1827:
+    Document: aSearchDocument_20
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_1828:
+    Document: aSearchDocument_20
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_1829:
+    Document: aSearchDocument_20
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_1830:
+    Document: aSearchDocument_20
+    Word: aSearchWord_142
+    weight: '3.00'
+  aSearchUsage_1831:
+    Document: aSearchDocument_20
+    Word: aSearchWord_143
+    weight: '3.00'
+  aSearchUsage_1832:
+    Document: aSearchDocument_20
+    Word: aSearchWord_144
+    weight: '3.00'
+  aSearchUsage_1833:
+    Document: aSearchDocument_20
+    Word: aSearchWord_68
+    weight: '3.00'
+  aSearchUsage_1834:
+    Document: aSearchDocument_20
+    Word: aSearchWord_145
+    weight: '3.00'
+  aSearchUsage_1835:
+    Document: aSearchDocument_20
+    Word: aSearchWord_32
+    weight: '1.00'
+  aSearchUsage_1836:
+    Document: aSearchDocument_20
+    Word: aSearchWord_8
+    weight: '1.00'
+  aSearchUsage_1853:
+    Document: aSearchDocument_30
+    Word: aSearchWord_142
+    weight: '1.00'
+  aSearchUsage_1854:
+    Document: aSearchDocument_30
+    Word: aSearchWord_143
+    weight: '1.00'
+  aSearchUsage_1855:
+    Document: aSearchDocument_30
+    Word: aSearchWord_144
+    weight: '1.00'
+  aSearchUsage_1856:
+    Document: aSearchDocument_30
+    Word: aSearchWord_68
+    weight: '1.00'
+  aSearchUsage_1857:
+    Document: aSearchDocument_30
+    Word: aSearchWord_145
+    weight: '1.00'
+  aSearchUsage_1858:
+    Document: aSearchDocument_30
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_1859:
+    Document: aSearchDocument_30
+    Word: aSearchWord_146
+    weight: '1.00'
+  aSearchUsage_1860:
+    Document: aSearchDocument_30
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_1861:
+    Document: aSearchDocument_30
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_1862:
+    Document: aSearchDocument_30
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_1863:
+    Document: aSearchDocument_30
+    Word: aSearchWord_142
+    weight: '3.00'
+  aSearchUsage_1864:
+    Document: aSearchDocument_30
+    Word: aSearchWord_143
+    weight: '3.00'
+  aSearchUsage_1865:
+    Document: aSearchDocument_30
+    Word: aSearchWord_144
+    weight: '3.00'
+  aSearchUsage_1866:
+    Document: aSearchDocument_30
+    Word: aSearchWord_68
+    weight: '3.00'
+  aSearchUsage_1867:
+    Document: aSearchDocument_30
+    Word: aSearchWord_145
+    weight: '3.00'
+  aSearchUsage_1868:
+    Document: aSearchDocument_30
+    Word: aSearchWord_8
+    weight: '1.00'
+  aSearchUsage_1877:
+    Document: aSearchDocument_31
+    Word: aSearchWord_221
+    weight: '1.00'
+  aSearchUsage_1878:
+    Document: aSearchDocument_31
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_1879:
+    Document: aSearchDocument_31
+    Word: aSearchWord_146
+    weight: '1.00'
+  aSearchUsage_1880:
+    Document: aSearchDocument_31
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_1881:
+    Document: aSearchDocument_31
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_1882:
+    Document: aSearchDocument_31
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_1883:
+    Document: aSearchDocument_31
+    Word: aSearchWord_221
+    weight: '3.00'
+  aSearchUsage_1884:
+    Document: aSearchDocument_31
+    Word: aSearchWord_8
+    weight: '1.00'
+  aSearchUsage_1893:
+    Document: aSearchDocument_32
+    Word: aSearchWord_223
+    weight: '1.00'
+  aSearchUsage_1894:
+    Document: aSearchDocument_32
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_1895:
+    Document: aSearchDocument_32
+    Word: aSearchWord_146
+    weight: '1.00'
+  aSearchUsage_1896:
+    Document: aSearchDocument_32
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_1897:
+    Document: aSearchDocument_32
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_1898:
+    Document: aSearchDocument_32
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_1899:
+    Document: aSearchDocument_32
+    Word: aSearchWord_223
+    weight: '3.00'
+  aSearchUsage_1900:
+    Document: aSearchDocument_32
+    Word: aSearchWord_8
+    weight: '1.00'
+  aSearchUsage_1905:
+    Document: aSearchDocument_33
+    Word: aSearchWord_223
+    weight: '1.00'
+  aSearchUsage_1906:
+    Document: aSearchDocument_33
+    Word: aSearchWord_223
+    weight: '3.00'
+  aSearchUsage_1907:
+    Document: aSearchDocument_33
+    Word: aSearchWord_32
+    weight: '1.00'
+  aSearchUsage_1916:
+    Document: aSearchDocument_34
+    Word: aSearchWord_224
+    weight: '1.00'
+  aSearchUsage_1917:
+    Document: aSearchDocument_34
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_1918:
+    Document: aSearchDocument_34
+    Word: aSearchWord_146
+    weight: '1.00'
+  aSearchUsage_1919:
+    Document: aSearchDocument_34
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_1920:
+    Document: aSearchDocument_34
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_1921:
+    Document: aSearchDocument_34
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_1922:
+    Document: aSearchDocument_34
+    Word: aSearchWord_224
+    weight: '3.00'
+  aSearchUsage_1923:
+    Document: aSearchDocument_34
+    Word: aSearchWord_8
+    weight: '1.00'
+  aSearchUsage_2216:
+    Document: aSearchDocument_21
+    Word: aSearchWord_60
+    weight: '1.00'
+  aSearchUsage_2217:
+    Document: aSearchDocument_21
+    Word: aSearchWord_147
+    weight: '1.00'
+  aSearchUsage_2218:
+    Document: aSearchDocument_22
+    Word: aSearchWord_60
+    weight: '1.00'
+  aSearchUsage_2219:
+    Document: aSearchDocument_22
+    Word: aSearchWord_148
+    weight: '1.00'
+  aSearchUsage_2584:
+    Document: aSearchDocument_35
+    Word: aSearchWord_142
+    weight: '1.00'
+  aSearchUsage_2585:
+    Document: aSearchDocument_35
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_2586:
+    Document: aSearchDocument_35
+    Word: aSearchWord_144
+    weight: '1.00'
+  aSearchUsage_2587:
+    Document: aSearchDocument_35
+    Word: aSearchWord_68
+    weight: '1.00'
+  aSearchUsage_2588:
+    Document: aSearchDocument_35
+    Word: aSearchWord_145
+    weight: '1.00'
+  aSearchUsage_2589:
+    Document: aSearchDocument_35
+    Word: aSearchWord_155
+    weight: '1.00'
+  aSearchUsage_2590:
+    Document: aSearchDocument_35
+    Word: aSearchWord_157
+    weight: '1.00'
+  aSearchUsage_2591:
+    Document: aSearchDocument_35
+    Word: aSearchWord_151
+    weight: '1.00'
+  aSearchUsage_2592:
+    Document: aSearchDocument_35
+    Word: aSearchWord_37
+    weight: '1.00'
+  aSearchUsage_2593:
+    Document: aSearchDocument_35
+    Word: aSearchWord_152
     weight: '2.00'
-  aSearchUsage_569:
-    Document: aSearchDocument_14
+  aSearchUsage_2594:
+    Document: aSearchDocument_35
+    Word: aSearchWord_225
+    weight: '1.00'
+  aSearchUsage_2595:
+    Document: aSearchDocument_35
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_2596:
+    Document: aSearchDocument_35
+    Word: aSearchWord_226
+    weight: '1.00'
+  aSearchUsage_2597:
+    Document: aSearchDocument_35
+    Word: aSearchWord_227
+    weight: '1.00'
+  aSearchUsage_2598:
+    Document: aSearchDocument_35
+    Word: aSearchWord_160
+    weight: '1.00'
+  aSearchUsage_2599:
+    Document: aSearchDocument_35
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_2600:
+    Document: aSearchDocument_35
+    Word: aSearchWord_146
+    weight: '1.00'
+  aSearchUsage_2601:
+    Document: aSearchDocument_35
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_2602:
+    Document: aSearchDocument_35
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_2603:
+    Document: aSearchDocument_35
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_2604:
+    Document: aSearchDocument_35
+    Word: aSearchWord_142
+    weight: '3.00'
+  aSearchUsage_2605:
+    Document: aSearchDocument_35
+    Word: aSearchWord_1
+    weight: '3.00'
+  aSearchUsage_2606:
+    Document: aSearchDocument_35
+    Word: aSearchWord_144
+    weight: '3.00'
+  aSearchUsage_2607:
+    Document: aSearchDocument_35
+    Word: aSearchWord_68
+    weight: '3.00'
+  aSearchUsage_2608:
+    Document: aSearchDocument_35
+    Word: aSearchWord_145
+    weight: '3.00'
+  aSearchUsage_2609:
+    Document: aSearchDocument_35
+    Word: aSearchWord_8
+    weight: '1.00'
+  aSearchUsage_2620:
+    Document: aSearchDocument_36
+    Word: aSearchWord_228
+    weight: '1.00'
+  aSearchUsage_2621:
+    Document: aSearchDocument_36
+    Word: aSearchWord_76
+    weight: '1.00'
+  aSearchUsage_2622:
+    Document: aSearchDocument_36
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_2623:
+    Document: aSearchDocument_36
+    Word: aSearchWord_21
+    weight: '1.00'
+  aSearchUsage_2624:
+    Document: aSearchDocument_36
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_2625:
+    Document: aSearchDocument_36
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_2626:
+    Document: aSearchDocument_36
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_2627:
+    Document: aSearchDocument_36
+    Word: aSearchWord_228
+    weight: '3.00'
+  aSearchUsage_2628:
+    Document: aSearchDocument_36
+    Word: aSearchWord_76
+    weight: '3.00'
+  aSearchUsage_2629:
+    Document: aSearchDocument_36
+    Word: aSearchWord_3
+    weight: '1.00'
+  aSearchUsage_3055:
+    Document: aSearchDocument_28
+    Word: aSearchWord_228
+    weight: '1.00'
+  aSearchUsage_3056:
+    Document: aSearchDocument_28
+    Word: aSearchWord_76
+    weight: '21.00'
+  aSearchUsage_3057:
+    Document: aSearchDocument_28
+    Word: aSearchWord_35
+    weight: '1.00'
+  aSearchUsage_3058:
+    Document: aSearchDocument_28
+    Word: aSearchWord_173
+    weight: '1.00'
+  aSearchUsage_3059:
+    Document: aSearchDocument_28
+    Word: aSearchWord_135
+    weight: '5.00'
+  aSearchUsage_3060:
+    Document: aSearchDocument_28
+    Word: aSearchWord_174
+    weight: '1.00'
+  aSearchUsage_3061:
+    Document: aSearchDocument_28
+    Word: aSearchWord_175
+    weight: '5.00'
+  aSearchUsage_3062:
+    Document: aSearchDocument_28
+    Word: aSearchWord_176
+    weight: '1.00'
+  aSearchUsage_3063:
+    Document: aSearchDocument_28
+    Word: aSearchWord_1
+    weight: '3.00'
+  aSearchUsage_3064:
+    Document: aSearchDocument_28
+    Word: aSearchWord_177
+    weight: '1.00'
+  aSearchUsage_3065:
+    Document: aSearchDocument_28
+    Word: aSearchWord_178
+    weight: '1.00'
+  aSearchUsage_3066:
+    Document: aSearchDocument_28
+    Word: aSearchWord_83
+    weight: '1.00'
+  aSearchUsage_3067:
+    Document: aSearchDocument_28
+    Word: aSearchWord_179
+    weight: '1.00'
+  aSearchUsage_3068:
+    Document: aSearchDocument_28
+    Word: aSearchWord_89
+    weight: '1.00'
+  aSearchUsage_3069:
+    Document: aSearchDocument_28
+    Word: aSearchWord_121
+    weight: '2.00'
+  aSearchUsage_3070:
+    Document: aSearchDocument_28
+    Word: aSearchWord_180
+    weight: '1.00'
+  aSearchUsage_3071:
+    Document: aSearchDocument_28
+    Word: aSearchWord_39
+    weight: '1.00'
+  aSearchUsage_3072:
+    Document: aSearchDocument_28
+    Word: aSearchWord_181
+    weight: '1.00'
+  aSearchUsage_3073:
+    Document: aSearchDocument_28
+    Word: aSearchWord_182
+    weight: '1.00'
+  aSearchUsage_3074:
+    Document: aSearchDocument_28
+    Word: aSearchWord_84
+    weight: '1.00'
+  aSearchUsage_3075:
+    Document: aSearchDocument_28
+    Word: aSearchWord_183
+    weight: '1.00'
+  aSearchUsage_3076:
+    Document: aSearchDocument_28
+    Word: aSearchWord_170
+    weight: '1.00'
+  aSearchUsage_3077:
+    Document: aSearchDocument_28
+    Word: aSearchWord_184
+    weight: '1.00'
+  aSearchUsage_3078:
+    Document: aSearchDocument_28
+    Word: aSearchWord_185
+    weight: '1.00'
+  aSearchUsage_3079:
+    Document: aSearchDocument_28
+    Word: aSearchWord_186
+    weight: '1.00'
+  aSearchUsage_3080:
+    Document: aSearchDocument_28
+    Word: aSearchWord_187
+    weight: '1.00'
+  aSearchUsage_3081:
+    Document: aSearchDocument_28
+    Word: aSearchWord_188
+    weight: '1.00'
+  aSearchUsage_3082:
+    Document: aSearchDocument_28
+    Word: aSearchWord_189
+    weight: '1.00'
+  aSearchUsage_3083:
+    Document: aSearchDocument_28
+    Word: aSearchWord_190
+    weight: '1.00'
+  aSearchUsage_3084:
+    Document: aSearchDocument_28
+    Word: aSearchWord_191
+    weight: '1.00'
+  aSearchUsage_3085:
+    Document: aSearchDocument_28
+    Word: aSearchWord_81
+    weight: '1.00'
+  aSearchUsage_3086:
+    Document: aSearchDocument_28
+    Word: aSearchWord_192
+    weight: '1.00'
+  aSearchUsage_3087:
+    Document: aSearchDocument_28
+    Word: aSearchWord_48
+    weight: '1.00'
+  aSearchUsage_3088:
+    Document: aSearchDocument_28
+    Word: aSearchWord_193
+    weight: '2.00'
+  aSearchUsage_3089:
+    Document: aSearchDocument_28
+    Word: aSearchWord_68
+    weight: '2.00'
+  aSearchUsage_3090:
+    Document: aSearchDocument_28
+    Word: aSearchWord_194
+    weight: '1.00'
+  aSearchUsage_3091:
+    Document: aSearchDocument_28
+    Word: aSearchWord_195
+    weight: '1.00'
+  aSearchUsage_3092:
+    Document: aSearchDocument_28
+    Word: aSearchWord_196
+    weight: '1.00'
+  aSearchUsage_3093:
+    Document: aSearchDocument_28
+    Word: aSearchWord_197
+    weight: '1.00'
+  aSearchUsage_3094:
+    Document: aSearchDocument_28
+    Word: aSearchWord_198
+    weight: '1.00'
+  aSearchUsage_3095:
+    Document: aSearchDocument_28
+    Word: aSearchWord_199
+    weight: '1.00'
+  aSearchUsage_3096:
+    Document: aSearchDocument_28
+    Word: aSearchWord_200
+    weight: '1.00'
+  aSearchUsage_3097:
+    Document: aSearchDocument_28
+    Word: aSearchWord_201
+    weight: '1.00'
+  aSearchUsage_3098:
+    Document: aSearchDocument_28
+    Word: aSearchWord_202
+    weight: '1.00'
+  aSearchUsage_3099:
+    Document: aSearchDocument_28
+    Word: aSearchWord_203
+    weight: '2.00'
+  aSearchUsage_3100:
+    Document: aSearchDocument_28
+    Word: aSearchWord_204
+    weight: '2.00'
+  aSearchUsage_3101:
+    Document: aSearchDocument_28
+    Word: aSearchWord_205
+    weight: '1.00'
+  aSearchUsage_3102:
+    Document: aSearchDocument_28
+    Word: aSearchWord_159
+    weight: '1.00'
+  aSearchUsage_3103:
+    Document: aSearchDocument_28
+    Word: aSearchWord_206
+    weight: '1.00'
+  aSearchUsage_3104:
+    Document: aSearchDocument_28
+    Word: aSearchWord_207
+    weight: '1.00'
+  aSearchUsage_3105:
+    Document: aSearchDocument_28
+    Word: aSearchWord_111
+    weight: '1.00'
+  aSearchUsage_3106:
+    Document: aSearchDocument_28
+    Word: aSearchWord_208
+    weight: '1.00'
+  aSearchUsage_3107:
+    Document: aSearchDocument_28
+    Word: aSearchWord_209
+    weight: '1.00'
+  aSearchUsage_3108:
+    Document: aSearchDocument_28
+    Word: aSearchWord_172
+    weight: '2.00'
+  aSearchUsage_3109:
+    Document: aSearchDocument_28
+    Word: aSearchWord_210
+    weight: '1.00'
+  aSearchUsage_3110:
+    Document: aSearchDocument_28
+    Word: aSearchWord_211
+    weight: '1.00'
+  aSearchUsage_3111:
+    Document: aSearchDocument_28
+    Word: aSearchWord_212
+    weight: '1.00'
+  aSearchUsage_3112:
+    Document: aSearchDocument_28
+    Word: aSearchWord_213
+    weight: '1.00'
+  aSearchUsage_3113:
+    Document: aSearchDocument_28
+    Word: aSearchWord_214
+    weight: '1.00'
+  aSearchUsage_3114:
+    Document: aSearchDocument_28
+    Word: aSearchWord_37
+    weight: '1.00'
+  aSearchUsage_3115:
+    Document: aSearchDocument_28
+    Word: aSearchWord_129
+    weight: '1.00'
+  aSearchUsage_3116:
+    Document: aSearchDocument_28
+    Word: aSearchWord_215
+    weight: '1.00'
+  aSearchUsage_3117:
+    Document: aSearchDocument_28
+    Word: aSearchWord_216
+    weight: '1.00'
+  aSearchUsage_3118:
+    Document: aSearchDocument_28
+    Word: aSearchWord_217
+    weight: '1.00'
+  aSearchUsage_3119:
+    Document: aSearchDocument_28
+    Word: aSearchWord_218
+    weight: '1.00'
+  aSearchUsage_3120:
+    Document: aSearchDocument_28
+    Word: aSearchWord_219
+    weight: '1.00'
+  aSearchUsage_3121:
+    Document: aSearchDocument_28
+    Word: aSearchWord_152
+    weight: '1.00'
+  aSearchUsage_3122:
+    Document: aSearchDocument_28
+    Word: aSearchWord_19
+    weight: '1.00'
+  aSearchUsage_3123:
+    Document: aSearchDocument_28
+    Word: aSearchWord_220
+    weight: '1.00'
+  aSearchUsage_3124:
+    Document: aSearchDocument_28
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_3125:
+    Document: aSearchDocument_28
+    Word: aSearchWord_21
+    weight: '1.00'
+  aSearchUsage_3126:
+    Document: aSearchDocument_28
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_3127:
+    Document: aSearchDocument_28
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_3128:
+    Document: aSearchDocument_28
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_3129:
+    Document: aSearchDocument_28
+    Word: aSearchWord_228
+    weight: '3.00'
+  aSearchUsage_3130:
+    Document: aSearchDocument_28
+    Word: aSearchWord_76
+    weight: '3.00'
+  aSearchUsage_3131:
+    Document: aSearchDocument_28
+    Word: aSearchWord_3
+    weight: '1.00'
+  aSearchUsage_3132:
+    Document: aSearchDocument_29
+    Word: aSearchWord_32
+    weight: '2.00'
+  aSearchUsage_3133:
+    Document: aSearchDocument_29
+    Word: aSearchWord_229
+    weight: '1.00'
+  aSearchUsage_3134:
+    Document: aSearchDocument_29
+    Word: aSearchWord_152
+    weight: '1.00'
+  aSearchUsage_3135:
+    Document: aSearchDocument_29
+    Word: aSearchWord_230
+    weight: '1.00'
+  aSearchUsage_3136:
+    Document: aSearchDocument_29
+    Word: aSearchWord_39
+    weight: '1.00'
+  aSearchUsage_3137:
+    Document: aSearchDocument_29
+    Word: aSearchWord_32
+    weight: '1.00'
+  aSearchUsage_3138:
+    Document: aSearchDocument_29
+    Word: aSearchWord_32
+    weight: '3.00'
+  aSearchUsage_3139:
+    Document: aSearchDocument_29
+    Word: aSearchWord_8
+    weight: '1.00'
+  aSearchUsage_3170:
+    Document: aSearchDocument_37
+    Word: aSearchWord_228
+    weight: '1.00'
+  aSearchUsage_3171:
+    Document: aSearchDocument_37
+    Word: aSearchWord_76
+    weight: '2.00'
+  aSearchUsage_3172:
+    Document: aSearchDocument_37
+    Word: aSearchWord_231
+    weight: '1.00'
+  aSearchUsage_3173:
+    Document: aSearchDocument_37
+    Word: aSearchWord_15
+    weight: '1.00'
+  aSearchUsage_3174:
+    Document: aSearchDocument_37
     Word: aSearchWord_115
     weight: '1.00'
-  aSearchUsage_570:
-    Document: aSearchDocument_14
+  aSearchUsage_3175:
+    Document: aSearchDocument_37
+    Word: aSearchWord_66
+    weight: '1.00'
+  aSearchUsage_3176:
+    Document: aSearchDocument_37
+    Word: aSearchWord_131
+    weight: '1.00'
+  aSearchUsage_3177:
+    Document: aSearchDocument_37
+    Word: aSearchWord_96
+    weight: '1.00'
+  aSearchUsage_3178:
+    Document: aSearchDocument_37
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_3179:
+    Document: aSearchDocument_37
+    Word: aSearchWord_21
+    weight: '1.00'
+  aSearchUsage_3180:
+    Document: aSearchDocument_37
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_3181:
+    Document: aSearchDocument_37
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_3182:
+    Document: aSearchDocument_37
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_3183:
+    Document: aSearchDocument_37
+    Word: aSearchWord_228
+    weight: '3.00'
+  aSearchUsage_3184:
+    Document: aSearchDocument_37
+    Word: aSearchWord_76
+    weight: '3.00'
+  aSearchUsage_3185:
+    Document: aSearchDocument_37
+    Word: aSearchWord_3
+    weight: '1.00'
+  aSearchUsage_3186:
+    Document: aSearchDocument_11
+    Word: aSearchWord_68
+    weight: '1.00'
+  aSearchUsage_3187:
+    Document: aSearchDocument_11
+    Word: aSearchWord_55
+    weight: '1.00'
+  aSearchUsage_3188:
+    Document: aSearchDocument_11
+    Word: aSearchWord_115
+    weight: '2.00'
+  aSearchUsage_3189:
+    Document: aSearchDocument_11
+    Word: aSearchWord_232
+    weight: '1.00'
+  aSearchUsage_3190:
+    Document: aSearchDocument_11
     Word: aSearchWord_116
     weight: '1.00'
-  aSearchUsage_571:
-    Document: aSearchDocument_14
-    Word: aSearchWord_117
+  aSearchUsage_3191:
+    Document: aSearchDocument_11
+    Word: aSearchWord_15
     weight: '1.00'
-  aSearchUsage_572:
-    Document: aSearchDocument_14
+  aSearchUsage_3192:
+    Document: aSearchDocument_11
+    Word: aSearchWord_66
+    weight: '1.00'
+  aSearchUsage_3193:
+    Document: aSearchDocument_11
+    Word: aSearchWord_131
+    weight: '1.00'
+  aSearchUsage_3194:
+    Document: aSearchDocument_11
+    Word: aSearchWord_96
+    weight: '1.00'
+  aSearchUsage_3195:
+    Document: aSearchDocument_11
+    Word: aSearchWord_76
+    weight: '1.00'
+  aSearchUsage_3196:
+    Document: aSearchDocument_11
+    Word: aSearchWord_68
+    weight: '1.00'
+  aSearchUsage_3197:
+    Document: aSearchDocument_11
+    Word: aSearchWord_55
+    weight: '1.00'
+  aSearchUsage_3198:
+    Document: aSearchDocument_11
+    Word: aSearchWord_68
+    weight: '3.00'
+  aSearchUsage_3199:
+    Document: aSearchDocument_11
+    Word: aSearchWord_55
+    weight: '3.00'
+  aSearchUsage_3200:
+    Document: aSearchDocument_38
+    Word: aSearchWord_233
+    weight: '1.00'
+  aSearchUsage_3201:
+    Document: aSearchDocument_38
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_3202:
+    Document: aSearchDocument_38
+    Word: aSearchWord_146
+    weight: '1.00'
+  aSearchUsage_3203:
+    Document: aSearchDocument_38
+    Word: aSearchWord_97
+    weight: '1.00'
+  aSearchUsage_3204:
+    Document: aSearchDocument_38
+    Word: aSearchWord_91
+    weight: '1.00'
+  aSearchUsage_3205:
+    Document: aSearchDocument_38
+    Word: aSearchWord_59
+    weight: '1.00'
+  aSearchUsage_3206:
+    Document: aSearchDocument_38
+    Word: aSearchWord_58
+    weight: '3.00'
+  aSearchUsage_3207:
+    Document: aSearchDocument_38
+    Word: aSearchWord_8
+    weight: '1.00'
+  aSearchUsage_3228:
+    Document: aSearchDocument_39
+    Word: aSearchWord_128
+    weight: '1.00'
+  aSearchUsage_3229:
+    Document: aSearchDocument_39
+    Word: aSearchWord_76
+    weight: '1.00'
+  aSearchUsage_3230:
+    Document: aSearchDocument_39
+    Word: aSearchWord_234
+    weight: '1.00'
+  aSearchUsage_3231:
+    Document: aSearchDocument_39
+    Word: aSearchWord_235
+    weight: '1.00'
+  aSearchUsage_3232:
+    Document: aSearchDocument_39
+    Word: aSearchWord_236
+    weight: '1.00'
+  aSearchUsage_3233:
+    Document: aSearchDocument_39
+    Word: aSearchWord_142
+    weight: '1.00'
+  aSearchUsage_3234:
+    Document: aSearchDocument_39
+    Word: aSearchWord_176
+    weight: '1.00'
+  aSearchUsage_3235:
+    Document: aSearchDocument_39
+    Word: aSearchWord_1
+    weight: '1.00'
+  aSearchUsage_3236:
+    Document: aSearchDocument_39
+    Word: aSearchWord_237
+    weight: '1.00'
+  aSearchUsage_3237:
+    Document: aSearchDocument_39
+    Word: aSearchWord_177
+    weight: '1.00'
+  aSearchUsage_3238:
+    Document: aSearchDocument_39
+    Word: aSearchWord_66
+    weight: '1.00'
+  aSearchUsage_3239:
+    Document: aSearchDocument_39
+    Word: aSearchWord_131
+    weight: '1.00'
+  aSearchUsage_3240:
+    Document: aSearchDocument_39
+    Word: aSearchWord_96
+    weight: '1.00'
+  aSearchUsage_3241:
+    Document: aSearchDocument_39
+    Word: aSearchWord_76
+    weight: '3.00'
+  aSearchUsage_3242:
+    Document: aSearchDocument_39
+    Word: aSearchWord_238
+    weight: '1.00'
+  aSearchUsage_3243:
+    Document: aSearchDocument_39
+    Word: aSearchWord_239
+    weight: '1.00'
+  aSearchUsage_3244:
+    Document: aSearchDocument_39
+    Word: aSearchWord_240
+    weight: '2.00'
+  aSearchUsage_3245:
+    Document: aSearchDocument_39
+    Word: aSearchWord_241
+    weight: '1.00'
+  aSearchUsage_3246:
+    Document: aSearchDocument_39
+    Word: aSearchWord_234
+    weight: '1.00'
+  aSearchUsage_3247:
+    Document: aSearchDocument_39
+    Word: aSearchWord_242
+    weight: '1.00'
+  aSearchUsage_3248:
+    Document: aSearchDocument_24
     Word: aSearchWord_11
     weight: '1.00'
-  aSearchUsage_573:
-    Document: aSearchDocument_14
-    Word: aSearchWord_5
-    weight: '1.00'
-  aSearchUsage_574:
-    Document: aSearchDocument_14
-    Word: aSearchWord_111
-    weight: '1.00'
-  aSearchUsage_575:
-    Document: aSearchDocument_14
-    Word: aSearchWord_112
-    weight: '1.00'
-  aSearchUsage_576:
-    Document: aSearchDocument_14
-    Word: aSearchWord_113
-    weight: '1.00'
-  aSearchUsage_577:
-    Document: aSearchDocument_14
-    Word: aSearchWord_109
-    weight: '3.00'
-  aSearchUsage_578:
-    Document: aSearchDocument_14
-    Word: aSearchWord_110
-    weight: '3.00'
-  aSearchUsage_579:
-    Document: aSearchDocument_14
-    Word: aSearchWord_114
-    weight: '1.00'
-  aSearchUsage_588:
-    Document: aSearchDocument_20
-    Word: aSearchWord_134
-    weight: '1.00'
-  aSearchUsage_589:
-    Document: aSearchDocument_20
+  aSearchUsage_3249:
+    Document: aSearchDocument_24
     Word: aSearchWord_11
     weight: '1.00'
-  aSearchUsage_590:
-    Document: aSearchDocument_20
-    Word: aSearchWord_5
-    weight: '1.00'
-  aSearchUsage_591:
-    Document: aSearchDocument_20
-    Word: aSearchWord_111
-    weight: '1.00'
-  aSearchUsage_592:
-    Document: aSearchDocument_20
-    Word: aSearchWord_112
-    weight: '1.00'
-  aSearchUsage_593:
-    Document: aSearchDocument_20
-    Word: aSearchWord_113
-    weight: '1.00'
-  aSearchUsage_594:
-    Document: aSearchDocument_20
-    Word: aSearchWord_134
+  aSearchUsage_3250:
+    Document: aSearchDocument_24
+    Word: aSearchWord_11
     weight: '3.00'
-  aSearchUsage_595:
-    Document: aSearchDocument_20
-    Word: aSearchWord_114
-    weight: '1.00'
 aSearchDocument:
-  aSearchDocument_6:
+  aSearchDocument_1:
     culture: en
     info: 'a:6:{s:12:"title_stored";s:7:"niouzes";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:1:"/";s:13:"engine_stored";s:5:"aBlog";s:11:"info_stored";s:237:"a:11:{s:2:"id";s:1:"1";s:4:"slug";s:1:"/";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";s:1:"0";s:3:"lft";s:1:"1";s:3:"rgt";s:2:"18";}";s:12:"published_at";s:14:"20111216180835";}'
-  aSearchDocument_7:
+  aSearchDocument_2:
     culture: fr
-    info: 'a:6:{s:12:"title_stored";s:7:"Accueil";s:14:"summary_stored";s:50:"Bienvenue dans le aSandbox, un exemple de site ...";s:11:"slug_stored";s:1:"/";s:13:"engine_stored";s:0:"";s:11:"info_stored";s:235:"a:11:{s:2:"id";s:1:"1";s:4:"slug";s:1:"/";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";N;s:5:"admin";b:0;s:5:"level";s:1:"0";s:3:"lft";s:1:"1";s:3:"rgt";s:2:"18";}";s:12:"published_at";s:14:"20111216165137";}'
-  aSearchDocument_8:
+    info: 'a:6:{s:12:"title_stored";s:7:"Accueil";s:14:"summary_stored";s:50:"Bienvenue dans le aSandbox, un exemple de site ...";s:11:"slug_stored";s:1:"/";s:13:"engine_stored";s:5:"aBlog";s:11:"info_stored";s:237:"a:11:{s:2:"id";s:1:"1";s:4:"slug";s:1:"/";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";s:1:"0";s:3:"lft";s:1:"1";s:3:"rgt";s:2:"18";}";s:12:"published_at";s:14:"20111217141538";}'
+  aSearchDocument_3:
     culture: en
     info: 'a:6:{s:12:"title_stored";s:7:"Contact";s:14:"summary_stored";s:50:"For more information or help with Apostrophe, c...";s:11:"slug_stored";s:8:"/contact";s:13:"engine_stored";s:0:"";s:11:"info_stored";s:243:"a:11:{s:2:"id";s:1:"2";s:4:"slug";s:8:"/contact";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";N;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:2:"16";s:3:"rgt";s:2:"17";}";s:12:"published_at";s:14:"20111216165137";}'
-  aSearchDocument_9:
+  aSearchDocument_4:
     culture: fr
     info: 'a:6:{s:12:"title_stored";s:7:"Contact";s:14:"summary_stored";s:50:"Pour plus d''informations ou obtenir de l''aide a...";s:11:"slug_stored";s:8:"/contact";s:13:"engine_stored";s:0:"";s:11:"info_stored";s:243:"a:11:{s:2:"id";s:1:"2";s:4:"slug";s:8:"/contact";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";N;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:2:"16";s:3:"rgt";s:2:"17";}";s:12:"published_at";s:14:"20111216165137";}'
-  aSearchDocument_10:
+  aSearchDocument_5:
     culture: en
     info: 'a:6:{s:12:"title_stored";s:6:"Events";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:7:"/events";s:13:"engine_stored";s:6:"aEvent";s:11:"info_stored";s:240:"a:11:{s:2:"id";s:1:"7";s:4:"slug";s:7:"/events";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";N;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:1:"6";s:3:"rgt";s:1:"7";}";s:12:"published_at";s:14:"20111216165137";}'
-  aSearchDocument_11:
+  aSearchDocument_6:
     culture: en
     info: 'a:6:{s:12:"title_stored";s:4:"Blog";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:5:"/blog";s:13:"engine_stored";s:5:"aBlog";s:11:"info_stored";s:238:"a:11:{s:2:"id";s:1:"8";s:4:"slug";s:5:"/blog";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";N;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:1:"4";s:3:"rgt";s:1:"5";}";s:12:"published_at";s:14:"20111216165137";}'
-  aSearchDocument_12:
+  aSearchDocument_7:
     culture: en
     info: 'a:6:{s:12:"title_stored";s:5:"About";s:14:"summary_stored";s:50:"Learn more about Apostrophe. It is open source,...";s:11:"slug_stored";s:6:"/about";s:13:"engine_stored";s:0:"";s:11:"info_stored";s:239:"a:11:{s:2:"id";s:1:"9";s:4:"slug";s:6:"/about";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";N;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:1:"2";s:3:"rgt";s:1:"3";}";s:12:"published_at";s:14:"20111216165137";}'
-  aSearchDocument_13:
+  aSearchDocument_8:
     culture: fr
     info: 'a:6:{s:12:"title_stored";s:8:"A propos";s:14:"summary_stored";s:51:"Découvrez Apostrophe. Une solution open source,...";s:11:"slug_stored";s:6:"/about";s:13:"engine_stored";s:0:"";s:11:"info_stored";s:239:"a:11:{s:2:"id";s:1:"9";s:4:"slug";s:6:"/about";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";N;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:1:"2";s:3:"rgt";s:1:"3";}";s:12:"published_at";s:14:"20111216165137";}'
-  aSearchDocument_14:
+  aSearchDocument_9:
     culture: en
     info: 'a:6:{s:12:"title_stored";s:7:"DU PAIN";s:14:"summary_stored";s:31:" Samedi soir, mangez du pain ! ";s:11:"slug_stored";s:28:"@a_blog_search_redirect?id=1";s:13:"engine_stored";s:9:"aBlogPost";s:11:"info_stored";s:247:"a:11:{s:2:"id";s:2:"11";s:4:"slug";s:28:"@a_blog_search_redirect?id=1";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:12:"published_at";s:14:"20111216173311";}'
-  aSearchDocument_15:
+  aSearchDocument_10:
     culture: en
     info: 'a:6:{s:12:"title_stored";s:8:"concerts";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:9:"/concerts";s:13:"engine_stored";s:6:"aEvent";s:11:"info_stored";s:245:"a:11:{s:2:"id";s:2:"12";s:4:"slug";s:9:"/concerts";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:1:"8";s:3:"rgt";s:1:"9";}";s:12:"published_at";s:14:"20111216180348";}'
-  aSearchDocument_16:
+  aSearchDocument_11:
     culture: en
-    info: 'a:6:{s:12:"title_stored";s:9:"le groupe";s:14:"summary_stored";s:50:" Les musiciens They are the knights who say ......";s:11:"slug_stored";s:10:"/le-groupe";s:13:"engine_stored";s:0:"";s:11:"info_stored";s:247:"a:11:{s:2:"id";s:2:"13";s:4:"slug";s:10:"/le-groupe";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:1:"4";s:3:"rgt";s:1:"5";}";s:12:"published_at";s:14:"20111216175935";}'
-  aSearchDocument_17:
+    info: 'a:6:{s:12:"title_stored";s:9:"le groupe";s:14:"summary_stored";s:48:" The band They are the knights who say ... Ni ! ";s:11:"slug_stored";s:10:"/le-groupe";s:13:"engine_stored";s:0:"";s:11:"info_stored";s:246:"a:11:{s:2:"id";s:1:"9";s:4:"slug";s:10:"/le-groupe";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:1:"4";s:3:"rgt";s:1:"5";}";s:12:"published_at";s:14:"20111217141503";}'
+  aSearchDocument_12:
     culture: en
     info: 'a:6:{s:12:"title_stored";s:7:"contact";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:8:"/contact";s:13:"engine_stored";s:0:"";s:11:"info_stored";s:244:"a:11:{s:2:"id";s:2:"14";s:4:"slug";s:8:"/contact";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:1:"2";s:3:"rgt";s:1:"3";}";s:12:"published_at";s:14:"20111216180118";}'
-  aSearchDocument_18:
+  aSearchDocument_13:
     culture: en
     info: 'a:6:{s:12:"title_stored";s:6:"albums";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:7:"/albums";s:13:"engine_stored";s:0:"";s:11:"info_stored";s:245:"a:11:{s:2:"id";s:2:"15";s:4:"slug";s:7:"/albums";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:2:"16";s:3:"rgt";s:2:"17";}";s:12:"published_at";s:14:"20111216180135";}'
-  aSearchDocument_19:
+  aSearchDocument_14:
     culture: null
     info: 'a:0:{}'
-  aSearchDocument_20:
+  aSearchDocument_15:
     culture: en
     info: 'a:6:{s:12:"title_stored";s:4:"HAHA";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:28:"@a_blog_search_redirect?id=2";s:13:"engine_stored";s:9:"aBlogPost";s:11:"info_stored";s:247:"a:11:{s:2:"id";s:2:"16";s:4:"slug";s:28:"@a_blog_search_redirect?id=2";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:1;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:12:"published_at";s:14:"20111216193035";}'
+  aSearchDocument_16:
+    culture: en
+    info: 'a:6:{s:12:"title_stored";s:4:"HAHA";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:28:"@a_blog_search_redirect?id=1";s:13:"engine_stored";s:9:"aBlogPost";s:11:"info_stored";s:247:"a:11:{s:2:"id";s:2:"12";s:4:"slug";s:28:"@a_blog_search_redirect?id=1";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:1;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:12:"published_at";s:14:"20111216193035";}'
+  aSearchDocument_17:
+    culture: en
+    info: 'a:6:{s:12:"title_stored";s:7:"DU PAIN";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:28:"@a_blog_search_redirect?id=2";s:13:"engine_stored";s:9:"aBlogPost";s:11:"info_stored";s:246:"a:11:{s:2:"id";s:1:"7";s:4:"slug";s:28:"@a_blog_search_redirect?id=2";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:12:"published_at";s:14:"20111216173311";}'
+  aSearchDocument_18:
+    culture: null
+    info: 'a:0:{}'
+  aSearchDocument_19:
+    culture: fr
+    info: 'a:6:{s:12:"title_stored";s:15:"LE SITE EST Ni!";s:14:"summary_stored";s:50:" #FF3399 et dur labeur ! (vivement les textes e...";s:11:"slug_stored";s:28:"@a_blog_search_redirect?id=3";s:13:"engine_stored";s:9:"aBlogPost";s:11:"info_stored";s:247:"a:11:{s:2:"id";s:2:"13";s:4:"slug";s:28:"@a_blog_search_redirect?id=3";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:12:"published_at";s:14:"20111217015200";}'
+  aSearchDocument_20:
+    culture: fr
+    info: 'a:10:{s:12:"title_stored";s:32:"Concert &agrave; Patois-le-Vieux";s:14:"summary_stored";s:51:" Nous allons défibruller de la patoise, cadine ...";s:11:"slug_stored";s:29:"@a_event_search_redirect?id=4";s:13:"engine_stored";s:6:"aEvent";s:11:"info_stored";s:248:"a:11:{s:2:"id";s:2:"14";s:4:"slug";s:29:"@a_event_search_redirect?id=4";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:10:"start_date";s:10:"2011-12-24";s:10:"start_time";N;s:8:"end_date";s:10:"2011-12-25";s:8:"end_time";N;s:12:"published_at";s:14:"20111217015700";}'
+  aSearchDocument_21:
+    culture: null
+    info: 'a:0:{}'
+  aSearchDocument_22:
+    culture: null
+    info: 'a:0:{}'
+  aSearchDocument_23:
+    culture: fr
+    info: 'a:10:{s:12:"title_stored";s:10:"Canneberge";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:29:"@a_event_search_redirect?id=5";s:13:"engine_stored";s:6:"aEvent";s:11:"info_stored";s:248:"a:11:{s:2:"id";s:2:"15";s:4:"slug";s:29:"@a_event_search_redirect?id=5";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:10:"start_date";s:10:"2012-02-11";s:10:"start_time";N;s:8:"end_date";s:10:"2012-02-11";s:8:"end_time";N;s:12:"published_at";s:14:"20111217023410";}'
+  aSearchDocument_24:
+    culture: fr
+    info: 'a:6:{s:12:"title_stored";s:6:"albums";s:14:"summary_stored";s:1:" ";s:11:"slug_stored";s:7:"/albums";s:13:"engine_stored";s:0:"";s:11:"info_stored";s:245:"a:11:{s:2:"id";s:2:"11";s:4:"slug";s:7:"/albums";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:2:"16";s:3:"rgt";s:2:"17";}";s:12:"published_at";s:14:"20111217141714";}'
+  aSearchDocument_25:
+    culture: fr
+    info: 'a:6:{s:12:"title_stored";s:9:"le-groupe";s:14:"summary_stored";s:47:" Nous sommes les chevaliers qui disent... Ni ! ";s:11:"slug_stored";s:10:"/le-groupe";s:13:"engine_stored";s:0:"";s:11:"info_stored";s:246:"a:11:{s:2:"id";s:1:"9";s:4:"slug";s:10:"/le-groupe";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:1:"4";s:3:"rgt";s:1:"5";}";s:12:"published_at";s:14:"20111217141503";}'
+  aSearchDocument_26:
+    culture: fr
+    info: 'a:6:{s:12:"title_stored";s:18:"Qu''est-ce que Ni ?";s:14:"summary_stored";s:50:" D''abord, ni est ni. Ensuite, ni n''est ni diatr...";s:11:"slug_stored";s:28:"@a_blog_search_redirect?id=6";s:13:"engine_stored";s:9:"aBlogPost";s:11:"info_stored";s:247:"a:11:{s:2:"id";s:2:"16";s:4:"slug";s:28:"@a_blog_search_redirect?id=6";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:12:"published_at";s:14:"20111217134200";}'
+  aSearchDocument_27:
+    culture: fr
+    info: 'a:6:{s:12:"title_stored";s:7:"contact";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:8:"/contact";s:13:"engine_stored";s:0:"";s:11:"info_stored";s:244:"a:11:{s:2:"id";s:2:"10";s:4:"slug";s:8:"/contact";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:1:"2";s:3:"rgt";s:1:"3";}";s:12:"published_at";s:14:"20111217141511";}'
+  aSearchDocument_28:
+    culture: fr
+    info: 'a:6:{s:12:"title_stored";s:11:"Kesske Ni ?";s:14:"summary_stored";s:50:" D''abord, ni est ni. Ensuite, ni n''est ni diatr...";s:11:"slug_stored";s:28:"@a_blog_search_redirect?id=7";s:13:"engine_stored";s:9:"aBlogPost";s:11:"info_stored";s:247:"a:11:{s:2:"id";s:2:"17";s:4:"slug";s:28:"@a_blog_search_redirect?id=7";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:12:"published_at";s:14:"20111217141337";}'
+  aSearchDocument_29:
+    culture: fr
+    info: 'a:6:{s:12:"title_stored";s:8:"concerts";s:14:"summary_stored";s:32:" Voilà la liste des concerts : ";s:11:"slug_stored";s:9:"/concerts";s:13:"engine_stored";s:6:"aEvent";s:11:"info_stored";s:244:"a:11:{s:2:"id";s:1:"8";s:4:"slug";s:9:"/concerts";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";s:1:"1";s:3:"lft";s:1:"6";s:3:"rgt";s:1:"7";}";s:12:"published_at";s:14:"20111217141521";}'
+  aSearchDocument_30:
+    culture: fr
+    info: 'a:10:{s:12:"title_stored";s:32:"Concert &agrave; Patois-le-Vieux";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:29:"@a_event_search_redirect?id=8";s:13:"engine_stored";s:6:"aEvent";s:11:"info_stored";s:248:"a:11:{s:2:"id";s:2:"18";s:4:"slug";s:29:"@a_event_search_redirect?id=8";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:1;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:10:"start_date";s:10:"2011-12-17";s:10:"start_time";s:8:"14:30:00";s:8:"end_date";s:10:"2011-12-17";s:8:"end_time";s:8:"15:30:00";s:12:"published_at";s:0:"";}'
+  aSearchDocument_31:
+    culture: fr
+    info: 'a:10:{s:12:"title_stored";s:4:"TEST";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:29:"@a_event_search_redirect?id=9";s:13:"engine_stored";s:6:"aEvent";s:11:"info_stored";s:248:"a:11:{s:2:"id";s:2:"19";s:4:"slug";s:29:"@a_event_search_redirect?id=9";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:1;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:10:"start_date";s:10:"2011-12-17";s:10:"start_time";s:8:"14:30:00";s:8:"end_date";s:10:"2011-12-17";s:8:"end_time";s:8:"15:30:00";s:12:"published_at";s:0:"";}'
+  aSearchDocument_32:
+    culture: fr
+    info: 'a:10:{s:12:"title_stored";s:6:"PLOUET";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:30:"@a_event_search_redirect?id=10";s:13:"engine_stored";s:6:"aEvent";s:11:"info_stored";s:249:"a:11:{s:2:"id";s:2:"20";s:4:"slug";s:30:"@a_event_search_redirect?id=10";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:1;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:10:"start_date";s:10:"2011-12-17";s:10:"start_time";s:8:"14:30:00";s:8:"end_date";s:10:"2011-12-17";s:8:"end_time";s:8:"15:30:00";s:12:"published_at";s:0:"";}'
+  aSearchDocument_33:
+    culture: fr
+    info: 'a:6:{s:12:"title_stored";s:6:"PLOUET";s:14:"summary_stored";s:0:"";s:11:"slug_stored";N;s:13:"engine_stored";s:0:"";s:11:"info_stored";s:213:"a:11:{s:2:"id";s:2:"21";s:4:"slug";N;s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:12:"published_at";s:14:"20111217145934";}'
+  aSearchDocument_34:
+    culture: fr
+    info: 'a:10:{s:12:"title_stored";s:3:"NON";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:30:"@a_event_search_redirect?id=11";s:13:"engine_stored";s:6:"aEvent";s:11:"info_stored";s:249:"a:11:{s:2:"id";s:2:"22";s:4:"slug";s:30:"@a_event_search_redirect?id=11";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:1;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:10:"start_date";s:10:"2011-12-17";s:10:"start_time";s:8:"15:00:00";s:8:"end_date";s:10:"2011-12-17";s:8:"end_time";s:8:"16:00:00";s:12:"published_at";s:0:"";}'
+  aSearchDocument_35:
+    culture: fr
+    info: 'a:10:{s:12:"title_stored";s:25:"Concert a Patois-le-Vieux";s:14:"summary_stored";s:53:" On va défibruller de la bécasse à la calouette...";s:11:"slug_stored";s:30:"@a_event_search_redirect?id=12";s:13:"engine_stored";s:6:"aEvent";s:11:"info_stored";s:249:"a:11:{s:2:"id";s:2:"23";s:4:"slug";s:30:"@a_event_search_redirect?id=12";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:10:"start_date";s:10:"2011-12-24";s:10:"start_time";N;s:8:"end_date";s:10:"2011-12-24";s:8:"end_time";N;s:12:"published_at";s:14:"20111217151338";}'
+  aSearchDocument_36:
+    culture: fr
+    info: 'a:6:{s:12:"title_stored";s:11:"Kesske Ni ?";s:14:"summary_stored";s:0:"";s:11:"slug_stored";s:29:"@a_blog_search_redirect?id=13";s:13:"engine_stored";s:9:"aBlogPost";s:11:"info_stored";s:248:"a:11:{s:2:"id";s:2:"24";s:4:"slug";s:29:"@a_blog_search_redirect?id=13";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:1;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:12:"published_at";s:14:"20111217155023";}'
+  aSearchDocument_37:
+    culture: en
+    info: 'a:6:{s:12:"title_stored";s:11:"Kesske Ni ?";s:14:"summary_stored";s:36:" We are the knights who say... Ni ! ";s:11:"slug_stored";s:28:"@a_blog_search_redirect?id=7";s:13:"engine_stored";s:9:"aBlogPost";s:11:"info_stored";s:247:"a:11:{s:2:"id";s:2:"17";s:4:"slug";s:28:"@a_blog_search_redirect?id=7";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:12:"published_at";s:14:"20111217141337";}'
+  aSearchDocument_38:
+    culture: en
+    info: 'a:10:{s:12:"title_stored";s:4:"Home";s:14:"summary_stored";s:9:" Miasnon ";s:11:"slug_stored";s:30:"@a_event_search_redirect?id=12";s:13:"engine_stored";s:6:"aEvent";s:11:"info_stored";s:249:"a:11:{s:2:"id";s:2:"23";s:4:"slug";s:30:"@a_event_search_redirect?id=12";s:14:"view_is_secure";b:0;s:10:"view_guest";b:1;s:15:"view_admin_lock";b:0;s:15:"edit_admin_lock";b:0;s:8:"archived";b:0;s:5:"admin";b:0;s:5:"level";N;s:3:"lft";N;s:3:"rgt";N;}";s:10:"start_date";s:10:"2011-12-24";s:10:"start_time";N;s:8:"end_date";s:10:"2011-12-24";s:8:"end_time";N;s:12:"published_at";s:14:"20111217151338";}'
+  aSearchDocument_39:
+    culture: null
+    info: 'a:0:{}'
 aSearchWord:
-  aSearchWord_11:
-    text: a
-  aSearchWord_6:
-    text: ablog
-  aSearchWord_114:
-    text: ablogpost
-  aSearchWord_7:
-    text: about
-  aSearchWord_38:
-    text: accueil
-  aSearchWord_27:
-    text: add
-  aSearchWord_28:
-    text: additional
-  aSearchWord_4:
-    text: aevent
-  aSearchWord_82:
-    text: aide
-  aSearchWord_57:
-    text: ajouter
-  aSearchWord_121:
-    text: albums
-  aSearchWord_26:
-    text: also
-  aSearchWord_34:
-    text: and
-  aSearchWord_16:
-    text: apostrophe
-  aSearchWord_127:
-    text: are
-  aSearchWord_30:
-    text: area
-  aSearchWord_32:
-    text: as
-  aSearchWord_10:
-    text: asandbox
-  aSearchWord_83:
-    text: au
-  aSearchWord_39:
-    text: bienvenue
-  aSearchWord_5:
-    text: blog
-  aSearchWord_55:
-    text: bouton
-  aSearchWord_14:
-    text: built
-  aSearchWord_25:
-    text: button
-  aSearchWord_22:
-    text: by
-  aSearchWord_18:
-    text: can
-  aSearchWord_51:
-    text: ce
-  aSearchWord_61:
-    text: cette
-  aSearchWord_23:
-    text: clicking
-  aSearchWord_53:
-    text: cliquant
-  aSearchWord_75:
-    text: com
-  aSearchWord_118:
-    text: concerts
-  aSearchWord_2:
-    text: contact
-  aSearchWord_85:
-    text: contactez
-  aSearchWord_78:
-    text: d
-  aSearchWord_40:
-    text: dans
-  aSearchWord_44:
-    text: de
-  aSearchWord_96:
-    text: découvrez
-  aSearchWord_58:
-    text: des
-  aSearchWord_67:
-    text: diaporama
-  aSearchWord_109:
-    text: du
-  aSearchWord_93:
-    text: easy
-  aSearchWord_19:
-    text: edit
-  aSearchWord_50:
-    text: éditer
-  aSearchWord_56:
-    text: également
-  aSearchWord_65:
-    text: emplacement
-  aSearchWord_59:
-    text: emplacements
-  aSearchWord_46:
-    text: en
-  aSearchWord_108:
-    text: entête
-  aSearchWord_100:
-    text: et
-  aSearchWord_3:
-    text: events
-  aSearchWord_43:
-    text: exemple
-  aSearchWord_101:
-    text: extrêmement
-  aSearchWord_68:
-    text: for
-  aSearchWord_120:
-    text: groupe
-  aSearchWord_134:
-    text: haha
-  aSearchWord_72:
-    text: help
   aSearchWord_1:
-    text: home
-  aSearchWord_113:
-    text: id
-  aSearchWord_131:
-    text: image
-  aSearchWord_70:
-    text: information
-  aSearchWord_79:
-    text: informations
-  aSearchWord_88:
-    text: is
-  aSearchWord_87:
-    text: it
-  aSearchWord_104:
-    text: je
-  aSearchWord_128:
-    text: knights
-  aSearchWord_81:
-    text: l
-  aSearchWord_41:
-    text: le
-  aSearchWord_86:
-    text: learn
-  aSearchWord_124:
-    text: les
-  aSearchWord_132:
-    text: logo
-  aSearchWord_117:
-    text: mangez
-  aSearchWord_69:
-    text: more
-  aSearchWord_125:
-    text: musiciens
-  aSearchWord_123:
-    text: news
-  aSearchWord_106:
-    text: ni
-  aSearchWord_107:
-    text: niouzes
-  aSearchWord_80:
-    text: obtenir
-  aSearchWord_89:
-    text: open
-  aSearchWord_71:
-    text: or
-  aSearchWord_66:
-    text: ou
-  aSearchWord_110:
-    text: pain
-  aSearchWord_77:
-    text: plus
-  aSearchWord_76:
-    text: pour
-  aSearchWord_49:
-    text: pouvez
-  aSearchWord_122:
-    text: première
-  aSearchWord_95:
-    text: propos
-  aSearchWord_74:
-    text: punkave
-  aSearchWord_64:
-    text: qu
-  aSearchWord_45:
-    text: réalisé
-  aSearchWord_112:
-    text: redirect
-  aSearchWord_91:
-    text: robust
-  aSearchWord_99:
-    text: robuste
-  aSearchWord_115:
-    text: samedi
-  aSearchWord_12:
-    text: sample
-  aSearchWord_130:
-    text: say
-  aSearchWord_111:
-    text: search
-  aSearchWord_102:
-    text: simple
-  aSearchWord_13:
-    text: site
-  aSearchWord_35:
-    text: slideshow
-  aSearchWord_37:
-    text: slot
-  aSearchWord_29:
-    text: slots
-  aSearchWord_116:
-    text: soir
-  aSearchWord_98:
-    text: solution
-  aSearchWord_90:
-    text: source
-  aSearchWord_31:
-    text: such
-  aSearchWord_105:
-    text: suis
-  aSearchWord_84:
-    text: sujet
-  aSearchWord_92:
-    text: super
-  aSearchWord_60:
-    text: supplémentaires
-  aSearchWord_54:
-    text: sur
-  aSearchWord_63:
-    text: tel
-  aSearchWord_21:
-    text: text
-  aSearchWord_52:
-    text: texte
-  aSearchWord_24:
-    text: the
-  aSearchWord_126:
-    text: they
-  aSearchWord_20:
-    text: this
+    text: a
+  aSearchWord_2:
+    text: ablog
+  aSearchWord_3:
+    text: ablogpost
+  aSearchWord_173:
+    text: abord
+  aSearchWord_4:
+    text: about
+  aSearchWord_5:
+    text: accueil
+  aSearchWord_166:
+    text: achète
+  aSearchWord_6:
+    text: add
+  aSearchWord_7:
+    text: additional
+  aSearchWord_8:
+    text: aevent
+  aSearchWord_143:
+    text: agrave
   aSearchWord_9:
+    text: aide
+  aSearchWord_10:
+    text: ajouter
+  aSearchWord_11:
+    text: albums
+  aSearchWord_150:
+    text: allons
+  aSearchWord_159:
+    text: alors
+  aSearchWord_12:
+    text: also
+  aSearchWord_13:
+    text: and
+  aSearchWord_14:
+    text: apostrophe
+  aSearchWord_15:
+    text: are
+  aSearchWord_16:
+    text: area
+  aSearchWord_17:
+    text: as
+  aSearchWord_18:
+    text: asandbox
+  aSearchWord_19:
+    text: au
+  aSearchWord_202:
+    text: b
+  aSearchWord_232:
+    text: band
+  aSearchWord_225:
+    text: bécasse
+  aSearchWord_20:
+    text: bienvenue
+  aSearchWord_21:
+    text: blog
+  aSearchWord_211:
+    text: bon
+  aSearchWord_148:
+    text: boudin
+  aSearchWord_22:
+    text: bouton
+  aSearchWord_23:
+    text: built
+  aSearchWord_24:
+    text: button
+  aSearchWord_25:
+    text: by
+  aSearchWord_203:
+    text: c
+  aSearchWord_154:
+    text: cadine
+  aSearchWord_226:
+    text: calouette
+  aSearchWord_26:
+    text: can
+  aSearchWord_164:
+    text: canneberge
+  aSearchWord_27:
+    text: ce
+  aSearchWord_167:
+    text: cédévédé
+  aSearchWord_218:
+    text: ces
+  aSearchWord_28:
+    text: cette
+  aSearchWord_191:
+    text: chant
+  aSearchWord_216:
+    text: chaud
+  aSearchWord_169:
+    text: chevaliers
+  aSearchWord_29:
+    text: clicking
+  aSearchWord_30:
+    text: cliquant
+  aSearchWord_31:
+    text: com
+  aSearchWord_204:
+    text: compliqué
+  aSearchWord_142:
+    text: concert
+  aSearchWord_32:
+    text: concerts
+  aSearchWord_33:
+    text: contact
+  aSearchWord_34:
+    text: contactez
+  aSearchWord_220:
+    text: contraire
+  aSearchWord_197:
+    text: core
+  aSearchWord_141:
+    text: couleur
+  aSearchWord_35:
+    text: d
+  aSearchWord_36:
+    text: dans
+  aSearchWord_37:
+    text: de
+  aSearchWord_38:
+    text: découvrez
+  aSearchWord_151:
+    text: défibruller
+  aSearchWord_39:
+    text: des
+  aSearchWord_181:
+    text: deux
+  aSearchWord_40:
+    text: diaporama
+  aSearchWord_176:
+    text: diatrib
+  aSearchWord_237:
+    text: diatriba
+  aSearchWord_185:
+    text: dieu
+  aSearchWord_171:
+    text: disent
+  aSearchWord_227:
+    text: donc
+  aSearchWord_41:
+    text: du
+  aSearchWord_137:
+    text: dur
+  aSearchWord_42:
+    text: easy
+  aSearchWord_43:
+    text: edit
+  aSearchWord_44:
+    text: éditer
+  aSearchWord_45:
+    text: également
+  aSearchWord_200:
+    text: électrique
+  aSearchWord_180:
+    text: émanation
+  aSearchWord_46:
+    text: emplacement
+  aSearchWord_47:
+    text: emplacements
+  aSearchWord_48:
+    text: en
+  aSearchWord_212:
+    text: enfin
+  aSearchWord_174:
+    text: ensuite
+  aSearchWord_49:
+    text: entête
+  aSearchWord_206:
+    text: épiloguons
+  aSearchWord_135:
+    text: est
+  aSearchWord_184:
+    text: esthétiquement
+  aSearchWord_50:
+    text: et
+  aSearchWord_146:
+    text: event
+  aSearchWord_51:
+    text: events
+  aSearchWord_52:
+    text: exemple
+  aSearchWord_53:
+    text: extrêmement
+  aSearchWord_215:
+    text: faire
+  aSearchWord_193:
+    text: fait
+  aSearchWord_136:
+    text: ff
+  aSearchWord_187:
+    text: foi
+  aSearchWord_54:
+    text: for
+  aSearchWord_198:
+    text: franchement
+  aSearchWord_217:
+    text: froid
+  aSearchWord_208:
+    text: genre
+  aSearchWord_55:
+    text: groupe
+  aSearchWord_56:
+    text: haha
+  aSearchWord_196:
+    text: hard
+  aSearchWord_57:
+    text: help
+  aSearchWord_58:
+    text: home
+  aSearchWord_59:
+    text: id
+  aSearchWord_60:
+    text: image
+  aSearchWord_61:
+    text: information
+  aSearchWord_62:
+    text: informations
+  aSearchWord_63:
+    text: is
+  aSearchWord_64:
+    text: it
+  aSearchWord_199:
+    text: jazz
+  aSearchWord_65:
+    text: je
+  aSearchWord_177:
+    text: jmpz
+  aSearchWord_228:
+    text: kesske
+  aSearchWord_66:
+    text: knights
+  aSearchWord_161:
+    text: kuala
+  aSearchWord_67:
+    text: l
+  aSearchWord_152:
+    text: la
+  aSearchWord_138:
+    text: labeur
+  aSearchWord_68:
+    text: le
+  aSearchWord_69:
+    text: learn
+  aSearchWord_70:
+    text: les
+  aSearchWord_230:
+    text: liste
+  aSearchWord_238:
+    text: live
+  aSearchWord_71:
+    text: logo
+  aSearchWord_188:
+    text: loi
+  aSearchWord_214:
+    text: loin
+  aSearchWord_178:
+    text: mais
+  aSearchWord_186:
+    text: maître
+  aSearchWord_72:
+    text: mangez
+  aSearchWord_233:
+    text: miasnon
+  aSearchWord_179:
+    text: moins
+  aSearchWord_73:
+    text: more
+  aSearchWord_241:
+    text: music
+  aSearchWord_209:
+    text: musical
+  aSearchWord_74:
+    text: musiciens
+  aSearchWord_183:
+    text: musique
+  aSearchWord_175:
+    text: n
+  aSearchWord_75:
+    text: news
+  aSearchWord_76:
+    text: ni
+  aSearchWord_77:
+    text: niouzes
+  aSearchWord_239:
+    text: noise
+  aSearchWord_224:
+    text: non
+  aSearchWord_149:
+    text: nous
+  aSearchWord_78:
+    text: obtenir
+  aSearchWord_155:
+    text: on
+  aSearchWord_79:
+    text: open
+  aSearchWord_80:
+    text: or
+  aSearchWord_81:
+    text: ou
+  aSearchWord_205:
+    text: oui
+  aSearchWord_82:
+    text: pain
+  aSearchWord_213:
+    text: parions
+  aSearchWord_207:
+    text: pas
+  aSearchWord_144:
+    text: patois
+  aSearchWord_153:
+    text: patoise
+  aSearchWord_223:
+    text: plouet
+  aSearchWord_83:
+    text: plus
+  aSearchWord_236:
+    text: pouloupi
+  aSearchWord_84:
+    text: pour
+  aSearchWord_85:
+    text: pouvez
+  aSearchWord_86:
+    text: première
+  aSearchWord_192:
+    text: presque
+  aSearchWord_163:
+    text: problème
+  aSearchWord_87:
+    text: propos
+  aSearchWord_88:
+    text: punkave
+  aSearchWord_89:
+    text: qu
+  aSearchWord_219:
+    text: quatre
+  aSearchWord_172:
+    text: que
+  aSearchWord_189:
+    text: queue
+  aSearchWord_170:
+    text: qui
+  aSearchWord_210:
+    text: quoi
+  aSearchWord_201:
+    text: r
+  aSearchWord_160:
+    text: radine
+  aSearchWord_90:
+    text: réalisé
+  aSearchWord_91:
+    text: redirect
+  aSearchWord_195:
+    text: réellement
+  aSearchWord_194:
+    text: résultat
+  aSearchWord_182:
+    text: réunis
+  aSearchWord_92:
+    text: robust
+  aSearchWord_93:
+    text: robuste
+  aSearchWord_240:
+    text: rock
+  aSearchWord_94:
+    text: samedi
+  aSearchWord_95:
+    text: sample
+  aSearchWord_96:
+    text: say
+  aSearchWord_97:
+    text: search
+  aSearchWord_98:
+    text: simple
+  aSearchWord_99:
+    text: site
+  aSearchWord_100:
+    text: slideshow
+  aSearchWord_101:
+    text: slot
+  aSearchWord_102:
+    text: slots
+  aSearchWord_103:
+    text: soir
+  aSearchWord_104:
+    text: solution
+  aSearchWord_168:
+    text: sommes
+  aSearchWord_105:
+    text: source
+  aSearchWord_106:
+    text: such
+  aSearchWord_107:
+    text: suis
+  aSearchWord_108:
+    text: sujet
+  aSearchWord_109:
+    text: super
+  aSearchWord_110:
+    text: supplémentaires
+  aSearchWord_111:
+    text: sur
+  aSearchWord_162:
+    text: t
+  aSearchWord_158:
+    text: tantôt
+  aSearchWord_234:
+    text: teaser
+  aSearchWord_112:
+    text: tel
+  aSearchWord_222:
+    text: tesdt
+  aSearchWord_221:
+    text: test
+  aSearchWord_190:
+    text: tête
+  aSearchWord_113:
+    text: text
+  aSearchWord_114:
+    text: texte
+  aSearchWord_140:
+    text: textes
+  aSearchWord_115:
+    text: the
+  aSearchWord_116:
+    text: they
+  aSearchWord_147:
+    text: thierry
+  aSearchWord_117:
+    text: this
+  aSearchWord_118:
     text: to
+  aSearchWord_235:
+    text: tournée
+  aSearchWord_242:
+    text: trailer
   aSearchWord_119:
     text: tulé
-  aSearchWord_42:
+  aSearchWord_165:
+    text: twala
+  aSearchWord_120:
     text: un
-  aSearchWord_97:
+  aSearchWord_121:
     text: une
-  aSearchWord_94:
+  aSearchWord_122:
     text: use
-  aSearchWord_15:
+  aSearchWord_123:
     text: using
-  aSearchWord_47:
+  aSearchWord_124:
     text: utilisant
-  aSearchWord_103:
+  aSearchWord_125:
     text: utiliser
-  aSearchWord_133:
+  aSearchWord_126:
     text: v
-  aSearchWord_36:
+  aSearchWord_157:
+    text: va
+  aSearchWord_127:
     text: via
-  aSearchWord_33:
+  aSearchWord_128:
     text: video
-  aSearchWord_48:
-    text: vous
-  aSearchWord_8:
-    text: welcome
+  aSearchWord_145:
+    text: vieux
+  aSearchWord_139:
+    text: vivement
+  aSearchWord_229:
+    text: voilà
   aSearchWord_129:
+    text: vous
+  aSearchWord_231:
+    text: we
+  aSearchWord_130:
+    text: welcome
+  aSearchWord_131:
     text: who
-  aSearchWord_73:
+  aSearchWord_132:
     text: with
-  aSearchWord_17:
+  aSearchWord_156:
+    text: y
+  aSearchWord_133:
     text: you
-  aSearchWord_62:
+  aSearchWord_134:
     text: zone
 aMediaItemToASearchDocument:
   aMediaItemToASearchDocument_1:
-    aSearchDocument: aSearchDocument_19
+    aSearchDocument: aSearchDocument_18
     aMediaItem: aMediaItem_1
-aPageToASearchDocument:
-  aPageToASearchDocument_6:
-    aSearchDocument: aSearchDocument_6
-    aPage: aPage_1
-  aPageToASearchDocument_7:
-    aSearchDocument: aSearchDocument_7
-    aPage: aPage_1
-  aPageToASearchDocument_14:
+  aMediaItemToASearchDocument_2:
     aSearchDocument: aSearchDocument_14
+    aMediaItem: aMediaItem_1
+  aMediaItemToASearchDocument_3:
+    aSearchDocument: aSearchDocument_21
+    aMediaItem: aMediaItem_2
+  aMediaItemToASearchDocument_4:
+    aSearchDocument: aSearchDocument_22
+    aMediaItem: aMediaItem_3
+  aMediaItemToASearchDocument_5:
+    aSearchDocument: aSearchDocument_39
+    aMediaItem: aMediaItem_4
+aPageToASearchDocument:
+  aPageToASearchDocument_3:
+    aSearchDocument: aSearchDocument_1
+    aPage: aPage_1
+  aPageToASearchDocument_4:
+    aSearchDocument: aSearchDocument_2
+    aPage: aPage_1
+  aPageToASearchDocument_6:
+    aSearchDocument: aSearchDocument_10
+    aPage: aPage_8
+  aPageToASearchDocument_7:
+    aSearchDocument: aSearchDocument_11
+    aPage: aPage_9
+  aPageToASearchDocument_8:
+    aSearchDocument: aSearchDocument_12
+    aPage: aPage_10
+  aPageToASearchDocument_9:
+    aSearchDocument: aSearchDocument_13
+    aPage: aPage_11
+  aPageToASearchDocument_14:
+    aSearchDocument: aSearchDocument_24
     aPage: aPage_11
   aPageToASearchDocument_15:
-    aSearchDocument: aSearchDocument_15
-    aPage: aPage_12
-  aPageToASearchDocument_16:
-    aSearchDocument: aSearchDocument_16
-    aPage: aPage_13
+    aSearchDocument: aSearchDocument_25
+    aPage: aPage_9
   aPageToASearchDocument_17:
-    aSearchDocument: aSearchDocument_17
-    aPage: aPage_14
+    aSearchDocument: aSearchDocument_27
+    aPage: aPage_10
   aPageToASearchDocument_18:
-    aSearchDocument: aSearchDocument_18
-    aPage: aPage_15
+    aSearchDocument: aSearchDocument_28
+    aPage: aPage_17
   aPageToASearchDocument_19:
-    aSearchDocument: aSearchDocument_20
-    aPage: aPage_16
+    aSearchDocument: aSearchDocument_29
+    aPage: aPage_8
+  aPageToASearchDocument_20:
+    aSearchDocument: aSearchDocument_30
+    aPage: aPage_18
+  aPageToASearchDocument_21:
+    aSearchDocument: aSearchDocument_31
+    aPage: aPage_19
+  aPageToASearchDocument_22:
+    aSearchDocument: aSearchDocument_32
+    aPage: aPage_20
+  aPageToASearchDocument_25:
+    aSearchDocument: aSearchDocument_35
+    aPage: aPage_23
+  aPageToASearchDocument_27:
+    aSearchDocument: aSearchDocument_37
+    aPage: aPage_17
+  aPageToASearchDocument_28:
+    aSearchDocument: aSearchDocument_38
+    aPage: aPage_23
 aArea:
-  aArea_1:
+  aArea_3:
     Page: aPage_1
     name: title
     culture: en
     latest_version: '7'
-  aArea_2:
+  aArea_4:
     Page: aPage_1
     name: title
     culture: fr
-    latest_version: '1'
-  aArea_3:
+    latest_version: '2'
+  aArea_5:
     Page: aPage_1
     name: body
     culture: en
     latest_version: '3'
-  aArea_4:
+  aArea_6:
     Page: aPage_1
     name: body
     culture: fr
     latest_version: '1'
-  aArea_9:
-    Page: aPage_3
+  aArea_7:
+    Page: aPage_2
     name: title
     culture: en
     latest_version: '1'
-  aArea_10:
-    Page: aPage_3
+  aArea_8:
+    Page: aPage_2
     name: title
     culture: fr
+    latest_version: '1'
+  aArea_9:
+    Page: aPage_3
+    name: body
+    culture: en
+    latest_version: '1'
+  aArea_10:
+    Page: aPage_4
+    name: title
+    culture: en
     latest_version: '1'
   aArea_11:
     Page: aPage_4
@@ -1198,82 +3384,156 @@ aArea:
     latest_version: '1'
   aArea_13:
     Page: aPage_5
-    name: body
-    culture: en
-    latest_version: '1'
-  aArea_14:
-    Page: aPage_6
-    name: title
-    culture: en
-    latest_version: '1'
-  aArea_15:
-    Page: aPage_6
     name: title
     culture: fr
     latest_version: '1'
-  aArea_22:
+  aArea_14:
     Page: aPage_1
     name: blog-heading
     culture: en
     latest_version: '2'
-  aArea_23:
-    Page: aPage_11
+  aArea_17:
+    Page: aPage_8
     name: title
     culture: en
     latest_version: '2'
-  aArea_24:
-    Page: aPage_11
-    name: blog-body
-    culture: en
-    latest_version: '9'
-  aArea_25:
-    Page: aPage_12
-    name: title
-    culture: en
-    latest_version: '2'
-  aArea_26:
+  aArea_18:
     Page: aPage_1
     name: sidebar
     culture: en
     latest_version: '2'
-  aArea_27:
-    Page: aPage_13
+  aArea_19:
+    Page: aPage_9
     name: title
     culture: en
     latest_version: '1'
-  aArea_28:
-    Page: aPage_14
+  aArea_20:
+    Page: aPage_10
     name: title
     culture: en
     latest_version: '1'
-  aArea_29:
-    Page: aPage_15
+  aArea_21:
+    Page: aPage_11
     name: title
     culture: en
     latest_version: '1'
-  aArea_30:
-    Page: aPage_13
+  aArea_22:
+    Page: aPage_9
     name: body
     culture: en
+    latest_version: '4'
+  aArea_29:
+    Page: aPage_11
+    name: body
+    culture: fr
     latest_version: '3'
-  aArea_31:
-    Page: aPage_16
+  aArea_30:
+    Page: aPage_9
+    name: body
+    culture: fr
+    latest_version: '1'
+  aArea_33:
+    Page: aPage_10
+    name: body
+    culture: fr
+    latest_version: '1'
+  aArea_34:
+    Page: aPage_17
+    name: title
+    culture: fr
+    latest_version: '6'
+  aArea_35:
+    Page: aPage_17
+    name: blog-body
+    culture: fr
+    latest_version: '3'
+  aArea_36:
+    Page: aPage_10
+    name: title
+    culture: fr
+    latest_version: '2'
+  aArea_37:
+    Page: aPage_9
+    name: title
+    culture: fr
+    latest_version: '2'
+  aArea_38:
+    Page: aPage_8
+    name: title
+    culture: fr
+    latest_version: '1'
+  aArea_39:
+    Page: aPage_11
+    name: title
+    culture: fr
+    latest_version: '1'
+  aArea_40:
+    Page: aPage_18
+    name: title
+    culture: fr
+    latest_version: '1'
+  aArea_41:
+    Page: aPage_19
+    name: title
+    culture: fr
+    latest_version: '1'
+  aArea_42:
+    Page: aPage_20
+    name: title
+    culture: fr
+    latest_version: '1'
+  aArea_45:
+    Page: aPage_23
+    name: title
+    culture: fr
+    latest_version: '8'
+  aArea_46:
+    Page: aPage_23
+    name: blog-body
+    culture: fr
+    latest_version: '3'
+  aArea_48:
+    Page: aPage_8
+    name: blog-heading
+    culture: fr
+    latest_version: '1'
+  aArea_49:
+    Page: aPage_17
     name: title
     culture: en
     latest_version: '1'
+  aArea_50:
+    Page: aPage_17
+    name: blog-body
+    culture: en
+    latest_version: '1'
+  aArea_51:
+    Page: aPage_23
+    name: blog-body
+    culture: en
+    latest_version: '1'
+aGroupAccess:
+  aGroupAccess_5:
+    Page: aPage_9
+    privilege: edit
+    Group: sfGuardGroup_4
+  aGroupAccess_6:
+    Page: aPage_10
+    privilege: edit
+    Group: sfGuardGroup_4
+  aGroupAccess_7:
+    Page: aPage_8
+    privilege: edit
+    Group: sfGuardGroup_4
+  aGroupAccess_8:
+    Page: aPage_1
+    privilege: edit
+    Group: sfGuardGroup_4
+  aGroupAccess_9:
+    Page: aPage_11
+    privilege: edit
+    Group: sfGuardGroup_4
 aAreaVersion:
-  aAreaVersion_1:
-    Area: aArea_1
-    version: '1'
-    diff: null
-    created_at: '2011-12-16 16:51:38'
-    updated_at: '2011-12-16 16:51:38'
-  aAreaVersion_2:
-    Area: aArea_2
-    version: '1'
-    diff: null
-    created_at: '2011-12-16 16:51:38'
-    updated_at: '2011-12-16 16:51:38'
   aAreaVersion_3:
     Area: aArea_3
     version: '1'
@@ -1282,6 +3542,30 @@ aAreaVersion:
     updated_at: '2011-12-16 16:51:38'
   aAreaVersion_4:
     Area: aArea_4
+    version: '1'
+    diff: null
+    created_at: '2011-12-16 16:51:38'
+    updated_at: '2011-12-16 16:51:38'
+  aAreaVersion_5:
+    Area: aArea_5
+    version: '1'
+    diff: null
+    created_at: '2011-12-16 16:51:38'
+    updated_at: '2011-12-16 16:51:38'
+  aAreaVersion_6:
+    Area: aArea_6
+    version: '1'
+    diff: null
+    created_at: '2011-12-16 16:51:38'
+    updated_at: '2011-12-16 16:51:38'
+  aAreaVersion_7:
+    Area: aArea_7
+    version: '1'
+    diff: null
+    created_at: '2011-12-16 16:51:38'
+    updated_at: '2011-12-16 16:51:38'
+  aAreaVersion_8:
+    Area: aArea_8
     version: '1'
     diff: null
     created_at: '2011-12-16 16:51:38'
@@ -1317,470 +3601,797 @@ aAreaVersion:
     created_at: '2011-12-16 16:51:38'
     updated_at: '2011-12-16 16:51:38'
   aAreaVersion_14:
-    Area: aArea_14
-    version: '1'
-    diff: null
-    created_at: '2011-12-16 16:51:38'
-    updated_at: '2011-12-16 16:51:38'
-  aAreaVersion_15:
-    Area: aArea_15
-    version: '1'
-    diff: null
-    created_at: '2011-12-16 16:51:38'
-    updated_at: '2011-12-16 16:51:38'
-  aAreaVersion_22:
-    Area: aArea_3
+    Area: aArea_5
     version: '2'
     Author: sfGuardUser_1
     diff: '<strike>Welcome to aSandbox,</strike><strong>Je suis NI</strong>'
     created_at: '2011-12-16 17:23:25'
     updated_at: '2011-12-16 17:23:25'
-  aAreaVersion_23:
-    Area: aArea_1
+  aAreaVersion_15:
+    Area: aArea_3
     version: '2'
     Author: sfGuardUser_1
     diff: '<strike>Home</strike><strong>niouzes</strong>'
     created_at: '2011-12-16 17:24:06'
     updated_at: '2011-12-16 17:24:06'
-  aAreaVersion_24:
-    Area: aArea_22
+  aAreaVersion_16:
+    Area: aArea_14
     version: '1'
     Author: sfGuardUser_1
     diff: "<strong>\n\n	Entête des niouze</strong>"
     created_at: '2011-12-16 17:26:02'
     updated_at: '2011-12-16 17:26:02'
-  aAreaVersion_25:
-    Area: aArea_23
-    version: '1'
-    Author: sfGuardUser_1
-    diff: '<strong>DU PAIN</strong>'
-    created_at: '2011-12-16 17:31:54'
-    updated_at: '2011-12-16 17:31:54'
-  aAreaVersion_26:
-    Area: aArea_24
-    version: '1'
-    Author: sfGuardUser_1
-    diff: "<strong>\n\n	Samedi soir, mang</strong>"
-    created_at: '2011-12-16 17:32:43'
-    updated_at: '2011-12-16 17:32:43'
-  aAreaVersion_27:
-    Area: aArea_23
-    version: '2'
-    Author: sfGuardUser_1
-    diff: '<strong>DU PAIN</strong>'
-    created_at: '2011-12-16 17:33:11'
-    updated_at: '2011-12-16 17:33:11'
-  aAreaVersion_28:
-    Area: aArea_22
+  aAreaVersion_20:
+    Area: aArea_14
     version: '2'
     Author: sfGuardUser_1
     diff: "<strike>\n\n	Entête des niouze</strike>"
     created_at: '2011-12-16 17:53:47'
     updated_at: '2011-12-16 17:53:47'
-  aAreaVersion_29:
-    Area: aArea_1
+  aAreaVersion_21:
+    Area: aArea_3
     version: '3'
     Author: sfGuardUser_1
     diff: ''
     created_at: '2011-12-16 17:55:00'
     updated_at: '2011-12-16 17:55:00'
-  aAreaVersion_30:
-    Area: aArea_25
+  aAreaVersion_22:
+    Area: aArea_17
     version: '1'
     Author: sfGuardUser_1
     diff: '<strong>Concerts</strong>'
     created_at: '2011-12-16 17:55:46'
     updated_at: '2011-12-16 17:55:46'
-  aAreaVersion_31:
-    Area: aArea_26
+  aAreaVersion_23:
+    Area: aArea_18
     version: '1'
     Author: sfGuardUser_1
     diff: "<strong>\n\n	tulé !</strong>"
     created_at: '2011-12-16 17:57:30'
     updated_at: '2011-12-16 17:57:30'
-  aAreaVersion_32:
-    Area: aArea_3
+  aAreaVersion_24:
+    Area: aArea_5
     version: '3'
     Author: sfGuardUser_1
     diff: "<strike>\n	Je suis NI</strike>"
     created_at: '2011-12-16 17:57:36'
     updated_at: '2011-12-16 17:57:36'
-  aAreaVersion_33:
-    Area: aArea_26
+  aAreaVersion_25:
+    Area: aArea_18
     version: '2'
     Author: sfGuardUser_1
     diff: "<strike>\n\n	tulé !</strike>"
     created_at: '2011-12-16 17:57:38'
     updated_at: '2011-12-16 17:57:38'
-  aAreaVersion_34:
-    Area: aArea_1
+  aAreaVersion_26:
+    Area: aArea_3
     version: '4'
     Author: sfGuardUser_1
     diff: ''
     created_at: '2011-12-16 17:57:59'
     updated_at: '2011-12-16 17:57:59'
-  aAreaVersion_35:
-    Area: aArea_27
+  aAreaVersion_27:
+    Area: aArea_19
     version: '1'
     Author: sfGuardUser_1
     diff: '<strong>le groupe</strong>'
     created_at: '2011-12-16 17:59:35'
     updated_at: '2011-12-16 17:59:35'
-  aAreaVersion_36:
-    Area: aArea_1
+  aAreaVersion_28:
+    Area: aArea_3
     version: '5'
     Author: sfGuardUser_1
     diff: ''
     created_at: '2011-12-16 18:00:31'
     updated_at: '2011-12-16 18:00:31'
-  aAreaVersion_37:
-    Area: aArea_1
+  aAreaVersion_29:
+    Area: aArea_3
     version: '6'
     Author: sfGuardUser_1
     diff: ''
     created_at: '2011-12-16 18:01:04'
     updated_at: '2011-12-16 18:01:04'
-  aAreaVersion_38:
-    Area: aArea_28
+  aAreaVersion_30:
+    Area: aArea_20
     version: '1'
     Author: sfGuardUser_1
     diff: '<strong>contact</strong>'
     created_at: '2011-12-16 18:01:18'
     updated_at: '2011-12-16 18:01:18'
-  aAreaVersion_39:
-    Area: aArea_29
+  aAreaVersion_31:
+    Area: aArea_21
     version: '1'
     Author: sfGuardUser_1
     diff: '<strong>albums</strong>'
     created_at: '2011-12-16 18:01:35'
     updated_at: '2011-12-16 18:01:35'
-  aAreaVersion_40:
-    Area: aArea_25
+  aAreaVersion_32:
+    Area: aArea_17
     version: '2'
     Author: sfGuardUser_1
     diff: '<strike>Concerts</strike><strong>concerts</strong>'
     created_at: '2011-12-16 18:03:48'
     updated_at: '2011-12-16 18:03:48'
-  aAreaVersion_41:
-    Area: aArea_1
+  aAreaVersion_33:
+    Area: aArea_3
     version: '7'
     Author: sfGuardUser_1
     diff: ''
     created_at: '2011-12-16 18:08:35'
     updated_at: '2011-12-16 18:08:35'
-  aAreaVersion_42:
-    Area: aArea_30
+  aAreaVersion_34:
+    Area: aArea_22
     version: '1'
     Author: sfGuardUser_1
     diff: "<strong>\n	Première News\n\n\n	M</strong>"
     created_at: '2011-12-16 18:43:03'
     updated_at: '2011-12-16 18:43:03'
-  aAreaVersion_43:
-    Area: aArea_30
+  aAreaVersion_35:
+    Area: aArea_22
     version: '2'
     Author: sfGuardUser_1
     diff: '<strike>Première News</strike><strong>Les musiciens</strong>'
     created_at: '2011-12-16 18:43:44'
     updated_at: '2011-12-16 18:43:44'
-  aAreaVersion_44:
-    Area: aArea_30
+  aAreaVersion_36:
+    Area: aArea_22
     version: '3'
     Author: sfGuardUser_1
     diff: ''
     created_at: '2011-12-16 18:48:21'
     updated_at: '2011-12-16 18:48:21'
-  aAreaVersion_45:
-    Area: aArea_24
+  aAreaVersion_60:
+    Area: aArea_29
+    version: '1'
+    Author: sfGuardUser_1
+    diff: "<strong>\n\n	TWALA !\n\n\n	ACHÈTE</strong>"
+    created_at: '2011-12-17 02:35:34'
+    updated_at: '2011-12-17 02:35:34'
+  aAreaVersion_61:
+    Area: aArea_30
+    version: '1'
+    Author: sfGuardUser_1
+    diff: "<strong>\n\n	Nous sommes les c</strong>"
+    created_at: '2011-12-17 13:27:30'
+    updated_at: '2011-12-17 13:27:30'
+  aAreaVersion_66:
+    Area: aArea_33
+    version: '1'
+    Author: sfGuardUser_1
+    diff: ''
+    created_at: '2011-12-17 13:59:39'
+    updated_at: '2011-12-17 13:59:39'
+  aAreaVersion_67:
+    Area: aArea_34
+    version: '1'
+    Author: sfGuardUser_2
+    diff: '<strong>Test</strong>'
+    created_at: '2011-12-17 14:13:22'
+    updated_at: '2011-12-17 14:13:22'
+  aAreaVersion_68:
+    Area: aArea_35
+    version: '1'
+    Author: sfGuardUser_2
+    diff: "<strong>\n\n	tesdt</strong>"
+    created_at: '2011-12-17 14:13:33'
+    updated_at: '2011-12-17 14:13:33'
+  aAreaVersion_69:
+    Area: aArea_34
+    version: '2'
+    Author: sfGuardUser_2
+    diff: '<strong>Test</strong>'
+    created_at: '2011-12-17 14:13:37'
+    updated_at: '2011-12-17 14:13:37'
+  aAreaVersion_70:
+    Area: aArea_36
+    version: '1'
+    Author: sfGuardUser_1
+    diff: '<strong>contact</strong>'
+    created_at: '2011-12-17 14:14:35'
+    updated_at: '2011-12-17 14:14:35'
+  aAreaVersion_71:
+    Area: aArea_37
+    version: '1'
+    Author: sfGuardUser_1
+    diff: '<strong>le-groupe</strong>'
+    created_at: '2011-12-17 14:14:50'
+    updated_at: '2011-12-17 14:14:50'
+  aAreaVersion_72:
+    Area: aArea_37
     version: '2'
     Author: sfGuardUser_1
     diff: ''
-    created_at: '2011-12-16 19:06:36'
-    updated_at: '2011-12-16 19:06:36'
-  aAreaVersion_46:
-    Area: aArea_24
-    version: '3'
+    created_at: '2011-12-17 14:15:03'
+    updated_at: '2011-12-17 14:15:03'
+  aAreaVersion_73:
+    Area: aArea_36
+    version: '2'
     Author: sfGuardUser_1
     diff: ''
-    created_at: '2011-12-16 19:06:48'
-    updated_at: '2011-12-16 19:06:48'
-  aAreaVersion_47:
-    Area: aArea_24
-    version: '4'
-    Author: sfGuardUser_1
-    diff: '<strong></strong>'
-    created_at: '2011-12-16 19:09:30'
-    updated_at: '2011-12-16 19:09:30'
-  aAreaVersion_48:
-    Area: aArea_24
-    version: '5'
-    Author: sfGuardUser_1
-    diff: '[Reordered slots]'
-    created_at: '2011-12-16 19:09:40'
-    updated_at: '2011-12-16 19:09:40'
-  aAreaVersion_49:
-    Area: aArea_24
-    version: '6'
-    Author: sfGuardUser_1
-    diff: '[Reordered slots]'
-    created_at: '2011-12-16 19:09:41'
-    updated_at: '2011-12-16 19:09:41'
-  aAreaVersion_50:
-    Area: aArea_24
-    version: '7'
-    Author: sfGuardUser_1
-    diff: '[Reordered slots]'
-    created_at: '2011-12-16 19:09:42'
-    updated_at: '2011-12-16 19:09:42'
-  aAreaVersion_51:
-    Area: aArea_24
-    version: '8'
-    Author: sfGuardUser_1
-    diff: ''
-    created_at: '2011-12-16 19:10:20'
-    updated_at: '2011-12-16 19:10:20'
-  aAreaVersion_52:
-    Area: aArea_24
-    version: '9'
-    Author: sfGuardUser_1
-    diff: '<strike></strike>'
-    created_at: '2011-12-16 19:10:24'
-    updated_at: '2011-12-16 19:10:24'
-  aAreaVersion_53:
-    Area: aArea_31
+    created_at: '2011-12-17 14:15:11'
+    updated_at: '2011-12-17 14:15:11'
+  aAreaVersion_74:
+    Area: aArea_38
     version: '1'
     Author: sfGuardUser_1
-    diff: '<strong>HAHA</strong>'
-    created_at: '2011-12-16 19:30:36'
-    updated_at: '2011-12-16 19:30:36'
+    diff: '<strong>concerts</strong>'
+    created_at: '2011-12-17 14:15:21'
+    updated_at: '2011-12-17 14:15:21'
+  aAreaVersion_75:
+    Area: aArea_4
+    version: '2'
+    Author: sfGuardUser_1
+    diff: ''
+    created_at: '2011-12-17 14:15:39'
+    updated_at: '2011-12-17 14:15:39'
+  aAreaVersion_76:
+    Area: aArea_29
+    version: '2'
+    Author: sfGuardUser_1
+    diff: "<strike>\n\n	TWALA !\n\n\n	ACHÈTE</strike>"
+    created_at: '2011-12-17 14:17:07'
+    updated_at: '2011-12-17 14:17:07'
+  aAreaVersion_77:
+    Area: aArea_39
+    version: '1'
+    Author: sfGuardUser_1
+    diff: '<strong>albums</strong>'
+    created_at: '2011-12-17 14:17:14'
+    updated_at: '2011-12-17 14:17:14'
+  aAreaVersion_78:
+    Area: aArea_40
+    version: '1'
+    Author: sfGuardUser_2
+    diff: '<strong>Concert &agrave; Pat</strong>'
+    created_at: '2011-12-17 14:19:45'
+    updated_at: '2011-12-17 14:19:45'
+  aAreaVersion_79:
+    Area: aArea_41
+    version: '1'
+    Author: sfGuardUser_2
+    diff: '<strong>TEST</strong>'
+    created_at: '2011-12-17 14:20:23'
+    updated_at: '2011-12-17 14:20:23'
+  aAreaVersion_80:
+    Area: aArea_42
+    version: '1'
+    Author: sfGuardUser_1
+    diff: '<strong>PLOUET</strong>'
+    created_at: '2011-12-17 14:21:40'
+    updated_at: '2011-12-17 14:21:40'
+  aAreaVersion_83:
+    Area: aArea_45
+    version: '1'
+    Author: sfGuardUser_2
+    diff: '<strong>Concert a Patois-le-</strong>'
+    created_at: '2011-12-17 15:00:48'
+    updated_at: '2011-12-17 15:00:48'
+  aAreaVersion_84:
+    Area: aArea_46
+    version: '1'
+    Author: sfGuardUser_2
+    diff: "<strong>\n\n	On va défibruller</strong>"
+    created_at: '2011-12-17 15:03:29'
+    updated_at: '2011-12-17 15:03:29'
+  aAreaVersion_85:
+    Area: aArea_45
+    version: '2'
+    Author: sfGuardUser_2
+    diff: '<strong>Concert a Patois-le-</strong>'
+    created_at: '2011-12-17 15:03:56'
+    updated_at: '2011-12-17 15:03:56'
+  aAreaVersion_86:
+    Area: aArea_45
+    version: '3'
+    Author: sfGuardUser_2
+    diff: '<strong>Concert a Patois-le-</strong>'
+    created_at: '2011-12-17 15:03:59'
+    updated_at: '2011-12-17 15:03:59'
+  aAreaVersion_87:
+    Area: aArea_45
+    version: '4'
+    Author: sfGuardUser_2
+    diff: '<strong>Concert a Patois-le-</strong>'
+    created_at: '2011-12-17 15:04:08'
+    updated_at: '2011-12-17 15:04:08'
+  aAreaVersion_88:
+    Area: aArea_46
+    version: '2'
+    Author: sfGuardUser_2
+    diff: '<strong></strong>'
+    created_at: '2011-12-17 15:04:55'
+    updated_at: '2011-12-17 15:04:55'
+  aAreaVersion_89:
+    Area: aArea_46
+    version: '3'
+    Author: sfGuardUser_2
+    diff: '[Reordered slots]'
+    created_at: '2011-12-17 15:05:01'
+    updated_at: '2011-12-17 15:05:01'
+  aAreaVersion_90:
+    Area: aArea_45
+    version: '5'
+    Author: sfGuardUser_2
+    diff: '<strong>Concert a Patois-le-</strong>'
+    created_at: '2011-12-17 15:12:16'
+    updated_at: '2011-12-17 15:12:16'
+  aAreaVersion_91:
+    Area: aArea_45
+    version: '6'
+    Author: sfGuardUser_2
+    diff: '<strong>Concert a Patois-le-</strong>'
+    created_at: '2011-12-17 15:13:21'
+    updated_at: '2011-12-17 15:13:21'
+  aAreaVersion_92:
+    Area: aArea_45
+    version: '7'
+    Author: sfGuardUser_2
+    diff: '<strong>Concert a Patois-le-</strong>'
+    created_at: '2011-12-17 15:13:29'
+    updated_at: '2011-12-17 15:13:29'
+  aAreaVersion_93:
+    Area: aArea_45
+    version: '8'
+    Author: sfGuardUser_2
+    diff: '<strong>Concert a Patois-le-</strong>'
+    created_at: '2011-12-17 15:13:38'
+    updated_at: '2011-12-17 15:13:38'
+  aAreaVersion_95:
+    Area: aArea_34
+    version: '3'
+    Author: sfGuardUser_2
+    diff: '<strong>Test</strong>'
+    created_at: '2011-12-17 18:32:25'
+    updated_at: '2011-12-17 18:32:25'
+  aAreaVersion_96:
+    Area: aArea_34
+    version: '4'
+    Author: sfGuardUser_2
+    diff: '<strong>Kesske Ni ?</strong>'
+    created_at: '2011-12-17 18:32:35'
+    updated_at: '2011-12-17 18:32:35'
+  aAreaVersion_97:
+    Area: aArea_35
+    version: '2'
+    Author: sfGuardUser_2
+    diff: '<strike>tesdt</strike><strong>D''abord, ni est ni. </strong>'
+    created_at: '2011-12-17 18:32:37'
+    updated_at: '2011-12-17 18:32:37'
+  aAreaVersion_98:
+    Area: aArea_34
+    version: '5'
+    Author: sfGuardUser_2
+    diff: '<strong>Kesske Ni ?</strong>'
+    created_at: '2011-12-17 18:32:42'
+    updated_at: '2011-12-17 18:32:42'
+  aAreaVersion_99:
+    Area: aArea_34
+    version: '6'
+    Author: sfGuardUser_2
+    diff: '<strong>Kesske Ni ?</strong>'
+    created_at: '2011-12-17 18:35:21'
+    updated_at: '2011-12-17 18:35:21'
+  aAreaVersion_100:
+    Area: aArea_35
+    version: '3'
+    Author: sfGuardUser_2
+    diff: ''
+    created_at: '2011-12-17 18:37:04'
+    updated_at: '2011-12-17 18:37:04'
+  aAreaVersion_101:
+    Area: aArea_48
+    version: '1'
+    Author: sfGuardUser_2
+    diff: "<strong>\n\n	Voilà la liste de</strong>"
+    created_at: '2011-12-17 18:38:06'
+    updated_at: '2011-12-17 18:38:06'
+  aAreaVersion_102:
+    Area: aArea_49
+    version: '1'
+    Author: sfGuardUser_2
+    diff: '<strong>Kesske Ni ?</strong>'
+    created_at: '2011-12-17 20:24:10'
+    updated_at: '2011-12-17 20:24:10'
+  aAreaVersion_103:
+    Area: aArea_50
+    version: '1'
+    Author: sfGuardUser_2
+    diff: "<strong>\n\n	We are the knight</strong>"
+    created_at: '2011-12-17 20:24:32'
+    updated_at: '2011-12-17 20:24:32'
+  aAreaVersion_104:
+    Area: aArea_22
+    version: '4'
+    Author: sfGuardUser_2
+    diff: '<strike>Les musiciens</strike><strong>The band</strong>'
+    created_at: '2011-12-17 20:24:59'
+    updated_at: '2011-12-17 20:24:59'
+  aAreaVersion_105:
+    Area: aArea_51
+    version: '1'
+    Author: sfGuardUser_2
+    diff: "<strong>\n\n	Miasnon</strong>"
+    created_at: '2011-12-17 20:25:41'
+    updated_at: '2011-12-17 20:25:41'
+  aAreaVersion_106:
+    Area: aArea_29
+    version: '3'
+    Author: sfGuardUser_2
+    diff: '<strong></strong>'
+    created_at: '2011-12-17 21:04:29'
+    updated_at: '2011-12-17 21:04:29'
 aSlotMediaItem:
-  aSlotMediaItem_1_42:
+  aSlotMediaItem_1_45:
     aMediaItem: aMediaItem_1
-    aSlot: aSlideshowSlot_42
+    aSlot: aSlideshowSlot_45
+  aSlotMediaItem_2_53:
+    aMediaItem: aMediaItem_2
+    aSlot: aSlideshowSlot_53
+  aSlotMediaItem_3_53:
+    aMediaItem: aMediaItem_3
+    aSlot: aSlideshowSlot_53
+  aSlotMediaItem_2_86:
+    aMediaItem: aMediaItem_2
+    aSlot: aSlideshowSlot_86
+  aSlotMediaItem_3_86:
+    aMediaItem: aMediaItem_3
+    aSlot: aSlideshowSlot_86
+  aSlotMediaItem_4_103:
+    aMediaItem: aMediaItem_4
+    aSlot: aVideoSlot_103
+aCategory:
+  aCategory_1:
+    name: Niouzes
+    description: null
+    created_at: '2011-12-17 01:52:25'
+    updated_at: '2011-12-17 01:52:25'
+    slug: niouzes
+  aCategory_2:
+    name: Concerts
+    description: null
+    created_at: '2011-12-17 01:57:50'
+    updated_at: '2011-12-17 01:57:50'
+    slug: concerts
 aAreaVersionSlot:
-  aAreaVersionSlot_1:
-    Slot: aTextSlot_1
-    AreaVersion: aAreaVersion_1
-    permid: '1'
-    rank: '1'
-  aAreaVersionSlot_2:
-    Slot: aTextSlot_2
-    AreaVersion: aAreaVersion_2
-    permid: '1'
-    rank: '1'
   aAreaVersionSlot_3:
-    Slot: aRichTextSlot_3
+    Slot: aTextSlot_3
     AreaVersion: aAreaVersion_3
     permid: '1'
     rank: '1'
   aAreaVersionSlot_4:
-    Slot: aRichTextSlot_4
+    Slot: aTextSlot_4
     AreaVersion: aAreaVersion_4
     permid: '1'
     rank: '1'
+  aAreaVersionSlot_5:
+    Slot: aRichTextSlot_30
+    AreaVersion: aAreaVersion_5
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_6:
+    Slot: aRichTextSlot_31
+    AreaVersion: aAreaVersion_6
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_7:
+    Slot: aTextSlot_7
+    AreaVersion: aAreaVersion_7
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_8:
+    Slot: aTextSlot_8
+    AreaVersion: aAreaVersion_8
+    permid: '1'
+    rank: '1'
   aAreaVersionSlot_9:
-    Slot: aTextSlot_9
+    Slot: aRichTextSlot_34
     AreaVersion: aAreaVersion_9
     permid: '1'
     rank: '1'
   aAreaVersionSlot_10:
-    Slot: aTextSlot_10
+    Slot: aTextSlot_9
     AreaVersion: aAreaVersion_10
     permid: '1'
     rank: '1'
   aAreaVersionSlot_11:
-    Slot: aRichTextSlot_11
+    Slot: aRichTextSlot_35
     AreaVersion: aAreaVersion_11
     permid: '1'
     rank: '1'
   aAreaVersionSlot_12:
-    Slot: aTextSlot_12
+    Slot: aTextSlot_10
     AreaVersion: aAreaVersion_12
     permid: '1'
     rank: '1'
   aAreaVersionSlot_13:
-    Slot: aRichTextSlot_13
+    Slot: aTextSlot_11
     AreaVersion: aAreaVersion_13
     permid: '1'
     rank: '1'
   aAreaVersionSlot_14:
-    Slot: aTextSlot_14
+    Slot: aRichTextSlot_38
     AreaVersion: aAreaVersion_14
     permid: '1'
     rank: '1'
   aAreaVersionSlot_15:
-    Slot: aTextSlot_15
+    Slot: aTextSlot_16
     AreaVersion: aAreaVersion_15
     permid: '1'
     rank: '1'
-  aAreaVersionSlot_22:
-    Slot: aRichTextSlot_22
+  aAreaVersionSlot_16:
+    Slot: aRichTextSlot_39
+    AreaVersion: aAreaVersion_16
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_20:
+    Slot: aTextSlot_19
+    AreaVersion: aAreaVersion_21
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_21:
+    Slot: aTextSlot_20
     AreaVersion: aAreaVersion_22
     permid: '1'
     rank: '1'
-  aAreaVersionSlot_23:
-    Slot: aTextSlot_23
+  aAreaVersionSlot_22:
+    Slot: aRichTextSlot_41
     AreaVersion: aAreaVersion_23
     permid: '1'
     rank: '1'
-  aAreaVersionSlot_24:
-    Slot: aRichTextSlot_24
-    AreaVersion: aAreaVersion_24
-    permid: '1'
-    rank: '1'
-  aAreaVersionSlot_25:
-    Slot: aTextSlot_25
-    AreaVersion: aAreaVersion_25
-    permid: '1'
-    rank: '1'
-  aAreaVersionSlot_26:
-    Slot: aRichTextSlot_26
+  aAreaVersionSlot_23:
+    Slot: aTextSlot_21
     AreaVersion: aAreaVersion_26
     permid: '1'
     rank: '1'
-  aAreaVersionSlot_27:
-    Slot: aTextSlot_27
+  aAreaVersionSlot_24:
+    Slot: aTextSlot_22
     AreaVersion: aAreaVersion_27
     permid: '1'
     rank: '1'
-  aAreaVersionSlot_28:
-    Slot: aTextSlot_28
+  aAreaVersionSlot_25:
+    Slot: aTextSlot_23
+    AreaVersion: aAreaVersion_28
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_26:
+    Slot: aTextSlot_24
     AreaVersion: aAreaVersion_29
     permid: '1'
     rank: '1'
-  aAreaVersionSlot_29:
-    Slot: aTextSlot_29
+  aAreaVersionSlot_27:
+    Slot: aTextSlot_25
     AreaVersion: aAreaVersion_30
     permid: '1'
     rank: '1'
-  aAreaVersionSlot_30:
-    Slot: aRichTextSlot_30
+  aAreaVersionSlot_28:
+    Slot: aTextSlot_26
     AreaVersion: aAreaVersion_31
     permid: '1'
     rank: '1'
+  aAreaVersionSlot_29:
+    Slot: aTextSlot_27
+    AreaVersion: aAreaVersion_32
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_30:
+    Slot: aTextSlot_28
+    AreaVersion: aAreaVersion_33
+    permid: '1'
+    rank: '1'
   aAreaVersionSlot_31:
-    Slot: aTextSlot_31
+    Slot: aRichTextSlot_42
     AreaVersion: aAreaVersion_34
     permid: '1'
     rank: '1'
   aAreaVersionSlot_32:
-    Slot: aTextSlot_32
+    Slot: aRichTextSlot_43
     AreaVersion: aAreaVersion_35
     permid: '1'
     rank: '1'
   aAreaVersionSlot_33:
-    Slot: aTextSlot_33
+    Slot: aRichTextSlot_44
     AreaVersion: aAreaVersion_36
     permid: '1'
     rank: '1'
-  aAreaVersionSlot_34:
-    Slot: aTextSlot_34
-    AreaVersion: aAreaVersion_37
+  aAreaVersionSlot_64:
+    Slot: aRichTextSlot_60
+    AreaVersion: aAreaVersion_60
     permid: '1'
     rank: '1'
-  aAreaVersionSlot_35:
-    Slot: aTextSlot_35
-    AreaVersion: aAreaVersion_38
-    permid: '1'
-    rank: '1'
-  aAreaVersionSlot_36:
-    Slot: aTextSlot_36
-    AreaVersion: aAreaVersion_39
-    permid: '1'
-    rank: '1'
-  aAreaVersionSlot_37:
-    Slot: aTextSlot_37
-    AreaVersion: aAreaVersion_40
-    permid: '1'
-    rank: '1'
-  aAreaVersionSlot_38:
-    Slot: aTextSlot_38
-    AreaVersion: aAreaVersion_41
-    permid: '1'
-    rank: '1'
-  aAreaVersionSlot_39:
-    Slot: aRichTextSlot_39
-    AreaVersion: aAreaVersion_42
-    permid: '1'
-    rank: '1'
-  aAreaVersionSlot_40:
-    Slot: aRichTextSlot_40
-    AreaVersion: aAreaVersion_43
-    permid: '1'
-    rank: '1'
-  aAreaVersionSlot_41:
-    Slot: aRichTextSlot_41
-    AreaVersion: aAreaVersion_44
-    permid: '1'
-    rank: '1'
-  aAreaVersionSlot_42:
-    Slot: aRichTextSlot_26
-    AreaVersion: aAreaVersion_45
-    permid: '1'
-    rank: '1'
-  aAreaVersionSlot_43:
-    Slot: aRichTextSlot_26
-    AreaVersion: aAreaVersion_46
-    permid: '1'
-    rank: '1'
-  aAreaVersionSlot_44:
-    Slot: aSlideshowSlot_42
-    AreaVersion: aAreaVersion_47
+  aAreaVersionSlot_65:
+    Slot: aRichTextSlot_61
+    AreaVersion: aAreaVersion_61
     permid: '2'
     rank: '1'
-  aAreaVersionSlot_45:
-    Slot: aRichTextSlot_26
-    AreaVersion: aAreaVersion_47
-    permid: '1'
-    rank: '2'
-  aAreaVersionSlot_46:
-    Slot: aRichTextSlot_26
-    AreaVersion: aAreaVersion_48
+  aAreaVersionSlot_70:
+    Slot: aTextSlot_66
+    AreaVersion: aAreaVersion_67
     permid: '1'
     rank: '1'
-  aAreaVersionSlot_47:
-    Slot: aSlideshowSlot_42
-    AreaVersion: aAreaVersion_48
+  aAreaVersionSlot_71:
+    Slot: aRichTextSlot_67
+    AreaVersion: aAreaVersion_68
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_72:
+    Slot: aTextSlot_68
+    AreaVersion: aAreaVersion_69
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_73:
+    Slot: aTextSlot_69
+    AreaVersion: aAreaVersion_70
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_74:
+    Slot: aTextSlot_70
+    AreaVersion: aAreaVersion_71
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_75:
+    Slot: aTextSlot_71
+    AreaVersion: aAreaVersion_72
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_76:
+    Slot: aTextSlot_72
+    AreaVersion: aAreaVersion_73
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_77:
+    Slot: aTextSlot_73
+    AreaVersion: aAreaVersion_74
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_78:
+    Slot: aTextSlot_74
+    AreaVersion: aAreaVersion_75
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_79:
+    Slot: aTextSlot_75
+    AreaVersion: aAreaVersion_77
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_80:
+    Slot: aTextSlot_76
+    AreaVersion: aAreaVersion_78
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_81:
+    Slot: aTextSlot_77
+    AreaVersion: aAreaVersion_79
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_82:
+    Slot: aTextSlot_78
+    AreaVersion: aAreaVersion_80
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_85:
+    Slot: aTextSlot_81
+    AreaVersion: aAreaVersion_83
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_86:
+    Slot: aRichTextSlot_82
+    AreaVersion: aAreaVersion_84
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_87:
+    Slot: aTextSlot_83
+    AreaVersion: aAreaVersion_85
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_88:
+    Slot: aTextSlot_84
+    AreaVersion: aAreaVersion_86
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_89:
+    Slot: aTextSlot_85
+    AreaVersion: aAreaVersion_87
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_90:
+    Slot: aSlideshowSlot_86
+    AreaVersion: aAreaVersion_88
+    permid: '2'
+    rank: '1'
+  aAreaVersionSlot_91:
+    Slot: aRichTextSlot_82
+    AreaVersion: aAreaVersion_88
+    permid: '1'
+    rank: '2'
+  aAreaVersionSlot_92:
+    Slot: aRichTextSlot_82
+    AreaVersion: aAreaVersion_89
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_93:
+    Slot: aSlideshowSlot_86
+    AreaVersion: aAreaVersion_89
     permid: '2'
     rank: '2'
-  aAreaVersionSlot_48:
-    Slot: aSlideshowSlot_42
-    AreaVersion: aAreaVersion_49
+  aAreaVersionSlot_94:
+    Slot: aTextSlot_87
+    AreaVersion: aAreaVersion_90
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_95:
+    Slot: aTextSlot_88
+    AreaVersion: aAreaVersion_91
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_96:
+    Slot: aTextSlot_89
+    AreaVersion: aAreaVersion_92
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_97:
+    Slot: aTextSlot_90
+    AreaVersion: aAreaVersion_93
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_99:
+    Slot: aTextSlot_92
+    AreaVersion: aAreaVersion_95
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_100:
+    Slot: aTextSlot_93
+    AreaVersion: aAreaVersion_96
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_101:
+    Slot: aRichTextSlot_94
+    AreaVersion: aAreaVersion_97
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_102:
+    Slot: aTextSlot_95
+    AreaVersion: aAreaVersion_98
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_103:
+    Slot: aTextSlot_96
+    AreaVersion: aAreaVersion_99
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_104:
+    Slot: aRichTextSlot_97
+    AreaVersion: aAreaVersion_100
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_105:
+    Slot: aRichTextSlot_98
+    AreaVersion: aAreaVersion_101
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_106:
+    Slot: aTextSlot_99
+    AreaVersion: aAreaVersion_102
+    permid: '1'
+    rank: '1'
+  aAreaVersionSlot_107:
+    Slot: aRichTextSlot_100
+    AreaVersion: aAreaVersion_103
     permid: '2'
     rank: '1'
-  aAreaVersionSlot_49:
-    Slot: aRichTextSlot_26
-    AreaVersion: aAreaVersion_49
-    permid: '1'
-    rank: '2'
-  aAreaVersionSlot_50:
-    Slot: aRichTextSlot_26
-    AreaVersion: aAreaVersion_50
+  aAreaVersionSlot_108:
+    Slot: aRichTextSlot_101
+    AreaVersion: aAreaVersion_104
     permid: '1'
     rank: '1'
-  aAreaVersionSlot_51:
-    Slot: aSlideshowSlot_42
-    AreaVersion: aAreaVersion_50
+  aAreaVersionSlot_109:
+    Slot: aRichTextSlot_102
+    AreaVersion: aAreaVersion_105
+    permid: '3'
+    rank: '1'
+  aAreaVersionSlot_110:
+    Slot: aVideoSlot_103
+    AreaVersion: aAreaVersion_106
     permid: '2'
-    rank: '2'
-  aAreaVersionSlot_52:
-    Slot: aRichTextSlot_26
-    AreaVersion: aAreaVersion_51
-    permid: '1'
-    rank: '1'
-  aAreaVersionSlot_53:
-    Slot: aSlideshowSlot_42
-    AreaVersion: aAreaVersion_51
-    permid: '2'
-    rank: '2'
-  aAreaVersionSlot_54:
-    Slot: aRichTextSlot_26
-    AreaVersion: aAreaVersion_52
-    permid: '1'
-    rank: '1'
-  aAreaVersionSlot_55:
-    Slot: aTextSlot_43
-    AreaVersion: aAreaVersion_53
-    permid: '1'
     rank: '1'
 aRedirect:
   aRedirect_1:
@@ -1800,7 +4411,7 @@ aRedirect:
     created_at: '2011-12-16 18:01:35'
     updated_at: '2011-12-16 18:01:35'
   aRedirect_5:
-    Page: aPage_15
+    Page: aPage_11
     slug: /contact/albums
     created_at: '2011-12-16 18:04:13'
     updated_at: '2011-12-16 18:04:13'
@@ -1808,8 +4419,28 @@ aCacheItem:
   'aCacheItem_folder:app_aToolkit_upload_dirasset-cache':
     k: 'folder:app_aToolkit_upload_dirasset-cache'
     value: /home/tonioth/htdocs/FREE/ni/web/uploads/asset-cache
-    timeout: '1355602444'
-    last_mod: '1324066444'
+    timeout: '1355748097'
+    last_mod: '1324212097'
+  'aCacheItem_persistentFiles:58b83a972b5b4480':
+    k: 'persistentFiles:58b83a972b5b4480'
+    value: 'a:10:{s:5:"error";i:0;s:4:"name";s:10:"boudin.jpg";s:4:"type";s:10:"image/jpeg";s:8:"tmp_name";s:85:"/home/tonioth/htdocs/FREE/ni/data/a_writable/persistent_uploads/58b83a972b5b4480.file";s:4:"size";i:26290;s:13:"validatedType";s:10:"image/jpeg";s:9:"imageInfo";a:3:{s:6:"format";s:3:"jpg";s:5:"width";i:500;s:6:"height";i:307;}s:7:"newfile";b:0;s:9:"mime_type";s:10:"image/jpeg";s:9:"extension";s:3:"jpg";}'
+    timeout: '1324088086'
+    last_mod: '1324084486'
+  'aCacheItem_persistentFiles:8d8884bce59785c6':
+    k: 'persistentFiles:8d8884bce59785c6'
+    value: 'a:6:{s:8:"tmp_name";s:85:"/home/tonioth/htdocs/FREE/ni/data/a_writable/persistent_uploads/8d8884bce59785c6.file";s:13:"validatedType";s:10:"image/jpeg";s:9:"imageInfo";a:3:{s:6:"format";s:3:"jpg";s:5:"width";i:480;s:6:"height";i:360;}s:7:"newfile";b:0;s:9:"mime_type";s:10:"image/jpeg";s:9:"extension";s:3:"jpg";}'
+    timeout: '1324155867'
+    last_mod: '1324152267'
+  'aCacheItem_persistentFiles:999fd9d0c796fc01':
+    k: 'persistentFiles:999fd9d0c796fc01'
+    value: 'a:6:{s:8:"tmp_name";s:85:"/home/tonioth/htdocs/FREE/ni/data/a_writable/persistent_uploads/999fd9d0c796fc01.file";s:13:"validatedType";s:10:"image/jpeg";s:9:"imageInfo";a:3:{s:6:"format";s:3:"jpg";s:5:"width";i:480;s:6:"height";i:360;}s:7:"newfile";b:0;s:9:"mime_type";s:10:"image/jpeg";s:9:"extension";s:3:"jpg";}'
+    timeout: '1324155836'
+    last_mod: '1324152236'
+  'aCacheItem_persistentFiles:f7ea638ae1b30640':
+    k: 'persistentFiles:f7ea638ae1b30640'
+    value: 'a:10:{s:5:"error";i:0;s:4:"name";s:8:"plop.jpg";s:4:"type";s:10:"image/jpeg";s:8:"tmp_name";s:85:"/home/tonioth/htdocs/FREE/ni/data/a_writable/persistent_uploads/f7ea638ae1b30640.file";s:4:"size";i:185151;s:13:"validatedType";s:10:"image/jpeg";s:9:"imageInfo";a:3:{s:6:"format";s:3:"jpg";s:5:"width";i:1280;s:6:"height";i:957;}s:7:"newfile";b:1;s:9:"mime_type";s:10:"image/jpeg";s:9:"extension";s:3:"jpg";}'
+    timeout: '1324088086'
+    last_mod: '1324084486'
   'aCacheItem_persistentFiles:fbd7890976bdcb79':
     k: 'persistentFiles:fbd7890976bdcb79'
     value: 'a:10:{s:5:"error";i:0;s:4:"name";s:21:"nutellove.free.fr.jpg";s:4:"type";s:10:"image/jpeg";s:8:"tmp_name";s:85:"/home/tonioth/htdocs/FREE/ni/data/a_writable/persistent_uploads/fbd7890976bdcb79.file";s:4:"size";i:78685;s:13:"validatedType";s:10:"image/jpeg";s:9:"imageInfo";a:3:{s:6:"format";s:3:"jpg";s:5:"width";i:660;s:6:"height";i:660;}s:7:"newfile";b:1;s:9:"mime_type";s:10:"image/jpeg";s:9:"extension";s:3:"jpg";}'
@@ -1832,6 +4463,54 @@ aMediaItem:
     created_at: '2011-12-16 19:07:45'
     updated_at: '2011-12-16 19:07:46'
     slug: logo-v2
+  aMediaItem_2:
+    lucene_dirty: false
+    type: image
+    service_url: null
+    format: jpg
+    width: '1280'
+    height: '957'
+    embed: null
+    title: thierry
+    description: ''
+    credit: ''
+    Owner: sfGuardUser_1
+    view_is_secure: false
+    created_at: '2011-12-17 02:14:47'
+    updated_at: '2011-12-17 02:14:47'
+    slug: thierry
+  aMediaItem_3:
+    lucene_dirty: false
+    type: image
+    service_url: null
+    format: jpg
+    width: '500'
+    height: '307'
+    embed: null
+    title: boudin
+    description: ''
+    credit: ''
+    Owner: sfGuardUser_1
+    view_is_secure: false
+    created_at: '2011-12-17 02:14:47'
+    updated_at: '2011-12-17 02:14:47'
+    slug: boudin
+  aMediaItem_4:
+    lucene_dirty: false
+    type: video
+    service_url: 'http://www.youtube.com/watch?v=8-Cq7DftGo4'
+    format: jpg
+    width: '480'
+    height: '360'
+    embed: '<iframe title="" width="480" height="360" src="http://www.youtube.com/embed/8-Cq7DftGo4?wmode=opaque&autoplay=0" frameborder="0" allowfullscreen wmode="opaque"></iframe>'
+    title: 'ni! teaser tournée 2012'
+    description: ''
+    credit: pouloupi
+    Owner: sfGuardUser_2
+    view_is_secure: false
+    created_at: '2011-12-17 21:04:28'
+    updated_at: '2011-12-17 21:04:28'
+    slug: ni-teaser-tournée-2012
 aPage:
   aPage_1:
     slug: /
@@ -1840,16 +4519,16 @@ aPage:
     view_guest: true
     edit_admin_lock: false
     view_admin_lock: false
-    published_at: '2011-12-16 18:08:35'
+    published_at: '2011-12-17 14:15:38'
     archived: false
     admin: false
     engine: aBlog
     created_at: '2011-12-16 16:51:38'
-    updated_at: '2011-12-16 18:08:35'
+    updated_at: '2011-12-17 14:15:38'
     lft: '1'
     rgt: '18'
     level: '0'
-  aPage_3:
+  aPage_2:
     slug: /admin
     template: default
     view_is_secure: false
@@ -1865,7 +4544,7 @@ aPage:
     lft: '8'
     rgt: '15'
     level: '1'
-  aPage_4:
+  aPage_3:
     slug: /admin/error-a-media
     template: default
     view_is_secure: false
@@ -1881,7 +4560,7 @@ aPage:
     lft: '13'
     rgt: '14'
     level: '2'
-  aPage_5:
+  aPage_4:
     slug: /admin/error404
     template: error404
     view_is_secure: false
@@ -1897,7 +4576,7 @@ aPage:
     lft: '11'
     rgt: '12'
     level: '2'
-  aPage_6:
+  aPage_5:
     slug: /admin/media
     template: default
     view_is_secure: false
@@ -1913,7 +4592,7 @@ aPage:
     lft: '9'
     rgt: '10'
     level: '2'
-  aPage_10:
+  aPage_6:
     slug: global
     template: null
     view_is_secure: false
@@ -1929,99 +4608,147 @@ aPage:
     lft: null
     rgt: null
     level: null
-  aPage_11:
-    slug: '@a_blog_search_redirect?id=1'
-    template: null
-    view_is_secure: false
-    view_guest: true
-    edit_admin_lock: false
-    view_admin_lock: false
-    published_at: '2011-12-16 17:33:11'
-    archived: false
-    admin: false
-    engine: aBlogPost
-    created_at: '2011-12-16 17:31:54'
-    updated_at: '2011-12-16 17:33:11'
-    lft: null
-    rgt: null
-    level: null
-  aPage_12:
+  aPage_8:
     slug: /concerts
     template: default
     view_is_secure: false
     view_guest: true
     edit_admin_lock: false
     view_admin_lock: false
-    published_at: '2011-12-16 18:03:48'
+    published_at: '2011-12-17 14:15:21'
     archived: false
     admin: false
     engine: aEvent
     created_at: '2011-12-16 17:55:46'
-    updated_at: '2011-12-16 18:03:48'
+    updated_at: '2011-12-17 14:15:21'
     lft: '6'
     rgt: '7'
     level: '1'
-  aPage_13:
+  aPage_9:
     slug: /le-groupe
     template: default
     view_is_secure: false
     view_guest: true
     edit_admin_lock: false
     view_admin_lock: false
-    published_at: '2011-12-16 17:59:35'
+    published_at: '2011-12-17 14:15:03'
     archived: false
     admin: false
     engine: null
     created_at: '2011-12-16 17:59:35'
-    updated_at: '2011-12-16 17:59:35'
+    updated_at: '2011-12-17 14:15:03'
     lft: '4'
     rgt: '5'
     level: '1'
-  aPage_14:
+  aPage_10:
     slug: /contact
     template: default
     view_is_secure: false
     view_guest: true
     edit_admin_lock: false
     view_admin_lock: false
-    published_at: '2011-12-16 18:01:18'
+    published_at: '2011-12-17 14:15:11'
     archived: false
     admin: false
     engine: null
     created_at: '2011-12-16 18:01:18'
-    updated_at: '2011-12-16 18:01:18'
+    updated_at: '2011-12-17 14:15:11'
     lft: '2'
     rgt: '3'
     level: '1'
-  aPage_15:
+  aPage_11:
     slug: /albums
     template: default
     view_is_secure: false
     view_guest: true
     edit_admin_lock: false
     view_admin_lock: false
-    published_at: '2011-12-16 18:01:35'
+    published_at: '2011-12-17 14:17:14'
     archived: false
     admin: false
     engine: null
     created_at: '2011-12-16 18:01:35'
-    updated_at: '2011-12-16 18:04:13'
+    updated_at: '2011-12-17 14:17:14'
     lft: '16'
     rgt: '17'
     level: '1'
-  aPage_16:
-    slug: '@a_blog_search_redirect?id=2'
+  aPage_17:
+    slug: '@a_blog_search_redirect?id=7'
     template: null
     view_is_secure: false
     view_guest: true
     edit_admin_lock: false
     view_admin_lock: false
-    published_at: '2011-12-16 19:30:35'
-    archived: true
+    published_at: '2011-12-17 14:13:37'
+    archived: false
     admin: false
     engine: aBlogPost
-    created_at: '2011-12-16 19:30:35'
-    updated_at: '2011-12-16 19:30:36'
+    created_at: '2011-12-17 14:13:22'
+    updated_at: '2011-12-17 14:13:37'
+    lft: null
+    rgt: null
+    level: null
+  aPage_18:
+    slug: '@a_event_search_redirect?id=8'
+    template: null
+    view_is_secure: false
+    view_guest: true
+    edit_admin_lock: false
+    view_admin_lock: false
+    published_at: null
+    archived: true
+    admin: false
+    engine: aEvent
+    created_at: '2011-12-17 14:19:45'
+    updated_at: '2011-12-17 14:19:45'
+    lft: null
+    rgt: null
+    level: null
+  aPage_19:
+    slug: '@a_event_search_redirect?id=9'
+    template: null
+    view_is_secure: false
+    view_guest: true
+    edit_admin_lock: false
+    view_admin_lock: false
+    published_at: null
+    archived: true
+    admin: false
+    engine: aEvent
+    created_at: '2011-12-17 14:20:23'
+    updated_at: '2011-12-17 14:20:23'
+    lft: null
+    rgt: null
+    level: null
+  aPage_20:
+    slug: '@a_event_search_redirect?id=10'
+    template: null
+    view_is_secure: false
+    view_guest: true
+    edit_admin_lock: false
+    view_admin_lock: false
+    published_at: null
+    archived: true
+    admin: false
+    engine: aEvent
+    created_at: '2011-12-17 14:21:40'
+    updated_at: '2011-12-17 14:21:40'
+    lft: null
+    rgt: null
+    level: null
+  aPage_23:
+    slug: '@a_event_search_redirect?id=12'
+    template: null
+    view_is_secure: false
+    view_guest: true
+    edit_admin_lock: false
+    view_admin_lock: false
+    published_at: '2011-12-17 15:13:38'
+    archived: false
+    admin: false
+    engine: aEvent
+    created_at: '2011-12-17 15:00:48'
+    updated_at: '2011-12-17 15:13:38'
     lft: null
     rgt: null
     level: null
@@ -2087,6 +4814,11 @@ sfGuardGroup:
     description: 'Editors can edit CMS pages, provided that they have been granted control over that particular part of the site by an administrator. Editors can also upload media, and manage media that they personally uploaded.'
     created_at: '2011-12-16 16:51:38'
     updated_at: '2011-12-16 16:51:38'
+  sfGuardGroup_4:
+    name: ni
+    description: 'Membres de Ni'
+    created_at: '2011-12-17 14:10:11'
+    updated_at: '2011-12-17 14:10:11'
 sfGuardUser:
   sfGuardUser_1:
     first_name: Normal
@@ -2098,9 +4830,22 @@ sfGuardUser:
     password: b8341bcaf23ffa89fe3a8607f1505c9a7dfb51f0
     is_active: true
     is_super_admin: false
-    last_login: '2011-12-16 19:29:42'
+    last_login: '2011-12-17 18:39:46'
     created_at: '2011-12-16 16:51:38'
-    updated_at: '2011-12-16 19:29:42'
+    updated_at: '2011-12-17 18:39:46'
+  sfGuardUser_2:
+    first_name: Ni
+    last_name: ''
+    email_address: ni@ni-music.com
+    username: ni
+    algorithm: sha1
+    salt: 8012bd61bbb5cc3ffbc178bc177c7cda
+    password: a5005fabdfa848baf0374b46fad7278777d572cf
+    is_active: true
+    is_super_admin: false
+    last_login: '2011-12-17 21:02:06'
+    created_at: '2011-12-17 14:12:14'
+    updated_at: '2011-12-17 21:02:06'
 sfGuardGroupPermission:
   sfGuardGroupPermission_1_1:
     Group: sfGuardGroup_1
@@ -2157,45 +4902,50 @@ sfGuardGroupPermission:
     Permission: sfGuardPermission_9
     created_at: '2011-12-16 16:51:38'
     updated_at: '2011-12-16 16:51:38'
+  sfGuardGroupPermission_4_3:
+    Group: sfGuardGroup_4
+    Permission: sfGuardPermission_3
+    created_at: '2011-12-17 14:10:11'
+    updated_at: '2011-12-17 14:10:11'
+  sfGuardGroupPermission_4_6:
+    Group: sfGuardGroup_4
+    Permission: sfGuardPermission_6
+    created_at: '2011-12-17 14:10:11'
+    updated_at: '2011-12-17 14:10:11'
+  sfGuardGroupPermission_4_8:
+    Group: sfGuardGroup_4
+    Permission: sfGuardPermission_8
+    created_at: '2011-12-17 14:10:11'
+    updated_at: '2011-12-17 14:10:11'
+  sfGuardGroupPermission_4_9:
+    Group: sfGuardGroup_4
+    Permission: sfGuardPermission_9
+    created_at: '2011-12-17 14:10:11'
+    updated_at: '2011-12-17 14:10:11'
 sfGuardUserGroup:
   sfGuardUserGroup_1_1:
     User: sfGuardUser_1
     Group: sfGuardGroup_1
     created_at: '2011-12-16 16:51:38'
     updated_at: '2011-12-16 16:51:38'
+  sfGuardUserGroup_2_4:
+    User: sfGuardUser_2
+    Group: sfGuardGroup_4
+    created_at: '2011-12-17 14:12:14'
+    updated_at: '2011-12-17 14:12:14'
 aBlogItem: {  }
 aBlogPost:
-  aBlogPost_2:
-    Author: sfGuardUser_1
-    Page: aPage_16
-    title: HAHA
-    slug: haha
-    slug_saved: false
-    excerpt: null
-    status: draft
-    allow_comments: false
-    template: singleColumnTemplate
-    published_at: '2011-12-16 19:30:35'
-    disqus_thread_identifier: null
-    type: post
-    start_date: null
-    start_time: null
-    end_date: null
-    end_time: null
-    location: null
-    created_at: '2011-12-16 19:30:35'
-    updated_at: '2011-12-16 19:30:36'
-  aBlogPost_1:
-    Author: sfGuardUser_1
-    Page: aPage_11
-    title: 'DU PAIN'
-    slug: du-pain
-    slug_saved: false
+  aBlogPost_7:
+    Author: sfGuardUser_2
+    Page: aPage_17
+    title: Test
+    slug: kesske-ni
+    slug_saved: true
     excerpt: ''
     status: published
     allow_comments: false
     template: singleColumnTemplate
-    published_at: '2011-12-16 17:33:11'
+    published_at: '2011-12-17 14:13:37'
     disqus_thread_identifier: ''
     type: post
     start_date: null
@@ -2203,5 +4953,158 @@ aBlogPost:
     end_date: null
     end_time: null
     location: ''
-    created_at: '2011-12-16 17:31:54'
-    updated_at: '2011-12-16 17:33:11'
+    created_at: '2011-12-17 14:13:22'
+    updated_at: '2011-12-17 20:24:10'
+aEvent:
+  aEvent_12:
+    Author: sfGuardUser_2
+    Page: aPage_23
+    title: 'Concert a Patois-le-Vieux'
+    slug: concert-a-patois-le-vieux
+    slug_saved: false
+    excerpt: ''
+    status: published
+    allow_comments: false
+    template: singleColumnTemplate
+    published_at: '2011-12-17 15:13:38'
+    disqus_thread_identifier: ''
+    type: event
+    start_date: '2011-12-24'
+    start_time: null
+    end_date: '2011-12-24'
+    end_time: null
+    location: ''
+    created_at: '2011-12-17 15:00:48'
+    updated_at: '2011-12-17 15:13:38'
+Tag:
+  Tag_1:
+    name: ni!
+    is_triple: false
+    triple_namespace: null
+    triple_key: null
+    triple_value: null
+  Tag_2:
+    name: ni
+    is_triple: false
+    triple_namespace: null
+    triple_key: null
+    triple_value: null
+  Tag_3:
+    name: teaser
+    is_triple: false
+    triple_namespace: null
+    triple_key: null
+    triple_value: null
+  Tag_4:
+    name: diatriba
+    is_triple: false
+    triple_namespace: null
+    triple_key: null
+    triple_value: null
+  Tag_5:
+    name: diatrib(a)
+    is_triple: false
+    triple_namespace: null
+    triple_key: null
+    triple_value: null
+  Tag_6:
+    name: jmpz
+    is_triple: false
+    triple_namespace: null
+    triple_key: null
+    triple_value: null
+  Tag_7:
+    name: noise
+    is_triple: false
+    triple_namespace: null
+    triple_key: null
+    triple_value: null
+  Tag_8:
+    name: rock
+    is_triple: false
+    triple_namespace: null
+    triple_key: null
+    triple_value: null
+  Tag_9:
+    name: 'knights who say ni'
+    is_triple: false
+    triple_namespace: null
+    triple_key: null
+    triple_value: null
+  Tag_10:
+    name: live
+    is_triple: false
+    triple_namespace: null
+    triple_key: null
+    triple_value: null
+  Tag_11:
+    name: concert
+    is_triple: false
+    triple_namespace: null
+    triple_key: null
+    triple_value: null
+  Tag_12:
+    name: trailer
+    is_triple: false
+    triple_namespace: null
+    triple_key: null
+    triple_value: null
+  Tag_13:
+    name: 'rock music'
+    is_triple: false
+    triple_namespace: null
+    triple_key: null
+    triple_value: null
+Tagging:
+  Tagging_1:
+    Tag: Tag_1
+    taggable_model: aMediaItem
+    taggable_id: '4'
+  Tagging_2:
+    Tag: Tag_2
+    taggable_model: aMediaItem
+    taggable_id: '4'
+  Tagging_3:
+    Tag: Tag_3
+    taggable_model: aMediaItem
+    taggable_id: '4'
+  Tagging_4:
+    Tag: Tag_4
+    taggable_model: aMediaItem
+    taggable_id: '4'
+  Tagging_5:
+    Tag: Tag_5
+    taggable_model: aMediaItem
+    taggable_id: '4'
+  Tagging_6:
+    Tag: Tag_6
+    taggable_model: aMediaItem
+    taggable_id: '4'
+  Tagging_7:
+    Tag: Tag_7
+    taggable_model: aMediaItem
+    taggable_id: '4'
+  Tagging_8:
+    Tag: Tag_8
+    taggable_model: aMediaItem
+    taggable_id: '4'
+  Tagging_9:
+    Tag: Tag_9
+    taggable_model: aMediaItem
+    taggable_id: '4'
+  Tagging_10:
+    Tag: Tag_10
+    taggable_model: aMediaItem
+    taggable_id: '4'
+  Tagging_11:
+    Tag: Tag_11
+    taggable_model: aMediaItem
+    taggable_id: '4'
+  Tagging_12:
+    Tag: Tag_12
+    taggable_model: aMediaItem
+    taggable_id: '4'
+  Tagging_13:
+    Tag: Tag_13
+    taggable_model: aMediaItem
+    taggable_id: '4'
