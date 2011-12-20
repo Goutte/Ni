@@ -156,7 +156,7 @@
     <div class="clearboth"></div>
 
     <div id="ni_btm">
-      <p class="footer1 footer_txt">Copyleft, aucun droits réservés - http://www.ni-music.com - Contact</p>
+      <p class="footer1 footer_txt">http://www.ni-music.com</p>
       <p class="footer2 footer_txt">Pour votre sécurité, n'essayez en aucun cas de mettre votre tête dans un sac plastique : les photos des artistes ont été réalisées sans trucage mais sous contrôle sécuritaire de la gendarmerie nationale. Les scies circulaires sont des objets létaux : usage déconseillé avant 8 ans.</p>
     </div>
 

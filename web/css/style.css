@@ -71,7 +71,7 @@ h5 {
 /**********/
 
 #ni_menu {
-	background: url(../imgs/menu_bck.png) top center no-repeat;
+  background: url(../imgs/menu_bck.png) top center no-repeat;
   width: 994px;
   height: 61px;
   text-align: center;
@@ -104,6 +104,10 @@ h5 {
   padding-top: 2px;
 }
 
+.itm_cont a {
+  text-decoration: none;
+}
+
 .itm_side {
   width: 192px;
   height: 24px;
@@ -112,7 +116,6 @@ h5 {
 }
 
 .txt_menu_effect {
-  text-decoration: none;
   text-shadow: rgba(0, 0, 0, 0.6) 2px 4px 5px;
   -webkit-transition: all 2.5s ease-in-out;
   -moz-transition: all .25s ease-in;
@@ -301,13 +304,32 @@ div.post.singleColumnTemplate {
 }
 
 #main_box #bx_top {
-	background: url(../imgs/niouzes_head.png);
   height: 62px;
   width: 700px;
 }
 
+#bx_top.default {
+  background: url(../imgs/niouzes_head.png);
+}
+
+#bx_top.le-groupe {
+  background: url(../imgs/grpe_head.png);
+}
+
+#bx_top.concerts {
+  background: url(../imgs/concert_head.png);
+}
+
+#bx_top.albums {
+  background: url(../imgs/alb_head.png);
+}
+
+#bx_top.contact {
+  background: url(../imgs/cntct_head.png);
+}
+
 #main_box #bx_body {
-	background: url(../imgs/main_box_bck.png);
+  background: url(../imgs/main_box_bck.png);
   width: 620px; /*(700-38-42)*/
   padding: 0px 38px 0px 42px;
   text-align: justify;
