@@ -11,11 +11,12 @@ ehthumbs.db
 Icon?
 Thumbs.db
 
+.idea
+.idea/*
+
 ######################
 
 config/databases.yml
 
-.idea
-.idea/*
 cache/*
 log/*
