@@ -15,7 +15,7 @@
 	  </div> 
 	</div>
 <?php end_slot() ?>
-<?php endif; ?>
+<?php endif ?>
 
 <div id="a-blog-main" class="a-blog-main clearfix">
   

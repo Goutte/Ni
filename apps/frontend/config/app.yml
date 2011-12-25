@@ -13,12 +13,13 @@ all:
     
     ckEditor_toolbars:
       Default:
-        - ['Format']
-        - ['Bold','Italic']
+        - ['Maximize','RemoveFormat','Source']
+        - ['Bold','Italic','Underline','Strike','Subscript','Superscript']
         - ['Outdent','Indent','Blockquote']
+        - ['JustifyLeft','JustifyCenter','JustifyRight','JustifyBlock','-','BidiLtr','BidiRtl']
+        - ['TextColor','BGColor','FontSize']
         - ['OrderedList','UnorderedList']
-        - ['-','Link','Unlink','Anchor','-','Table']
-        - ['FitWindow','Source']
+        - ['Link','Unlink','Anchor']
       Main:
         - ['Format']
         - ['Bold','Italic']
