@@ -361,9 +361,9 @@ all:
     # If not set, the same site is assumed
     # client_site: "http://www.mymediasite.com/"
     # You should change this both here and below
-    client_apikey: 'dummy'
+    client_apikey: 'niDummy'
     apikeys:
-      - 'dummy'
+      - 'niDummy'
     apipublic: false
     admin_credential: media_admin
     upload_credential: media_upload
