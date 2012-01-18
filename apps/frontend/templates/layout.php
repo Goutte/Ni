@@ -49,7 +49,7 @@
 
   <?php include_partial('a/globalTools') ?>
 
-  <ul id="ni_menu">
+  <ul id="ni_menu" class="quicktrans">
 
     <li class="itm_side"></li>
     <li class="itm_cont"><a href="/"><span class="txt_menu_effect itm1">accueil</span><span class="txt_white">.</span></a></li>
@@ -63,9 +63,11 @@
 
   <div id="top_wrapper">
 
+      <div id="alice">
       <div class="n1"></div><div class="n2"></div><div class="n3"></div><div class="n4"></div><div class="n5"></div>
           <div class="n6"></div><div class="n7"></div><div class="n8"></div><div class="n9"></div><div class="n10"></div>
           <div class="n11"></div><div class="n12"></div><div class="n13"></div>
+      </div>
 
   	<div id="ni_logo"></div>
 
