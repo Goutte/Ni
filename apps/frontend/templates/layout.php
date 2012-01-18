@@ -63,6 +63,10 @@
 
   <div id="top_wrapper">
 
+      <div class="n1"></div><div class="n2"></div><div class="n3"></div><div class="n4"></div><div class="n5"></div>
+          <div class="n6"></div><div class="n7"></div><div class="n8"></div><div class="n9"></div><div class="n10"></div>
+          <div class="n11"></div><div class="n12"></div><div class="n13"></div>
+
   	<div id="ni_logo"></div>
 
     <div id="img_box">

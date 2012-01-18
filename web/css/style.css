@@ -171,6 +171,119 @@ color: #c6ec8e;
 /**** TOP ****/
 /*************/
 
+/*** GIRL ***/
+
+.n1, .n2, .n3, .n4, .n5, .n6, .n7, .n8, .n9, .n10, .n11, .n12, .n13 {
+  position: absolute;
+}
+
+.n1 {
+  width: 17px;
+  height: 12px;
+  background-image: url('../imgs/alice/1.png');
+  top: 27px;
+  left: 288px;
+}
+
+.n2 {
+  width: 12px;
+  height: 12px;
+  background-image: url('../imgs/alice/2.png');
+  top: 25px;
+  left: 306px;
+}
+
+.n3 {
+  width: 44px;
+  height: 19px;
+  background-image: url('../imgs/alice/3.png');
+  top: 35px;
+  left: 296px;
+}
+
+.n4 {
+  width: 13px;
+  height: 7px;
+  background-image: url('../imgs/alice/4.png');
+  top: 35px;
+  left: 323px;
+}
+
+.n5 {
+  width: 15px;
+  height: 11px;
+  background-image: url('../imgs/alice/5.png');
+  top: 93px;
+  left: 284px;
+}
+
+.n6 {
+  width: 100px;
+  height: 61px;
+  background-image: url('../imgs/alice/6.png');
+  top: 79px;
+  left: 254px;
+}
+
+.n7 {
+  width: 46px;
+  height: 15px;
+  background-image: url('../imgs/alice/7.png');
+  top: 97px;
+  left: 266px;
+}
+
+.n8 {
+  width: 78px;
+  height: 38px;
+  background-image: url('../imgs/alice/8.png');
+  top: 107px;
+  left: 305px;
+}
+
+.n9 {
+  width: 76px;
+  height: 47px;
+  background-image: url('../imgs/alice/9.png');
+  top: 141px;
+  left: 267px;
+}
+
+.n10 {
+  width: 116px;
+  height: 39px;
+  background-image: url('../imgs/alice/10.png');
+  top: 158px;
+  left: 255px;
+}
+
+.n11 {
+  width: 123px;
+  height: 66px;
+  background-image: url('../imgs/alice/11.png');
+  top: 178px;
+  left: 246px;
+}
+
+.n12 {
+  width: 123px;
+  height: 80px;
+  background-image: url('../imgs/alice/12.png');
+  top: 206px;
+  left: 232px;
+}
+
+.n13 {
+  width: 120px;
+  height: 152px;
+  background-image: url('../imgs/alice/13.png');
+  top: 203px;
+  left: 265px;
+}
+
+/************/
+
+
 #top_wrapper
 {
   width: 994px;
