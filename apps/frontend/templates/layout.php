@@ -29,6 +29,7 @@
   <link href="css/style.css" rel="stylesheet" type="text/css" />
 <!--  <script type="text/javascript" src="js/jquery-1.5.1.js"></script>-->
   <script type="text/javascript" src="js/imgbox.js"></script>
+
 </head>
 
 <?php $a_bodyclass = '' ?>
@@ -45,7 +46,7 @@
 
 <div id="ni_wrap">
 
-	<?php include_partial('a/doNotEdit') ?>
+  <?php include_partial('a/doNotEdit') ?>
 
   <?php include_partial('a/globalTools') ?>
 
@@ -64,16 +65,26 @@
   <div id="top_wrapper">
 
       <div id="alice" class="eclatee">
-      <div class="n1"></div><div class="n2"></div><div class="n3"></div><div class="n4"></div><div class="n5"></div>
-          <div class="n6"></div><div class="n7"></div><div class="n8"></div><div class="n9"></div><div class="n10"></div>
-          <div class="n11"></div><div class="n12"></div><div class="n13"></div>
+        <div class="n1"></div>
+        <div class="n2"></div>
+        <div class="n3"></div>
+        <div class="n4"></div>
+        <div class="n5"></div>
+        <div class="n6"></div>
+        <div class="n7"></div>
+        <div class="n8"></div>
+        <div class="n9"></div>
+        <div class="n10"></div>
+        <div class="n11"></div>
+        <div class="n12"></div>
+        <div class="n13"></div>
       </div>
 
   	<div id="ni_logo"></div>
 
     <div id="img_box">
 
-    	<div id="cache"></div>
+      <div id="cache"></div>
 
       <div id="demoSliderContainer">
 
