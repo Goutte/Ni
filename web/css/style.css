@@ -182,11 +182,13 @@ h5 {
     left: 200px;
     overflow: visible;
     opacity: 0;
+    pointer-events: none;
     z-index: 10;
 }
 
 .n1, .n2, .n3, .n4, .n5, .n6, .n7, .n8, .n9, .n10, .n11, .n12, .n13 {
     position: absolute;
+    pointer-events: none;
     -webkit-transition: all 1.2s cubic-bezier(.69,.23,.85,.39);
     -moz-transition: all 1.2s cubic-bezier(.69,.23,.85,.39);
     -o-transition: all 1.2s cubic-bezier(.69,.23,.85,.39);

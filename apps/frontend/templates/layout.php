@@ -51,7 +51,6 @@
   <?php include_partial('a/globalTools') ?>
 
   <ul id="ni_menu" class="quicktrans">
-
     <li class="itm_side"></li>
     <li class="itm_cont"><a href="/"><span class="txt_menu_effect itm1">accueil</span><span class="txt_white">.</span></a></li>
     <li class="itm_cont"><a href="/le-groupe"><span class="txt_menu_effect itm2">le groupe</span><span class="txt_white">.</span></a></li>
