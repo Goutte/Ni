@@ -79,13 +79,27 @@
 
         <ul id="demoSlider" class="slide-images">
           <li class="slide-image">
+            <img src="imgs/pics/ni_frben.jpg" />
+          </li>
+
+          <li class="slide-image">
+            <img src="imgs/pics/ni_antnic.jpg" />
+          </li>
+
+          <li class="slide-image">
+            <img src="imgs/pics/ni_fran.jpg" />
+          </li>
+
+          <li class="slide-image">
             <img src="imgs/pics/ni_ben.jpg" />
-            <span>Ben</span>
+          </li>
+
+          <li class="slide-image">
+            <img src="imgs/pics/ni_nic.jpg" />
           </li>
 
           <li class="slide-image">
             <img src="imgs/pics/ni_scene.jpg" />
-            <span>Scene</span>
           </li>
         </ul>
 
@@ -151,8 +165,8 @@
 
     <div class="rgt_box_top" id="rgt_scl"></div>
     <div class="rgt_box_body">
-    	<img class="img_fb" src="imgs/soc_fb.png" width="202" height="97" alt="Rejoignez-nous sur Facebook !">
-      <img class="img_mysp" src="imgs/soc_mysp.png" width="202" height="97" alt="Rejoignez-nous sur Myspace !">
+    	<a href="#"><img class="img_fb" src="imgs/soc_fb.png" width="202" height="97" alt="Rejoignez-nous sur Facebook !"></a>
+      <a href="#"><img class="img_mysp" src="imgs/soc_mysp.png" width="202" height="97" alt="Rejoignez-nous sur Myspace !"></a>
       </div>
 
     </div>

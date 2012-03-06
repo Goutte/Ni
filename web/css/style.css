@@ -61,7 +61,7 @@ h5 {
 
 #ni_wrap {
     width: 994px;
-    margin: auto;
+    margin: 0px auto 50px auto;
 }
 
 .quicktrans {
@@ -374,7 +374,7 @@ h5 {
 /****************/
 
 #img_box {
-    background: url(../imgs/imgbox_bck.png);
+    /*background: url(../imgs/imgbox_bck.png);*/
     height: 274px;
     width: 460px;
     position: absolute;
@@ -546,6 +546,14 @@ div.post.singleColumnTemplate {
     margin-left: 21px;
 }
 
+#a-area-9-body {
+  width: 620px;
+}
+
+#cke_slot-form-9-body-2-value {
+  width: auto;
+}
+
 /** RGT BOXES **/
 
 .rgt_box_top {
@@ -597,7 +605,7 @@ div.post.singleColumnTemplate {
 
 #ni_btm {
     width: 820px;
-    margin: 60px auto 50px auto;
+    margin: 60px auto 0px auto;
     text-align: center;
 }
 
