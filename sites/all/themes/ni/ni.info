@@ -1,0 +1,13 @@
+name = Ni Theme
+description = Ni Theme
+package = Core
+version = VERSION
+core = 7.x
+stylesheets[all][] = layout.css
+scripts[] = .js
+
+; Information added by drupal.org packaging script on 2012-02-01
+version = "7.12"
+project = "drupal"
+datestamp = "1328134560"
+
