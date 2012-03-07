@@ -19,7 +19,7 @@
  * @method aPageToASearchDocument setASearchDocument()      Sets the current record's "aSearchDocument" value
  * @method aPageToASearchDocument setAPage()                Sets the current record's "aPage" value
  * 
- * @package    asandbox
+ * @package    ni
  * @subpackage model
  * @author     Your name here
  * @version    SVN: $Id: Builder.php 7490 2010-03-29 19:53:27Z jwage $
