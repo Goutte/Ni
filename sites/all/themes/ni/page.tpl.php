@@ -1,5 +1,11 @@
 <?php
 ?>
+
+<?php
+  drupal_add_js('sites/all/themes/ni/script.js');
+  drupal_add_js('sites/all/themes/ni/script2.js');
+?>
+
   <?php print render($page['header']); ?>
 
 <div id="ni_wrap">
@@ -34,27 +40,27 @@
 
         <ul id="demoSlider" class="slide-images">
           <li class="slide-image">
-            <img src="imgs/pics/ni_frben.jpg" />
+            <img src="sites/all/themes/ni/imgs/pics/ni_frben.jpg" />
           </li>
 
           <li class="slide-image">
-            <img src="imgs/pics/ni_antnic.jpg" />
+            <img src="sites/all/themes/ni/imgs/pics/ni_antnic.jpg" />
           </li>
 
           <li class="slide-image">
-            <img src="imgs/pics/ni_fran.jpg" />
+            <img src="sites/all/themes/ni/imgs/pics/ni_fran.jpg" />
           </li>
 
           <li class="slide-image">
-            <img src="imgs/pics/ni_ben.jpg" />
+            <img src="sites/all/themes/ni/imgs/pics/ni_ben.jpg" />
           </li>
 
           <li class="slide-image">
-            <img src="imgs/pics/ni_nic.jpg" />
+            <img src="sites/all/themes/ni/imgs/pics/ni_nic.jpg" />
           </li>
 
           <li class="slide-image">
-            <img src="imgs/pics/ni_scene.jpg" />
+            <img src="sites/all/themes/ni/imgs/pics/ni_scene.jpg" />
           </li>
         </ul>
 
@@ -87,7 +93,7 @@
   <div id="content_wrap">
 
 		<div id="main_box">
-    	<div id="bx_top" class=""></div>
+    	<div id="bx_top" class="default"></div>
       <div id="bx_body">
 
 
@@ -109,7 +115,6 @@
                   <div class="clearfix">
                     <?php print render($page['content']); ?>
                   </div>
-                  <?php print $feed_icons ?>
                   <?php print render($page['footer']); ?>
               </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
 

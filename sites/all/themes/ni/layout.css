@@ -581,7 +581,6 @@ div.post.singleColumnTemplate {
     width: 620px; /*(700-38-42)*/
     padding: 0px 38px 0px 42px;
     text-align: justify;
-    overflow: auto;
 }
 
 #bx_body p {
@@ -679,4 +678,45 @@ p.footer1 {
 p.footer2 {
     color: #292c23;
     margin: 0px;
+}
+
+
+/***************/
+/** FIX ADMIN **/
+
+ul.primary li a {
+  background-color: #000;
+}
+
+ul.primary li a:hover {
+  background-color: #222;
+}
+
+.admin-list dd {
+  margin-bottom: 10px;
+}
+
+.admin-list dt {
+  margin-bottom: 5px;
+}
+
+ul.tabs {
+  margin-bottom: 10px;
+}
+
+.breadcrumb {
+  margin-bottom: 20px;
+}
+
+h1.with-tabs {
+  margin-bottom: 20px;
+}
+
+.admin-panel h3 {
+  margin-bottom: 10px;
+}
+
+tr.even, tr.odd {
+  background-color: #222;
+  border-bottom: 1px solid #000;
 }
