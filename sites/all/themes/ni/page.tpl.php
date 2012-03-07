@@ -1,9 +1,5 @@
 <?php
-?>
-
-<?php
-  drupal_add_js('sites/all/themes/ni/script.js');
-  drupal_add_js('sites/all/themes/ni/script2.js');
+  drupal_add_js('sites/all/themes/ni/ni.js');
 ?>
 
   <?php print render($page['header']); ?>
