@@ -1,0 +1,113 @@
+aPerson:
+  actAs:
+    Timestampable: ~
+    Sluggable: 
+      fields: [name]
+    Taggable: ~
+  columns:
+    first_name:
+      type: string(255)
+      notnull: true
+    middle_name:
+      type: string(255)
+    last_name:
+      type: string(255)
+      notnull: true
+    salutation:
+      type: string(255)
+    suffix:
+      type: string(255)
+    email:
+      type: string(255)
+      notnull: true
+    address_1:
+      type: string(255)
+    address_2:
+      type: string(255)
+    city:
+      type: string(255)
+    state:
+      type: string(255)
+    postal_code:
+      type: string(255)
+    work_phone:
+      type: string(255)
+    work_fax:
+      type: string(255)
+    body:
+      type: string
+    link:
+      type: string(255)
+    headshot_id:
+      type: integer
+      
+    # Most projects don't need or want these columns. If you are gathering this data for
+    # statistical reporting purposes, you can add these columns to your schema.yml at
+    # project level and let Symfony merge them for you
+
+    # sex:
+    #   type: enum
+    #   length: 1
+    #   values:
+    #     - "M"
+    #     - "F"
+    #   default: ""
+    # ethnicity:
+    #   type: string(255)
+
+  relations:
+    Headshot:
+      class: aMediaItem
+      local: headshot_id
+      foreign: id
+      type: one
+      onDelete: SET NULL
+    Categories:
+      class: aCategory
+      refClass: aPersonToACategory
+      local: person_id
+      foreign: category_id
+
+aPersonToACategory:
+  actAs:
+    Timestampable: ~
+  columns:
+    person_id:
+      type: integer
+      primary: true
+    category_id:
+      type: integer
+      primary: true
+  relations:
+    Person:
+      class: aPerson
+      local: person_id
+      onDelete: CASCADE
+    Category:
+      class: aCategory
+      local: category_id
+      onDelete: CASCADE
+    
+aPeopleSlot:
+  # Doctrine doesn't produce useful forms with column aggregation inheritance anyway,
+  # and slots often use serialization into the value column... the Doctrine forms are not
+  # of much use here and they clutter the project
+  options:
+    symfony:
+      form:   false
+      filter: false
+
+  # columns:
+  #
+  # You can add columns here. However, if you do not need foreign key relationships it is
+  # often easier to store your data in the 'value' column via serialize(). If you do add columns, 
+  # their names must be unique across all slots in your project, so use a unique prefix 
+  # for your company.
+    
+  # This is how we are able to retrieve slots of various types with a single query from
+  # a single table
+  inheritance:
+    extends: aSlot
+    type: column_aggregation
+    keyField: type
+    keyValue: 'People'
