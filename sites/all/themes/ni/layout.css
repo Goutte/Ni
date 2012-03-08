@@ -620,6 +620,10 @@ div.post.singleColumnTemplate {
     width: 700px;
 }
 
+.html #bx_top {
+    background: url(imgs/niouzes_head.png);
+}
+
 .page-node #bx_top {
     background: url(imgs/niouzes_head.png);
 }
