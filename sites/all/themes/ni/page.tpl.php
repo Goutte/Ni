@@ -9,11 +9,11 @@
   <ul id="ni_menu" class="quicktrans">
 
     <li class="itm_side"></li>
-    <li class="itm_cont"><a href="/"><span class="txt_menu_effect itm1">accueil</span><span class="txt_white">.</span></a></li>
-    <li class="itm_cont"><a href="/le-groupe"><span class="txt_menu_effect itm2">le groupe</span><span class="txt_white">.</span></a></li>
-    <li class="itm_cont"><a href="/concerts"><span class="txt_menu_effect itm3">concerts</span><span class="txt_white">.</span></a></li>
-    <li class="itm_cont"><a href="/albums"><span class="txt_menu_effect itm4">albums</span><span class="txt_white">.</span></a></li>
-    <li class="itm_cont"><a href="/contact"><span class="txt_menu_effect itm5">contact</span><span class="txt_white">.</span></a></li>
+    <li class="itm_cont i1"><a href="/"><span class="txt_menu_effect itm1">accueil</span><span class="txt_white">.</span></a></li>
+    <li class="itm_cont i2"><a href="/le-groupe"><span class="txt_menu_effect itm2">le groupe</span><span class="txt_white">.</span></a></li>
+    <li class="itm_cont i3"><a href="/concerts"><span class="txt_menu_effect itm3">concerts</span><span class="txt_white">.</span></a></li>
+    <li class="itm_cont i4"><a href="/albums"><span class="txt_menu_effect itm4">albums</span><span class="txt_white">.</span></a></li>
+    <li class="itm_cont i5"><a href="/contact"><span class="txt_menu_effect itm5">contact</span><span class="txt_white">.</span></a></li>
     <li class="itm_side"></li>
 
   </ul> <!-- FIN ni_menu -->

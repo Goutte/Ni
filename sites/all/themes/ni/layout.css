@@ -99,6 +99,12 @@ h5 {
     text-decoration: underline;
 }
 
+.pinky {
+  color: #ff3399;
+  font-weight: bold;
+  font-size: 14px;
+}
+
 .separateur {
     background: url(imgs/man_sep.png);
     height: 1px;
@@ -222,6 +228,51 @@ h5 {
 
 .itm5 {
     color: #c6ec8e;
+}
+
+.front .itm_cont.i1 {
+  background-position: 3px 0px;
+  cursor: pointer;
+}
+
+.front .itm_cont.i1 .itm1 {
+  color: #ff2d8e;
+}
+
+.page-node-4 .itm_cont.i2 {
+  background-position: 3px 0px;
+  cursor: pointer;
+}
+
+.page-node-4 .itm_cont.i2 .itm2 {
+  color: #ff2d8e;
+}
+
+.page-node-5 .itm_cont.i3 {
+  background-position: 3px 0px;
+  cursor: pointer;
+}
+
+.page-node-5 .itm_cont.i3 .itm3 {
+  color: #ff2d8e;
+}
+
+.page-node-6 .itm_cont.i4 {
+  background-position: 3px 0px;
+  cursor: pointer;
+}
+
+.page-node-6 .itm_cont.i4 .itm4 {
+  color: #ff2d8e;
+}
+
+.page-node-7 .itm_cont.i5 {
+  background-position: 3px 0px;
+  cursor: pointer;
+}
+
+.page-node-7 .itm_cont.i5 .itm5 {
+  color: #ff2d8e;
 }
 
 /*************/
@@ -569,23 +620,23 @@ div.post.singleColumnTemplate {
     width: 700px;
 }
 
-#bx_top.default {
+.page-node #bx_top {
     background: url(imgs/niouzes_head.png);
 }
 
-#bx_top.le-groupe {
+.page-node-4 #bx_top {
     background: url(imgs/grpe_head.png);
 }
 
-#bx_top.concerts {
+.page-node-5 #bx_top {
     background: url(imgs/concert_head.png);
 }
 
-#bx_top.albums {
+.page-node-6 #bx_top {
     background: url(imgs/alb_head.png);
 }
 
-#bx_top.contact {
+.page-node-7 #bx_top {
     background: url(imgs/cntct_head.png);
 }
 
@@ -643,7 +694,7 @@ div.post.singleColumnTemplate {
     height: 35px;
 }
 
-.region-bloconcerts p {
+.region-bloconcerts {
   padding-top: 0px;
   font-weight: bold;
 }
@@ -745,6 +796,7 @@ tr.even, tr.odd {
 
 .block-system h2 {
   color: #ff3399;
+  margin-bottom: 10px;
 }
 
 .block-system div.content ul.menu {
@@ -758,4 +810,12 @@ ul li.leaf {
 
 li a.active {
   color: #FFF;
+}
+
+.preview .node {
+  background-color: #222;
+}
+
+ul.inline, ul.links.inline {
+  display: none;
 }
