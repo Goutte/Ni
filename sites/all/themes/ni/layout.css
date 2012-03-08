@@ -540,6 +540,19 @@ h5 {
     margin: -2px 0px 0px 5px;
 }
 
+.node-page-de-news {
+  margin-bottom: 30px;
+}
+
+ul.inline li {
+  padding: 0px;
+  font-size: 9px;
+}
+
+ul.inline li a {
+  color: #77954b;
+}
+
 div.post.singleColumnTemplate {
     position: relative;
 }
@@ -579,13 +592,13 @@ div.post.singleColumnTemplate {
 #main_box #bx_body {
     background: url(imgs/main_box_bck.png);
     width: 620px; /*(700-38-42)*/
-    padding: 0px 38px 0px 42px;
+    padding: 20px 38px 0px 42px;
     text-align: justify;
 }
 
 #bx_body p {
     margin: 0px; /* Hack anti disparition de background */
-    padding: 10px 0px 10px 0px;
+    padding: 10px 0px 5px 0px;
 }
 
 #main_box #bx_bottom {
@@ -628,6 +641,11 @@ div.post.singleColumnTemplate {
 #rgt_conc {
     background: url(imgs/cncrt_head.png);
     height: 35px;
+}
+
+.region-bloconcerts p {
+  padding-top: 0px;
+  font-weight: bold;
 }
 
 /** MUSIC BOX **/
@@ -719,4 +737,25 @@ h1.with-tabs {
 tr.even, tr.odd {
   background-color: #222;
   border-bottom: 1px solid #000;
+}
+
+.block-system {
+  margin-bottom: 20px;
+}
+
+.block-system h2 {
+  color: #ff3399;
+}
+
+.block-system div.content ul.menu {
+  text-align: center;
+}
+
+ul li.leaf {
+  list-style-type: none;
+  list-style-image: url()
+}
+
+li a.active {
+  color: #FFF;
 }

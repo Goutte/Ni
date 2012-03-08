@@ -1,4 +1,4 @@
-name = Ni Theme
+name = nitheme
 description = Ni Theme
 package = Core
 version = VERSION
@@ -6,6 +6,19 @@ core = 7.x
 
 stylesheets[all][] = layout.css
 scripts[] = ni.js
+
+regions[header] = Header
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+regions[highlighted] = Highlighted
+
+regions[featured] = Featured
+regions[content] = Content
+regions[sidebar_first] = Sidebar first
+regions[sidebar_second] = Sidebar second
+
+regions[bloconcerts] = Bloc Concerts
 
 ; Information added by drupal.org packaging script on 2012-02-01
 version = "7.12"

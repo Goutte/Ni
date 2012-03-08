@@ -94,14 +94,9 @@
 
 
         <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
-                  <?php print $breadcrumb; ?>
-                  <?php if ($page['highlighted']): ?><div id="highlighted"><?php print render($page['highlighted']); ?></div><?php endif; ?>
                   <a id="main-content"></a>
                   <?php if ($tabs): ?><div id="tabs-wrapper" class="clearfix"><?php endif; ?>
                   <?php print render($title_prefix); ?>
-                  <?php if ($title): ?>
-                    <h1<?php print $tabs ? ' class="with-tabs"' : '' ?>><?php print $title ?></h1>
-                  <?php endif; ?>
                   <?php print render($title_suffix); ?>
                   <?php if ($tabs): ?><?php print render($tabs); ?></div><?php endif; ?>
                   <?php print render($tabs2); ?>
@@ -124,13 +119,14 @@
 
     <div id="rgt_col">
 
-    <div class="rgt_box_top" id="rgt_conc"></div>
+    <div class="rgt_box_top" id="rgt_conc">
+    </div>
     <div class="rgt_box_body">
-
+      <?php print render($page['bloconcerts']); ?>
     </div>
 
-    <!-- <div class="rgt_box_top" id="rgt_msc"></div>
-    <div class="rgt_box_body"></div> -->
+    <div class="rgt_box_top" id="rgt_msc"></div>
+    <div class="rgt_box_body"></div>
 
     <div class="rgt_box_top" id="rgt_scl"></div>
     <div class="rgt_box_body">
