@@ -7,7 +7,7 @@
 # OS generated files #
 ######################
 .DS_Store*
-ehthumbs.db
+*thumbs.db
 Icon?
 Thumbs.db
 
@@ -17,6 +17,7 @@ Thumbs.db
 ######################
 
 config/databases.yml
+sites/default/settings.php
 
 cache/*
 log/*

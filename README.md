@@ -1,3 +1,14 @@
+
+
+Config is in sites/default/settings.php
+
+
+
+
+
+OLD STUFF
+=========
+
 # RÉPARER UN RAGNAROK BDD
 
     php symfony cc
