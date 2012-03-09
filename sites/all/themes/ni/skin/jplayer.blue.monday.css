@@ -26,12 +26,12 @@ div.jp-video {
 	font-family:Verdana, Arial, sans-serif;
 	line-height:1.6;
 	color: #666;
-	border:1px solid #009be3;
 	background-color:#eee;
 	position:relative;
 }
 div.jp-audio {
-	width:420px;
+	width:200px;
+  margin-left: 11px;
 }
 div.jp-video-270p {
 	width:480px;
@@ -73,7 +73,7 @@ div.jp-video-full div.jp-interface {
 
 div.jp-interface {
 	position: relative;
-	background-color:#eee;
+	background-color:#000;
 	width:100%;
 }
 
@@ -81,7 +81,7 @@ div.jp-audio div.jp-type-single div.jp-interface {
 	height:80px;
 }
 div.jp-audio div.jp-type-playlist div.jp-interface {
-	height:80px;
+	height:100px;
 }
 
 div.jp-video div.jp-interface {
@@ -92,7 +92,7 @@ div.jp-video div.jp-interface {
 
 div.jp-controls-holder {
 	clear: both;
-	width:440px;
+	width:180px;
 	margin:0 auto;
 	position: relative;
 	overflow:hidden;
@@ -107,8 +107,8 @@ div.jp-interface ul.jp-controls {
 }
 
 div.jp-audio ul.jp-controls {
-	width: 380px;
-	padding:20px 20px 0 20px;
+	width: 180px;
+	padding:10px 0px 0 10px;
 }
 
 div.jp-video div.jp-type-single ul.jp-controls {
@@ -190,16 +190,16 @@ div.jp-progress {
 }
 div.jp-audio div.jp-progress {
 	position: absolute;
-	top:32px;
+	top:58px;
 	height:15px;
 }
 div.jp-audio div.jp-type-single div.jp-progress {
-	left:110px;
-	width:186px;
+	left:44px;
+	width:132px;
 }
 div.jp-audio div.jp-type-playlist div.jp-progress {
-	left:166px;
-	width:130px;
+	left:10px;
+	width:180px;
 }
 div.jp-video div.jp-progress {
 	top:0px;
@@ -263,7 +263,8 @@ div.jp-video a.jp-mute,
 div.jp-video a.jp-unmute {
 	left: 50px;
 }
-
+
+
 div.jp-video a.jp-volume-max {
 	left: 134px;
 }
@@ -281,7 +282,8 @@ a.jp-unmute {
 a.jp-unmute:hover {
 	background: url("jplayer.blue.monday.jpg") -79px -170px no-repeat;
 }
-a.jp-volume-max {
+
+a.jp-volume-max {
 	background: url("jplayer.blue.monday.jpg") 0 -186px no-repeat;
 }
 a.jp-volume-max:hover {
@@ -292,13 +294,13 @@ div.jp-volume-bar {
 	position: absolute;
 	overflow:hidden;
 	background: url("jplayer.blue.monday.jpg") 0 -250px repeat-x;
-	width:46px;
+	width:34px;
 	height:5px;
 	cursor: pointer;
 }
 div.jp-audio div.jp-volume-bar {
 	top:37px;
-	left:330px;
+	left:155px;
 }
 div.jp-video div.jp-volume-bar {
 	top:17px;
@@ -316,20 +318,20 @@ div.jp-volume-bar-value {
 
 div.jp-audio div.jp-time-holder {
 	position:absolute;
-	top:50px;
+	top:74px;
 }
 div.jp-audio div.jp-type-single div.jp-time-holder {
-	left:110px;
-	width:186px;
+	left:11px;
+	width:180px;
 }
 div.jp-audio div.jp-type-playlist div.jp-time-holder {
-	left:166px;
-	width:130px;
+	left:10px;
+	width:180px;
 }
 
 div.jp-current-time,
 div.jp-duration {
-	width:60px;
+	width:36px;
 	font-size:.64em;
 	font-style:oblique;
 }
@@ -341,6 +343,7 @@ div.jp-duration {
 	float: right;
 	display:inline;
 	text-align: right;
+  margin-right: 4px;
 }
 
 div.jp-video div.jp-current-time {
@@ -362,8 +365,7 @@ div.jp-title {
 div.jp-title,
 div.jp-playlist {
 	width:100%;
-	background-color:#ccc;
-	border-top:1px solid #009be3;
+	background-color:#000;
 }
 div.jp-type-single div.jp-title,
 div.jp-type-playlist div.jp-title,
@@ -383,8 +385,8 @@ div.jp-title li {
 	font-weight:bold;
 }
 div.jp-playlist li {
-	padding:5px 0 4px 20px;
-	border-bottom:1px solid #eee;
+	padding:5px 0 4px 0px;
+	border-bottom:1px solid #222;
 }
 
 div.jp-playlist li div {
@@ -394,23 +396,21 @@ div.jp-playlist li div {
 /* Note that the first-child (IE6) and last-child (IE6/7/8) selectors do not work on IE */
 
 div.jp-type-playlist div.jp-playlist li:last-child {
-	padding:5px 0 5px 20px;
+	padding:5px 0 5px 0px;
 	border-bottom:none;
 }
 div.jp-type-playlist div.jp-playlist li.jp-playlist-current {
-	list-style-type:square;
-	list-style-position:inside;
-	padding-left:7px;
+	list-style-type:none;
 }
 div.jp-type-playlist div.jp-playlist a {
-	color: #333;
+	color: #d7e0bc;
 	text-decoration: none;
 }
 div.jp-type-playlist div.jp-playlist a:hover {
-	color:#0d88c1;
+	color:#b7e771;
 }
 div.jp-type-playlist div.jp-playlist a.jp-playlist-current {
-	color:#0d88c1;
+	color:#b7e771;
 }
 
 div.jp-type-playlist div.jp-playlist a.jp-playlist-item-remove {
