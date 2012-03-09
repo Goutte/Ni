@@ -5,7 +5,7 @@ version = VERSION
 core = 7.x
 
 stylesheets[all][] = layout.css
-scripts[] = ni.js
+stylesheets[all][] = skin/jplayer.blue.monday.css
 
 regions[header] = Header
 regions[help] = Help
